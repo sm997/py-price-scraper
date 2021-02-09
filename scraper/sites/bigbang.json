@@ -1,0 +1,9 @@
+{
+  "pageName": "BigBang",
+  "pageUrl": "https://www.bigbang.si/izdelki/?search_q={query}&securecode=main_search",
+  "replaceKeyword": "{query}",
+  "productUrlHtmlHref": ".cp-title a",
+  "productHtmlEl": "article",
+  "productNameHtmlEl": ".cp-title a",
+  "priceHtmlEl": ".cp-current-price"
+}

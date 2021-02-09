@@ -1,0 +1,9 @@
+{
+  "pageName": "Mimovrste",
+  "pageUrl": "https://www.mimovrste.com/iskanje?s={query}",
+  "replaceKeyword": "{query}",
+  "productUrlHtmlHref": ".lst-product-item-title a",
+  "productHtmlEl": "article",
+  "productNameHtmlEl": ".lst-product-item-title a",
+  "priceHtmlEl": ".lst-product-item-price-value"
+}
