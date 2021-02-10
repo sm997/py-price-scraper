@@ -1,5 +1,5 @@
 from scraper.scripts import scraping, parsing
-from scraper.scripts.helpers import readFilesInDir
+from scraper.scripts.helpers import readFilesInDir, textToFile
 from scraper.scripts.models.site import Site
 
 
@@ -14,7 +14,9 @@ def getProductsFromAllSites(query):
 
 def getProductsFromSite(site, query):
     pageHtml = scraping.getPageHtml(site.getQueryUrl(query))
+    textToFile('../tmp', site.pageName + '.txt', pageHtml.text)
     productHtmlList = parsing.getProducts(pageHtml, site.productHtmlEl)
+
 
     res = []
     for productHtml in productHtmlList:

@@ -1,0 +1,9 @@
+{
+  "pageName": "Bolha",
+  "pageUrl": "https://www.bolha.com/?ctl=search_ads&keywords={query}",
+  "replaceKeyword": "{query}",
+  "productUrlHtmlHref": ".entity-title a",
+  "productHtmlEl": ".content-main article",
+  "productNameHtmlEl": ".entity-title a",
+  "priceHtmlEl": ".price"
+}

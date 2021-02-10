@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 def getProducts(page, element):
     soup = BeautifulSoup(page.content, 'html.parser')
-    products = soup.find_all(element)
+    products = soup.select(element)
     return products
 
 def getPrice(html, element):
