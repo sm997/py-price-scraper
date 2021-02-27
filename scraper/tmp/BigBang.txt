@@ -2868,7 +2868,7 @@ Prijavi se na e-novice in prvi prejmi najnovejše popuste.</div>
 								<a class="support-tel" href="tel:+38613626000">01 362 60 00</a>
 
 
-<p><span><a class="support-mail" href="/cdn-cgi/l/email-protection#2e4b5e5c414a4f444f6e4c47494c4f4049005d47"><span class="__cf_email__" data-cfemail="80e5f0f2efe4e1eae1c0e2e9e7e2e1eee7aef3e9">[email&#160;protected]</span></a></span></p>
+<p><span><a class="support-mail" href="/cdn-cgi/l/email-protection#5c392c2e33383d363d1c3e353b3e3d323b722f35"><span class="__cf_email__" data-cfemail="5b3e2b29343f3a313a1b39323c393a353c752832">[email&#160;protected]</span></a></span></p>
 
 <p><span class="support-opening-hours">Ponedeljek - Sobota: 9:00 - 20:00 </span></p>
 							</div>

@@ -52,8 +52,12 @@
         <input type="submit" value="Submit"/>
     </form>
     {% if result %}
-        {% for product in result %}
-            <h3>{{ product.0 }} - {{ product.1 }} </h3>
+        {% for key, value in result.items %}
+            <h2>{{ key }}</h2>
+            {% for product in value %}
+                <a href="{{product.2}}"><h3>{{product.0}} - {{product.1}}</h3></a>
+            {% endfor %}
+            <br>
         {% endfor %}
     {% endif %}
 </div>

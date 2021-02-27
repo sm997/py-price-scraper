@@ -43,11 +43,11 @@
         app.boot.push({"name":"Pagination","values":{"el":".PaginationContainer--bottom .Pagination"}});
         app.boot.push({"name":"MainSearchBox","values":{"el":"#search-main","minKeywordsLengthNecessary":true,"minKeywordsLengthMessage":"Vnesite izraz z vsaj 2 znakoma.","originalPlaceholder":"Kaj i\u0161\u010dete danes?","hasAutosuggest":true}});
         app.boot.push({"name":"SavedSearchCreate","values":{"el":".SavedSearchCreate","searchContext":"search","searchUrl":"index.php?ctl=search_ads&keywords=apple+watch+nike","savedSearchEditUrl":null,"loginUrl":"https:\/\/www.bolha.com\/prijava\/?returnUrl=\/?ctl%3Dsearch_ads%26keywords%3Dapple%20watch%20nike","formId":"detailedSearch","defaultSuggestedTitle":"apple watch nike","searchParameters":[],"hasMobilePushNotificationsSupport":true,"mobileAppIosAppStoreUrl":"https:\/\/apps.apple.com\/app\/id1540081488","mobileAppAndroidAppStoreUrl":"https:\/\/play.google.com\/store\/apps\/details?id=net.trikoder.android.bolha"}});
-        app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemRegularAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":5933975},{"hasCompare":false,"isAdInSavedList":false,"id":6401269},{"hasCompare":false,"isAdInSavedList":false,"id":5745268},{"hasCompare":false,"isAdInSavedList":false,"id":6394139},{"hasCompare":false,"isAdInSavedList":false,"id":5455575},{"hasCompare":false,"isAdInSavedList":false,"id":5851443},{"hasCompare":false,"isAdInSavedList":false,"id":5745446},{"hasCompare":false,"isAdInSavedList":false,"id":6405640},{"hasCompare":false,"isAdInSavedList":false,"id":5316514},{"hasCompare":false,"isAdInSavedList":false,"id":6212190},{"hasCompare":false,"isAdInSavedList":false,"id":3929622},{"hasCompare":false,"isAdInSavedList":false,"id":3428895},{"hasCompare":false,"isAdInSavedList":false,"id":4023403},{"hasCompare":false,"isAdInSavedList":false,"id":5316504},{"hasCompare":false,"isAdInSavedList":false,"id":6251921}]}});
+        app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemRegularAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":5933975},{"hasCompare":false,"isAdInSavedList":false,"id":6401269},{"hasCompare":false,"isAdInSavedList":false,"id":5745268},{"hasCompare":false,"isAdInSavedList":false,"id":6394139},{"hasCompare":false,"isAdInSavedList":false,"id":5455575},{"hasCompare":false,"isAdInSavedList":false,"id":5745446},{"hasCompare":false,"isAdInSavedList":false,"id":5851443},{"hasCompare":false,"isAdInSavedList":false,"id":6405640},{"hasCompare":false,"isAdInSavedList":false,"id":5316514},{"hasCompare":false,"isAdInSavedList":false,"id":6212190},{"hasCompare":false,"isAdInSavedList":false,"id":3929622},{"hasCompare":false,"isAdInSavedList":false,"id":3428895},{"hasCompare":false,"isAdInSavedList":false,"id":4023403},{"hasCompare":false,"isAdInSavedList":false,"id":5316504},{"hasCompare":false,"isAdInSavedList":false,"id":6251921}]}});
         app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemVauVauAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":6394139}]}});
-        app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemLatestAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":6409289},{"hasCompare":false,"isAdInSavedList":false,"id":6409288},{"hasCompare":false,"isAdInSavedList":false,"id":6409287},{"hasCompare":false,"isAdInSavedList":false,"id":6409286},{"hasCompare":false,"isAdInSavedList":false,"id":6409285},{"hasCompare":false,"isAdInSavedList":false,"id":6409284}]}});
+        app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemLatestAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":6409369},{"hasCompare":false,"isAdInSavedList":false,"id":6409370},{"hasCompare":false,"isAdInSavedList":false,"id":6409368},{"hasCompare":false,"isAdInSavedList":false,"id":6409367},{"hasCompare":false,"isAdInSavedList":false,"id":6409366},{"hasCompare":false,"isAdInSavedList":false,"id":6409365}]}});
         app.boot.push({"name":"EntityListCompare","values":{"items":[]}});
-        app.boot.push({"name":"ProcessApiCalls","values":{"apiQueueCacheKey":"api:0:aed24736f97e99fca4fe103211c56cd8","matchedRoute":"fw3k2.ctl_search_ads._execute"}});
+        app.boot.push({"name":"ProcessApiCalls","values":{"apiQueueCacheKey":"api:0:b07669a7347109624870919d4013c317","matchedRoute":"fw3k2.ctl_search_ads._execute"}});
         app.boot.push({"name":"LocationMapsService","values":{"locationMapsServiceName":"Mireo","locationMapsServiceSettings":{"mapStyle":"https:\/\/static.bolha.com\/dist\/79fd4a98e8e399186aed682db0be1a29_a1764494c3.json"}}});
         app.boot.push({"name":"PaginationBaseData","values":{"adjustedCanonicalUrl":""}});
     
@@ -1210,101 +1210,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         </li>
                 
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n6  bp-radix__faux-anchor  "  data-href="/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-oglas-5851443"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5851443}'>
-                <article class="entity-body cf">
-
-    
-                    <h3 class="entity-title"><a name="5851443" class="link" href="/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-oglas-5851443">Silikonski pašček NIKE 42/44 mm za Apple Watch 4 5 6</a></h3>
-        
-                    <div class="entity-thumbnail">
-                <a class="link" href="/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-oglas-5851443">
-                    <img
-                        class="img entity-thumbnail-img"
-                        src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-slika-21051099.jpg"
-                        alt="Silikonski pašček NIKE 42/44 mm za Apple Watch 4 5 6"
-                    />
-                    <noscript>
-                        <img
-                            class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-slika-21051099.jpg"
-                            alt="Silikonski pašček NIKE 42/44 mm za Apple Watch 4 5 6"
-                        />
-                    </noscript>
-                    <div class="entity-thumbnail-preloader">
-                        <div class="Preloader Preloader--center">
-                            <div class="Preloader-inner"></div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        
-        
-                    <div class="entity-description">
-
-                
-                
-                                    <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Ljubljana Vič Rudnik, Vič - Dolgi most<br />
-                                                                        </div>
-                
-            </div>
-        
-                    <div class="entity-pub-date">
-                <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-02-18T09:04:16+01:00" pubdate="pubdate">18.02.2021.</time>
-            </div>
-        
-        
-                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
-                            </div>
-        
-        
-                    <div class="entity-tools">
-                <ul class="tool-items">
-
-                                            <li class="tool-item">
-                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
-                        </li>
-                    
-                    
-                    
-                </ul>
-            </div>
-        
-                    <div class="entity-features">
-                <ul class="feature-items cf">
-
-                    
-                                            <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-oglas-5851443?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
-                        </li>
-                    
-                    
-                    
-                    
-                    
-                    
-                                    </ul>
-            </div>
-        
-        
-                    <div class="entity-prices">
-                <ul class="price-items cf">
-                                            <li class="price-item">
-                            <strong class="price price--hrk">
-                                10&nbsp;<span class="currency">€</span>                            </strong>
-                        </li>
-                                                            </ul>
-            </div>
-        
-        
-        
-    
-</article>
-            </li>
-            
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n7  bp-radix__faux-anchor  "  data-href="/pametne-ure-mobilna-telefonija/apple-watch-4-gps-44mm-space-grey-aluminium-black-nike-mu7j2hc-a-oglas-5745446"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5745446}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n6  bp-radix__faux-anchor  "  data-href="/pametne-ure-mobilna-telefonija/apple-watch-4-gps-44mm-space-grey-aluminium-black-nike-mu7j2hc-a-oglas-5745446"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5745446}'>
                 <article class="entity-body cf">
 
     
@@ -1388,6 +1294,100 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             <li class="price-item">
                             <strong class="price price--hrk">
                                 439,99&nbsp;<span class="currency">€</span>                            </strong>
+                        </li>
+                                                            </ul>
+            </div>
+        
+        
+        
+    
+</article>
+            </li>
+            
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n7  bp-radix__faux-anchor  "  data-href="/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-oglas-5851443"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5851443}'>
+                <article class="entity-body cf">
+
+    
+                    <h3 class="entity-title"><a name="5851443" class="link" href="/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-oglas-5851443">Silikonski pašček NIKE 42/44 mm za Apple Watch 4 5 6</a></h3>
+        
+                    <div class="entity-thumbnail">
+                <a class="link" href="/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-oglas-5851443">
+                    <img
+                        class="img entity-thumbnail-img"
+                        src="https://static.bolha.com/dist/e57e14f619.png"
+                        data-src="//www.bolha.com/image-200x150/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-slika-21051099.jpg"
+                        alt="Silikonski pašček NIKE 42/44 mm za Apple Watch 4 5 6"
+                    />
+                    <noscript>
+                        <img
+                            class="img entity-thumbnail-img"
+                            src="//www.bolha.com/image-200x150/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-slika-21051099.jpg"
+                            alt="Silikonski pašček NIKE 42/44 mm za Apple Watch 4 5 6"
+                        />
+                    </noscript>
+                    <div class="entity-thumbnail-preloader">
+                        <div class="Preloader Preloader--center">
+                            <div class="Preloader-inner"></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        
+        
+                    <div class="entity-description">
+
+                
+                
+                                    <div class="entity-description-main">
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Ljubljana Vič Rudnik, Vič - Dolgi most<br />
+                                                                        </div>
+                
+            </div>
+        
+                    <div class="entity-pub-date">
+                <span class="label">Objavljen:</span>
+                <time class="date date--full" datetime="2021-02-18T09:04:16+01:00" pubdate="pubdate">18.02.2021.</time>
+            </div>
+        
+        
+                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
+                            </div>
+        
+        
+                    <div class="entity-tools">
+                <ul class="tool-items">
+
+                                            <li class="tool-item">
+                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
+                        </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+        
+                    <div class="entity-features">
+                <ul class="feature-items cf">
+
+                    
+                                            <li class="feature-item">
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-oglas-5851443?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                        </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                                    </ul>
+            </div>
+        
+        
+                    <div class="entity-prices">
+                <ul class="price-items cf">
+                                            <li class="price-item">
+                            <strong class="price price--hrk">
+                                10&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -2461,11 +2461,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="EntityList EntityList--Small EntityList--Latest EntityList--ListItemLatestAd EntityList--itemCount_6">
             <ul class="EntityList-items">
 
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n1  bp-radix__faux-anchor  "  data-href="/od-0-do-13-kg/lupinica-cosatto-hold-uk-znamka-oglas-6409289"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409289}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n1  bp-radix__faux-anchor  "  data-href="/fendt/fendt-309-ca-stoll-robust-f-15-hdpm-oglas-6409369"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409369}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6409289" class="link" href="/od-0-do-13-kg/lupinica-cosatto-hold-uk-znamka-oglas-6409289">Lupinica Cosatto HOLD (UK znamka)</a></h3>
+                    <h3 class="entity-title"><a name="6409369" class="link" href="/fendt/fendt-309-ca-stoll-robust-f-15-hdpm-oglas-6409369">Fendt 309 CA + Stoll Robust F 15 HDPM</a></h3>
         
         
         
@@ -2492,11 +2492,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n2  bp-radix__faux-anchor  "  data-href="/za-canon/kupim-canon-17-35mm-f2.8-l-oglas-6409288"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409288}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n2  bp-radix__faux-anchor  "  data-href="/alu-platisca/original-bmw-platisca-18-luknje-5x120-kolicina-4-bmw-serija-7-oglas-6409370"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409370}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6409288" class="link" href="/za-canon/kupim-canon-17-35mm-f2.8-l-oglas-6409288">Kupim Canon 17 - 35mm f2.8 l</a></h3>
+                    <h3 class="entity-title"><a name="6409370" class="link" href="/alu-platisca/original-bmw-platisca-18-luknje-5x120-kolicina-4-bmw-serija-7-oglas-6409370">Original BMW Platišča 18&#039;&#039; luknje 5x120, količina: 4, BMW serija 7</a></h3>
         
         
         
@@ -2523,11 +2523,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n3  bp-radix__faux-anchor  "  data-href="/stenske-barve/jupol-gold-advanced-roza-barve-430e-oglas-6409287"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409287}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n3  bp-radix__faux-anchor  "  data-href="/slascicarska-oprema/vozicek-odlaganje-pladnjev-oglas-6409368"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409368}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6409287" class="link" href="/stenske-barve/jupol-gold-advanced-roza-barve-430e-oglas-6409287">JUPOL GOLD ADVANCED ROZA BARVE 430E</a></h3>
+                    <h3 class="entity-title"><a name="6409368" class="link" href="/slascicarska-oprema/vozicek-odlaganje-pladnjev-oglas-6409368">VOZIČEK ZA ODLAGANJE PLADNJEV</a></h3>
         
         
         
@@ -2554,11 +2554,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n4  bp-radix__faux-anchor  "  data-href="/rekreacija-sport-ostalo/pohodne-palice-oglas-6409286"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409286}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n4  bp-radix__faux-anchor  "  data-href="/duhovnost-strokovna-literatura-prirocniki/white-preroki-in-kralji-oglas-6409367"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409367}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6409286" class="link" href="/rekreacija-sport-ostalo/pohodne-palice-oglas-6409286">POHODNE PALICE</a></h3>
+                    <h3 class="entity-title"><a name="6409367" class="link" href="/duhovnost-strokovna-literatura-prirocniki/white-preroki-in-kralji-oglas-6409367">WHITE PREROKI IN KRALJI</a></h3>
         
         
         
@@ -2585,11 +2585,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n5  bp-radix__faux-anchor  "  data-href="/omare-skrinje-starinsko-pohistvo/stara-omara-oglas-6409285"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409285}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n5  bp-radix__faux-anchor  "  data-href="/kuhinjske-armature/kuhinjska-pipa-oglas-6409366"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409366}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6409285" class="link" href="/omare-skrinje-starinsko-pohistvo/stara-omara-oglas-6409285">Stara omara</a></h3>
+                    <h3 class="entity-title"><a name="6409366" class="link" href="/kuhinjske-armature/kuhinjska-pipa-oglas-6409366">Kuhinjska pipa - NOVA</a></h3>
         
         
         
@@ -2616,11 +2616,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n6  bp-radix__faux-anchor  "  data-href="/spalnice-komplet/simbolicno-ceno-prodam-komplet-spalnico-oglas-6409284"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409284}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n6  bp-radix__faux-anchor  "  data-href="/sandali-zenska-oblacila-obutev/nikoli-noseni-sandali-st-38-oglas-6409365"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409365}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6409284" class="link" href="/spalnice-komplet/simbolicno-ceno-prodam-komplet-spalnico-oglas-6409284">Za simbolično ceno prodam komplet spalnico</a></h3>
+                    <h3 class="entity-title"><a name="6409365" class="link" href="/sandali-zenska-oblacila-obutev/nikoli-noseni-sandali-st-38-oglas-6409365">Novi nikoli nošeni sandali st 38</a></h3>
         
         
         

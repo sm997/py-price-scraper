@@ -2160,7 +2160,7 @@ in 2 trgovini</h3></div></div></div><div class="content-slider--box"><div class=
 
 
 
-<script type="text/javascript" src="/script/configuration?h=configsi10siace5eb2002a85b7989c8bd4aa935d2e98934bb21f30bc7dd82e671739c595b3d47b40981e9ea77c3300a484a9b066cad40cd750bba9870f18aada2478b24840a&url=/script/configuration?h=configsi10siace5eb2002a85b7989c8bd4aa935d2e98934bb21f30bc7dd82e671739c595b3d47b40981e9ea77c3300a484a9b066cad40cd750bba9870f18aada2478b24840a"></script>
+<script type="text/javascript" src="/script/configuration?h=configsi10si22136d4138b8b8fa2bc858aa38cbed4e8934bb21f30bc7dd82e671739c595b3d47b40981e9ea77c3300a484a9b066cad40cd750bba9870f18aada2478b24840a&url=/script/configuration?h=configsi10si22136d4138b8b8fa2bc858aa38cbed4e8934bb21f30bc7dd82e671739c595b3d47b40981e9ea77c3300a484a9b066cad40cd750bba9870f18aada2478b24840a"></script>
 
 <script type="text/javascript" src="/menu?t=9c72b18b43c4"></script>
 
@@ -2208,7 +2208,7 @@ in 2 trgovini</h3></div></div></div><div class="content-slider--box"><div class=
 
 	
 
-<!--0.320853-->
-<script type='text/javascript'> /* <![CDATA[ */ function bcf(){(new Image).src="https://beacon.nrholding.net/t?s=321&b=115938&h=mal-mall-app-prod-newos-r1-2-4.web1.os.mall.local&i=r4s3t6tiotpohnln07ffjdpga6&t="+(Number(new Date)-window.mp_start)}var bca=window.addEventListener;if(bca)bca("load",bcf,false);else(bca=window.attachEvent)&&bca("onload",bcf); /* ]]> */ </script>
+<!--0.326559-->
+<script type='text/javascript'> /* <![CDATA[ */ function bcf(){(new Image).src="https://beacon.nrholding.net/t?s=326&b=115938&h=mal-mall-app-prod-newos-r1-3-12.web1.os.mall.local&i=7fsqopoeeem6vn4bi4prigeuo0&t="+(Number(new Date)-window.mp_start)}var bca=window.addEventListener;if(bca)bca("load",bcf,false);else(bca=window.attachEvent)&&bca("onload",bcf); /* ]]> */ </script>
 </body>
 </html>

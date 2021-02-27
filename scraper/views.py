@@ -6,6 +6,6 @@ def index(request):
     query = request.GET.get('product') if 'product' in request.GET else None
 
     if query is not None:
-        getProductsFromAllSites(query)
+        result = getProductsFromAllSites(query)
 
     return render(request, 'index.html', {'result': result})

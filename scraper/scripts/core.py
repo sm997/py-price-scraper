@@ -7,11 +7,14 @@ from scraper.scripts.parsing import hasElementWithAttr, hasElement
 def getProductsFromAllSites(query):
     siteJsons = readFilesInDir('../sites', '.json')
     sites = map(lambda x: Site(x), siteJsons)
+    allProducts = {}
 
     for site in sites:
         products = getProductsFromSite(site, query)
-        print(site.pageName)
-        for p in products: print(p)
+        allProducts[site.pageName] = products
+
+    print(allProducts)
+    return allProducts
 
 def getProductsFromSite(site, query):
     pageHtml = scraping.getPageHtml(site.getQueryUrl(query))
@@ -24,7 +27,8 @@ def getProductsFromSite(site, query):
         if checkStock(productHtml, site):
             price = parsing.getPrice(productHtml, site.priceHtmlEl)
             productName = parsing.getProductName(productHtml, site.productNameHtmlEl)
-            res.append([productName, price])
+            productUrl = parsing.getProductUrl(productHtml, site.productUrlHtmlHref)
+            res.append([productName, price, productUrl])
 
     return res
 

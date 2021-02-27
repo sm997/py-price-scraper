@@ -12,6 +12,9 @@ def getPrice(html, element):
 def getProductName(html, element):
     return html.select(element)[0].get_text().strip()
 
+def getProductUrl(html, element):
+    return html.select(element)[0]["href"].strip()
+
 def hasElement(html, element):
     return len(html.select(element)) > 0
 
