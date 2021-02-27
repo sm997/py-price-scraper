@@ -5,5 +5,9 @@
   "productUrlHtmlHref": ".lst-product-item-title a",
   "productHtmlEl": "article",
   "productNameHtmlEl": ".lst-product-item-title a",
-  "priceHtmlEl": ".lst-product-item-price-value"
+  "priceHtmlEl": ".lst-product-item-price-value",
+  "inStockMethod": "hasElementWithAttr",
+  "inStockEl": "product-availability",
+  "inStockAttrName": "is-available",
+  "inStockAttrValue": "1"
 }

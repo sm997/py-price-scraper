@@ -5,5 +5,7 @@
   "productUrlHtmlHref": ".cp-title a",
   "productHtmlEl": "article",
   "productNameHtmlEl": ".cp-title a",
-  "priceHtmlEl": ".cp-current-price"
+  "priceHtmlEl": ".cp-current-price",
+  "inStockMethod": "hasElement",
+  "inStockEl": ".cp-btn-addtocart:not(.cp-btn-details)"
 }

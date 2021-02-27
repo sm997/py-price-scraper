@@ -11,3 +11,15 @@ def getPrice(html, element):
 
 def getProductName(html, element):
     return html.select(element)[0].get_text().strip()
+
+def hasElement(html, element):
+    return len(html.select(element)) > 0
+
+def hasElementWithAttr(html, element, attrName, attrValue):
+    komp = html.select(element)
+    if len(komp) > 0:
+        return str(komp[0][attrName]) == str(attrValue)
+    else:
+        return False
+
+
