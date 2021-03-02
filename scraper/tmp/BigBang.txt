@@ -552,9 +552,7 @@
 												 							<li><a href="https://www.bigbang.si/izdelki/tv-avdio/predvajalniki-in-snemalniki/mp3-mp4-predvajalniki/">MP3 & MP4 predvajalniki</a></li>
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/tv-avdio/predvajalniki-in-snemalniki/diktafoni/">Diktafoni</a></li>
-												 																							    																	        <li><a class="red" href="https://www.bigbang.si/izdelki/tv-avdio/predvajalniki-in-snemalniki/?discount:1">Akcije in popusti</a></li>
-																	    																	    																	    	<li><a class="blue" href="https://www.bigbang.si/izdelki/tv-avdio/predvajalniki-in-snemalniki/?new:1">Novo v ponudbi</a></li>
-																	    																		    
+												 																							    																	    																		    
 																		<li class="categories-all"><a href="https://www.bigbang.si/izdelki/tv-avdio/predvajalniki-in-snemalniki/">Prikaži več</a></li>
 												 					</ul>
 												 																 			</li>
@@ -610,8 +608,7 @@
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/tv-avdio/glasba/lp-plosce/">LP plošče</a></li>
 												 																							    																	        <li><a class="red" href="https://www.bigbang.si/izdelki/tv-avdio/glasba/?discount:1">Akcije in popusti</a></li>
-																	    																	    																	    	<li><a class="blue" href="https://www.bigbang.si/izdelki/tv-avdio/glasba/?new:1">Novo v ponudbi</a></li>
-																	    																		    
+																	    																	    																		    
 																		<li class="categories-all"><a href="https://www.bigbang.si/izdelki/tv-avdio/glasba/">Prikaži več</a></li>
 												 					</ul>
 												 																 			</li>
@@ -637,7 +634,7 @@
 													
 													
 																											<div class="categories-promo" data-tracking_gtm_promo_view="8210|TV & Avdio||megamenu - TV & Avdio">
-									 						<p><a href="/izdelki/philips-tv-zabava-doma-katalog/"><img height="800" src="/upload/2021/02/800x800-philips-tv_602e2c2607301.jpg" width="800" /></a><br />
+									 						<p><br />
 <img alt="" src="https://www.bigbang.si/tcl-4k-qled-uhd-50c715-android-tv-sprejemnik-132205-izdelek-679171/" /><img alt="" src="https://www.bigbang.si/tcl-4k-qled-uhd-50c715-android-tv-sprejemnik-132205-izdelek-679171/" /><img alt="" src="https://www.bigbang.si/tcl-4k-qled-uhd-50c715-android-tv-sprejemnik-132205-izdelek-679171/" /><img alt="" src="https://www.bigbang.si/tcl-4k-qled-uhd-50c715-android-tv-sprejemnik-132205-izdelek-679171/" /></p>
 														</div>
 																									</div>
@@ -728,7 +725,8 @@
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/telefonija/stacionarna-telefonija/radijske-postaje/">Radijske postaje</a></li>
 												 																							    																	        <li><a class="red" href="https://www.bigbang.si/izdelki/telefonija/stacionarna-telefonija/?discount:1">Akcije in popusti</a></li>
-																	    																	    																		    
+																	    																	    																	    	<li><a class="blue" href="https://www.bigbang.si/izdelki/telefonija/stacionarna-telefonija/?new:1">Novo v ponudbi</a></li>
+																	    																		    
 																		<li class="categories-all"><a href="https://www.bigbang.si/izdelki/telefonija/stacionarna-telefonija/">Prikaži več</a></li>
 												 					</ul>
 												 																 			</li>
@@ -1579,8 +1577,7 @@
 												 							<li><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/fitnes-oprema/pripomocki-za-fitnes/">Pripomočki za fitnes</a></li>
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/fitnes-oprema/utezi/">Uteži</a></li>
-												 																							    																	        <li><a class="red" href="https://www.bigbang.si/izdelki/sport-prosti-cas/fitnes-oprema/?discount:1">Akcije in popusti</a></li>
-																	    																	    																		    
+												 																							    																	    																		    
 																		<li class="categories-all"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/fitnes-oprema/">Prikaži več</a></li>
 												 					</ul>
 												 																 			</li>
@@ -1712,8 +1709,7 @@
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/dom-vrt/pametni-dom/pametno-stikalo/">Pametno stikalo</a></li>
 												 																							    																	        <li><a class="red" href="https://www.bigbang.si/izdelki/dom-vrt/pametni-dom/?discount:1">Akcije in popusti</a></li>
-																	    																	    																	    	<li><a class="blue" href="https://www.bigbang.si/izdelki/dom-vrt/pametni-dom/?new:1">Novo v ponudbi</a></li>
-																	    																		    
+																	    																	    																		    
 																		<li class="categories-all"><a href="https://www.bigbang.si/izdelki/dom-vrt/pametni-dom/">Prikaži več</a></li>
 												 					</ul>
 												 																 			</li>
@@ -1870,7 +1866,7 @@
 
 															<div class="s-nav-cnt">
 				<ul class="s-nav">
-					<li class="selected"><a href="https://www.bigbang.si/izdelki/?search_q=apple watch nike"><span>Izdelki <span class="s-counter">(8)</span></span></a></li>
+					<li class="selected"><a href="https://www.bigbang.si/izdelki/?search_q=apple watch nike"><span>Izdelki <span class="s-counter">(9)</span></span></a></li>
 					<li><a href="https://www.bigbang.si/iskanje/?search_q=apple watch nike&search_content=publish.01"><span>Članki <span class="s-counter">(171)</span></span></a></li>
 					<li><a href="https://www.bigbang.si/iskanje/?search_q=apple watch nike&search_content=cms"><span>Ostalo <span class="s-counter">(10)</span></span></a></li>
 				</ul>
@@ -1900,9 +1896,9 @@
 																																																																																					                                                                                                                                                                                																										                                                                                                                                                                                																										                                                                                                    <div class="cf-row cf-row-level3">
 																															<input type="checkbox" id="search-category-3" name="category" value="8405"
 		 														data-name_seo="category" data-name_ignore_seo="" data-value_seo="sport-prosti-cas/nosljiva-tehnologija/pametne-ure"
-                                                                     data-filter_hierarhy_position="009.001.003"                                                                 data-total_items="6">
+                                                                     data-filter_hierarhy_position="009.001.003"                                                                 data-total_items="7">
 																														<label class="" for="search-category-3">Pametne ure																															</label>
-                                                                                                                            <span class="cf-counter" >6</span>                                                                                                                    </div>
+                                                                                                                            <span class="cf-counter" >7</span>                                                                                                                    </div>
 																																																																                                                                                                    <div class="cf-row cf-row-level3">
 																															<input type="checkbox" id="search-category-4" name="category" value="67411"
 		 														data-name_seo="category" data-name_ignore_seo="" data-value_seo="sport-prosti-cas/nosljiva-tehnologija/dodatki-za-nosencke"
@@ -1925,7 +1921,7 @@
 		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="apple"
                                                                                                                                      >
 																														<label class="" for="search-manufacturer-1">APPLE																															</label>
-                                                            														<span class="cf-counter">8</span>                                                                                                                    </div>
+                                                            														<span class="cf-counter">9</span>                                                                                                                    </div>
 																																																											</div>
 									</div>
 																																																	
@@ -1941,7 +1937,7 @@
 												<!-- FIXME PROG seo url -->								
 												<div class="cf-row cf-row-price">
 													<div class="cf-range">
-														<div id="searchfield-price-slider" class="slider" data-slider_min="0" data-slider_max="440" data-slider_step="0.01" data-slider_value_0="0" data-slider_value_1="0"></div><div id="searchfield-price-slider_input" class="searchfield-slider_input"><input type="text" id="searchfield-price" name="price" value="0" data-id_prefix="searchfield-" data-default_values="" data-name_seo="cena" data-value_seo="price" data-name_ignore_seo="" data-slider_name="price" /><span class="searchfield-slider_input_separator">-</span><input type="text" id="searchfield-price-e" name="price-e" value="440" data-id_prefix="searchfield-" data-default_values="" data-name_seo="cena" data-value_seo="price" data-name_ignore_seo="" data-slider_name="price" /></div>													</div>
+														<div id="searchfield-price-slider" class="slider" data-slider_min="0" data-slider_max="471" data-slider_step="0.01" data-slider_value_0="0" data-slider_value_1="0"></div><div id="searchfield-price-slider_input" class="searchfield-slider_input"><input type="text" id="searchfield-price" name="price" value="0" data-id_prefix="searchfield-" data-default_values="" data-name_seo="cena" data-value_seo="price" data-name_ignore_seo="" data-slider_name="price" /><span class="searchfield-slider_input_separator">-</span><input type="text" id="searchfield-price-e" name="price-e" value="471" data-id_prefix="searchfield-" data-default_values="" data-name_seo="cena" data-value_seo="price" data-name_ignore_seo="" data-slider_name="price" /></div>													</div>
 												</div>
 																					</div>
 									</div>
@@ -2190,7 +2186,98 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="3|622799|">
+				<article class="clear cp" data-tracking_gtm_impression="3|680510|">
+        <span style="display: none;" data-product_manufacturer_title="680510_0">APPLE</span>
+        <span style="display: none;" data-product_category_title="680510_0">Pametne ure</span>
+        <span style="display: none;" data-product_title="680510_0">APPLE Watch Nike S6 GPS, 44mm Silver Aluminium Black Nike Sport Band pametna ura</span>
+        <span style="display: none;" data-product_code="680510_0">680510</span>
+		<span style="display: none;" data-product_price="680510_0">469,00 €</span>
+
+        		
+		
+		
+				
+		
+					<div class="cp-badges">
+							</div>
+		
+		
+		<!-- Wishlist -->
+				
+		<div class="cp-image-container">
+			<figure class="cp-image lloader">
+				<a href="https://www.bigbang.si/apple-watch-nike-s6-gps-44mm-silver-aluminium-black-nike-sport-band-pametna-ura-154200-izdelek-680510/">
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680510/thumb/ura4_5f64787aa11b0_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680510/thumb/ura4_5f64787aa11b0_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680510_0" alt="" />
+				</a>
+			</figure>
+
+					</div>
+		
+		<div class="clear cp-cnt">
+			<div class="cp-cnt-comment">
+				<!-- Rating -->
+									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680510_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
+    								<!-- Comments -->
+									<div class="cp-comment-count comments-count catalog-comment-count">
+						<a title="" href="https://www.bigbang.si/apple-watch-nike-s6-gps-44mm-silver-aluminium-black-nike-sport-band-pametna-ura-154200-izdelek-680510/#comments_data_catalogproduct_680510_si">
+							(0)
+						</a>
+					</div>
+							</div>
+
+			<div class="cp-code" data-product_code="680510_0">680510</div>
+							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/pametne-ure/">Pametne ure</a></div>	
+						<h2 class="cp-title">
+				<a href="https://www.bigbang.si/apple-watch-nike-s6-gps-44mm-silver-aluminium-black-nike-sport-band-pametna-ura-154200-izdelek-680510/" data-product_title="680510_0">
+											APPLE Watch Nike S6 GPS, 44mm Silver Aluminium Black Nike Sport Band pametna ura	
+									</a>
+			</h2>
+		</div>
+
+
+					<div class="cp-price">
+					
+                    
+                    						<div class="cp-current-price" data-product_price="680510_0">469,00 €</div>
+												</div>
+		
+		<div class="available-qty">
+            									<span><strong>Na zalogi v Big Bangu</strong></span>
+							            		</div>
+			
+		<div class="cp-bottom">
+			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
+			 
+						
+			<div class="cp-btn-cnt">
+				<div class="cp-btn-cnt-col1">
+					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
+					<!-- Wishlist -->
+											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_680510_si">
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680510_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_680510_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680510_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680510_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_680510_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680510_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
+							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_680510_si wishlist-message wishlist-message-680510" style="display: none;"></span>
+						</div>
+					
+					<!-- Compare -->
+											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_680510_si" href="javascript:cmscompare.set('catalog_catalogproduct_680510_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
+        <span>
+            <small class="l1">Dodaj v primerjavo</small>
+            <small class="l2">Odstrani iz primerjave</small>
+        </span>
+        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_680510_si" style="display:none;"></span>
+    </a>
+</div>									</div>
+				
+									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('680510_0', '_tracking:index', 'simple_loader', 'simple', 3)">
+													<span>V košarico</span>
+												
+					</a>
+							</div>
+		</div>
+			</article>
+
+				<article class="clear cp" data-tracking_gtm_impression="4|622799|">
         <span style="display: none;" data-product_manufacturer_title="622799_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622799_0">Pametne ure</span>
         <span style="display: none;" data-product_title="622799_0">APPLE Watch Nike Series 5 40mm space grey anth/black band pametna ura</span>
@@ -2280,7 +2367,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="4|622800|">
+				<article class="clear cp" data-tracking_gtm_impression="5|622800|">
         <span style="display: none;" data-product_manufacturer_title="622800_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622800_0">Pametne ure</span>
         <span style="display: none;" data-product_title="622800_0">APPLE Watch Nike Series 5 GPS 44mm Silver Platinum Black band pametna ura</span>
@@ -2370,7 +2457,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="5|622801|">
+				<article class="clear cp" data-tracking_gtm_impression="6|622801|">
         <span style="display: none;" data-product_manufacturer_title="622801_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622801_0">Pametne ure</span>
         <span style="display: none;" data-product_title="622801_0">APPLE Watch Nike Series 5 44mm Space Grey anth/Black Band pametna ura</span>
@@ -2460,7 +2547,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="6|621375|">
+				<article class="clear cp" data-tracking_gtm_impression="7|621375|">
         <span style="display: none;" data-product_manufacturer_title="621375_0">APPLE</span>
         <span style="display: none;" data-product_category_title="621375_0">Pametne ure</span>
         <span style="display: none;" data-product_title="621375_0">APPLE Watch Nike Series 3 GPS 38mm Space Grey Aluminium black band pametna ura</span>
@@ -2550,7 +2637,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="7|637261|">
+				<article class="clear cp" data-tracking_gtm_impression="8|637261|">
         <span style="display: none;" data-product_manufacturer_title="637261_0">APPLE</span>
         <span style="display: none;" data-product_category_title="637261_0">Dodatki za nošenčke</span>
         <span style="display: none;" data-product_title="637261_0">APPLE  Watch 44mm Nike Band Pink Blast/True Berry Nike Sport Loop pašček</span>
@@ -2640,7 +2727,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="8|637263|">
+				<article class="clear cp" data-tracking_gtm_impression="9|637263|">
         <span style="display: none;" data-product_manufacturer_title="637263_0">APPLE</span>
         <span style="display: none;" data-product_category_title="637263_0">Dodatki za nošenčke</span>
         <span style="display: none;" data-product_title="637263_0">APPLE Watch 40mm Nike Band Royal Pulse/Black Nike Sport Band - S/M & M/L pašček</span>
@@ -2734,7 +2821,7 @@
 
 			<div class="load-more-container c-load-more-container">
 		<div class="pagination-status load-status">
-			<div class="pagination-status-label">Prikazanih <span class="next_page_first_item">8</span> od 8 izdelkov</div>
+			<div class="pagination-status-label">Prikazanih <span class="next_page_first_item">9</span> od 9 izdelkov</div>
 			<div class="pagination-status-bar">
 				<div class="pagination-status-bar-bg next_page_last_item_percent" style="width: 100%"></div>
 			</div>
@@ -2830,7 +2917,7 @@ Prijavi se na e-novice in prvi prejmi najnovejše popuste.</div>
 						<div class="footer-col footer-col1">
 							<div class="footer-title">Bigbang.si</div>
 							<ul class="nav nav-footer">
-								<li class=" "><a href="/" title="Domov"  >Domov</a></li><li class=" "><a href="/o-podjetju/" title="O podjetju"  >O podjetju</a></li><li class=" "><a href="/kontakt/" title="Kontakti"  >Kontakti</a></li><li class=" "><a href="https://jobs.bigbang.si" title="Zaposlitev"  target="_blank">Zaposlitev</a></li><li class=" "><a href="/prodajna-mesta/" title="Prodajna mesta"  >Prodajna mesta</a></li><li class=" "><a href="/druzbena-odgovornost" title="Družbena odgovornost"  >Družbena odgovornost</a></li><li class=" "><a href="/storitve/" title="Storitve"  >Storitve</a></li><li class=" "><a href="https://b2b.bigbang.si" title="B2B"  target="_blank">B2B</a></li><li class=" "><a href="/obvestila-za-javnost/" title="Obvestila"  >Obvestila</a></li><li class=" "><a href="/akcije-popusti/" title="Akcije in popusti"  >Akcije in popusti</a></li><li class=" "><a href="/kako-oddati-narocilo/" title="Kako oddati naročilo? "  >Kako oddati naročilo? </a></li>							</ul>
+								<li class=" "><a href="/" title="Domov"  >Domov</a></li><li class=" "><a href="/o-podjetju/" title="O podjetju"  >O podjetju</a></li><li class=" "><a href="/kontakt/" title="Kontakti"  >Kontakti</a></li><li class=" "><a href="https://jobs.bigbang.si" title="Zaposlitev"  target="_blank">Zaposlitev</a></li><li class=" "><a href="/prodajna-mesta/" title="Prodajna mesta"  >Prodajna mesta</a></li><li class=" "><a href="/druzbena-odgovornost" title="Družbena odgovornost"  >Družbena odgovornost</a></li><li class=" "><a href="/storitve/" title="Storitve"  >Storitve</a></li><li class=" "><a href="https://b2b.bigbang.si" title="B2B"  target="_blank">B2B</a></li><li class=" "><a href="/obvestila-za-javnost/" title="Obvestila"  >Obvestila</a></li><li class=" "><a href="/akcije-popusti/" title="Akcije in popusti"  >Akcije in popusti</a></li>							</ul>
 						</div>
 						<div class="footer-col footer-col2">
 							<div class="footer-title">Pogoji poslovanja</div>
@@ -2868,7 +2955,7 @@ Prijavi se na e-novice in prvi prejmi najnovejše popuste.</div>
 								<a class="support-tel" href="tel:+38613626000">01 362 60 00</a>
 
 
-<p><span><a class="support-mail" href="/cdn-cgi/l/email-protection#5c392c2e33383d363d1c3e353b3e3d323b722f35"><span class="__cf_email__" data-cfemail="5b3e2b29343f3a313a1b39323c393a353c752832">[email&#160;protected]</span></a></span></p>
+<p><span><a class="support-mail" href="/cdn-cgi/l/email-protection#345144465b50555e5574565d5356555a531a475d"><span class="__cf_email__" data-cfemail="6e0b1e1c010a0f040f2e0c07090c0f0009401d07">[email&#160;protected]</span></a></span></p>
 
 <p><span class="support-opening-hours">Ponedeljek - Sobota: 9:00 - 20:00 </span></p>
 							</div>

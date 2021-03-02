@@ -49,6 +49,10 @@
             <label for="product"></label>
             <input type="text" id="product" value="{{ request.GET.product }}" placeholder="Product..." name="product"/>
         </div>
+        <div>
+            <label for="excludeWords"></label>
+            <input type="text" id="excludeWords" value="{{ request.GET.excludeWords }}" placeholder="Exclude words..." name="excludeWords"/>
+        </div>
         <input type="submit" value="Submit"/>
     </form>
     {% if result %}

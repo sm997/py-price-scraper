@@ -4,19 +4,19 @@ from scraper.scripts.models.site import Site
 from scraper.scripts.parsing import hasElementWithAttr, hasElement
 
 
-def getProductsFromAllSites(query):
+def getProductsFromAllSites(query, excludeWords):
     siteJsons = readFilesInDir('../sites', '.json')
     sites = map(lambda x: Site(x), siteJsons)
     allProducts = {}
 
     for site in sites:
-        products = getProductsFromSite(site, query)
+        products = getProductsFromSite(site, query, excludeWords)
         allProducts[site.pageName] = products
 
     print(allProducts)
     return allProducts
 
-def getProductsFromSite(site, query):
+def getProductsFromSite(site, query, excludeWords):
     pageHtml = scraping.getPageHtml(site.getQueryUrl(query))
     textToFile('../tmp', site.pageName + '.txt', pageHtml.text)
     productHtmlList = parsing.getProducts(pageHtml, site.productHtmlEl)
@@ -28,7 +28,8 @@ def getProductsFromSite(site, query):
             price = parsing.getPrice(productHtml, site.priceHtmlEl)
             productName = parsing.getProductName(productHtml, site.productNameHtmlEl)
             productUrl = parsing.getProductUrl(productHtml, site.productUrlHtmlHref)
-            res.append([productName, price, productUrl])
+            if str(excludeWords) not in productName:
+                res.append([productName, price, productUrl])
 
     return res
 

@@ -20,7 +20,7 @@
 <script>
 
         
-    var app = app || {"boot":[],"domReady":[],"translations":{"common.banners.pushdown.show_caption":"Prika\u017ei","common.banners.pushdown.hide_caption":"Skrij","common.banners.toggler.show_caption":"Prika\u017ei","common.banners.toggler.hide_caption":"Skrij","common.cookie_policy.agree_button_caption":"Strinjam se","common.map.ad_code":"\u0160tevilka oglasa","common.map.no_ad_caption":"Ni oglas","common.carousel.prev_caption":"Nazaj","common.carousel.next_caption":"Naprej","common.ads.add_to_favorites_success":"Oglas je uspe\u0161no shranjen.","common.ads.add_to_favorites_fail":"Shranjevanje oglasa ni uspelo.","common.modal.cancel_caption":"Prekli\u010di","common.modal.confirm_caption":"Potrdi","common.modal.close_caption":"Zapri","common.modal.zoom_in_caption":"Pribli\u017eajte pogled","common.modal.zoom_out_caption":"Pomanj\u0161ajte pogled","common.privacy_policy_notice.close_caption":"Zapri","common.privacy_policy_notice.confirm_caption":"Razumem","common.ad_compare.max_items_reached":"Primerjava lahko vsebuje najve\u010d %maxItems% oglasov. Odstranite 1 oglas","common.domestic_currency":"evro","common.notification.close_caption":"Zapri","common.system_feedback.loading":"Nalaganje\u2026","common.system_feedback.loading_error":"Pri\u0161lo je do nepri\u010dakovane napake.","common.deeplink.popup_title":"TODO-Pogledaj oglas u","common.deeplink.popup_application_caption":"TODO-Bolha aplikaciji","common.deeplink.popup_browser_caption":"TODO-Pregledniku","common.share_content.mail_subject_map":"%title%","common.share_content.mail_body_map":"Za ve\u010d informacij kliknite: %title% (%url%)","common.share_content.email_share_caption":"E-po\u0161ta","common.share_content.email_share_label":"Deli prek e-po\u0161te","common.share_content.facebook_share_label":"Deli prek Facebooka","common.share_content.twitter_share_label":"Deli prek Twitterja","common.share_content.viber_share_label":"Deli prek Viberja","common.share_content.whatsapp_share_label":"Deli prek WhatsAppa","common.share_content.copy_link_caption":"Kopiraj povezavo","common.share_content.link_caption":"Povezava","common.share_content.share_map_title":"Deli oglas","ad_browse.user_profile.show_less_caption":"Prika\u017ei manj","ad_browse.user_profile.show_more_caption":"Prika\u017ei ve\u010d","ad_browse.user_profile.map.title":"Zemljevid","ad_search.saved_search.create.success":"Iskanje je shranjeno.","ad_search.saved_search.create.error":"Pri\u0161lo je do napake. Poskusite znova pozneje ali pa se prepri\u010dajte, da je izbrano iskanje ustrezno.","ad_search.saved_search.create.precise_results":"Za natan\u010dnej\u0161e rezultate lahko iskanje omejite s filtriranjem po kategoriji, ceni ali lokaciji.","ad_search.saved_search.create.results_too_generic":"Iskanje je preobse\u017eno.","ad_search.saved_search.create.no_results_in_last_two_weeks":"Za ta iskalni niz v prej\u0161njih dveh tednih ni bilo najdenih novih oglasov.","ad_search.saved_search.create.results_per_day":"Prevideno \u0161tevilo novih oglasov: %results% na dan.","ad_search.saved_search.create.results_per_week":"Prevideno \u0161tevilo novih oglasov: %results% na teden.","ad_search.saved_search.create.push_notification_usage_notice":"Za dostavo obvestil v mobilni telefon morate biti prijavljeni v mobilni aplikaciji Bolha na Android ali iPhone napravi.","ad_search.saved_search.create.push_notification_usage_notice_app_link":"%linkStartTag%Prenesite aplikacijo tukaj%linkEndTag%","ad_browse.detailview.summary.added_to_saved_ads":"Ta oglas je v %linkStartTag%shranjenih oglasih%linkEndTag%.","ad_browse.detailview.summary.removed_from_saved_ads":"Oglas je bil umaknjen iz seznama shranjenih oglasov.","ad_browse.detailview.action.save_ad":"Shrani oglas","ad_browse.detailview.action.ad_saved":"Oglas je shranjen","ad_browse.detailview.summary.saved_ads_error":"Pri\u0161lo je do napake pri shranjevanju oglasa.","ad_browse.multiple_option_hierarchy_selector.choose":"Izberi","ad_browse.multiple_option_hierarchy_selector.no_results":"Ni rezultatov","geolocation.web.filter.range_all":"Vse","geolocation.web.filter.autolocate_fetch":"Prepoznaj mojo lokacijo","geolocation.web.filter.search_fail":"Vnesena adresa ni pronajdena","geolocation.web.filter.autolocate_fail":"Prepoznavanje lokacije ni uspelo. Preverite Nastavite.","geolocation.web.filter.delete":"Izbri\u0161ite","geolocation.web.filter.hierarchy_conflict":"lokacijo, ki ste jo vnesli, da boste lahko filtrirali po regiji","geolocation.web.filter.range_conflict":"izbrane regije, da boste lahko filtrirali po obsegu iskanja"},"localizedRoutes":{"login":{"path":"\/prijava\/"},"my_ads_saved":{"path":"\/moja-bolha\/shranjeni-oglasi\/"},"mobile_app_information":{"path":"\/promo\/mobilna-aplikacija\/"}},"settings":{"userId":-1,"userType":1,"isBackendUser":false,"mobileAppFeatures":[],"ccapi":{"baseUrl":"https:\/\/www.bolha.com","authType":"public","clientId":"njuskalo_js_app","clientSecret":"1412aa6f3a6194adefceb8e547d5e6aa"},"features":{"isYieldLoveFeatureEnabled":false,"isDidomiFeatureEnabled":true,"isDidomiFullImplementationFeatureEnabled":true,"isFallbackCookiePolicyFeatureEnabled":false,"isSavedSearchFeatureEnabled":true,"isSavedSearchNotificationFeatureEnabled":true,"isRecaptchaFeatureEnabled":true,"isReviewsFeatureEnabled":false,"isMobileDeeplinkFeatureEnabled":false,"isAppleLoginOnWebFeatureEnabled":false,"isFacebookLoginOnWebFeatureEnabled":false,"isGoogleLoginOnWebFeatureEnabled":false}}};
+    var app = app || {"boot":[],"domReady":[],"translations":{"common.banners.pushdown.show_caption":"Prika\u017ei","common.banners.pushdown.hide_caption":"Skrij","common.banners.toggler.show_caption":"Prika\u017ei","common.banners.toggler.hide_caption":"Skrij","common.cookie_policy.agree_button_caption":"Strinjam se","common.map.ad_code":"\u0160tevilka oglasa","common.map.no_ad_caption":"Ni oglas","common.carousel.prev_caption":"Nazaj","common.carousel.next_caption":"Naprej","common.ads.add_to_favorites_success":"Oglas je uspe\u0161no shranjen.","common.ads.add_to_favorites_fail":"Shranjevanje oglasa ni uspelo.","common.modal.cancel_caption":"Prekli\u010di","common.modal.confirm_caption":"Potrdi","common.modal.close_caption":"Zapri","common.modal.zoom_in_caption":"Pribli\u017eajte pogled","common.modal.zoom_out_caption":"Pomanj\u0161ajte pogled","common.privacy_policy_notice.close_caption":"Zapri","common.privacy_policy_notice.confirm_caption":"Razumem","common.ad_compare.max_items_reached":"Primerjava lahko vsebuje najve\u010d %maxItems% oglasov. Odstranite 1 oglas","common.domestic_currency":"evro","common.notification.close_caption":"Zapri","common.system_feedback.loading":"Nalaganje\u2026","common.system_feedback.loading_error":"Pri\u0161lo je do nepri\u010dakovane napake.","common.deeplink.popup_title":"TODO-Pogledaj oglas u","common.deeplink.popup_application_caption":"TODO-Bolha aplikaciji","common.deeplink.popup_browser_caption":"TODO-Pregledniku","common.share_content.mail_subject_map":"%title%","common.share_content.mail_body_map":"Za ve\u010d informacij kliknite: %title% (%url%)","common.share_content.email_share_caption":"E-po\u0161ta","common.share_content.email_share_label":"Deli prek e-po\u0161te","common.share_content.facebook_share_label":"Deli prek Facebooka","common.share_content.twitter_share_label":"Deli prek Twitterja","common.share_content.viber_share_label":"Deli prek Viberja","common.share_content.whatsapp_share_label":"Deli prek WhatsAppa","common.share_content.copy_link_caption":"Kopiraj povezavo","common.share_content.link_caption":"Povezava","common.share_content.share_map_title":"Deli oglas","ad_browse.user_profile.show_less_caption":"Prika\u017ei manj","ad_browse.user_profile.show_more_caption":"Prika\u017ei ve\u010d","ad_browse.user_profile.map.title":"Zemljevid","ad_search.saved_search.create.success":"Iskanje je shranjeno.","ad_search.saved_search.create.error":"Pri\u0161lo je do napake. Poskusite znova pozneje ali pa se prepri\u010dajte, da je izbrano iskanje ustrezno.","ad_search.saved_search.create.precise_results":"Za natan\u010dnej\u0161e rezultate lahko iskanje omejite s filtriranjem po kategoriji, ceni ali lokaciji.","ad_search.saved_search.create.results_too_generic":"Iskanje je preobse\u017eno.","ad_search.saved_search.create.no_results_in_last_two_weeks":"Za ta iskalni niz v prej\u0161njih dveh tednih ni bilo najdenih novih oglasov.","ad_search.saved_search.create.results_per_day":"Prevideno \u0161tevilo novih oglasov: %results% na dan.","ad_search.saved_search.create.results_per_week":"Prevideno \u0161tevilo novih oglasov: %results% na teden.","ad_search.saved_search.create.push_notification_usage_notice":"Za dostavo obvestil v mobilni telefon morate biti prijavljeni v mobilni aplikaciji Bolha na Android ali iPhone napravi.","ad_search.saved_search.create.push_notification_usage_notice_app_link":"%linkStartTag%Prenesite aplikacijo tukaj%linkEndTag%","ad_browse.detailview.summary.added_to_saved_ads":"Ta oglas je v %linkStartTag%shranjenih oglasih%linkEndTag%.","ad_browse.detailview.summary.removed_from_saved_ads":"Oglas je bil umaknjen iz seznama shranjenih oglasov.","ad_browse.detailview.action.save_ad":"Shrani oglas","ad_browse.detailview.action.ad_saved":"Oglas je shranjen","ad_browse.detailview.summary.saved_ads_error":"Pri\u0161lo je do napake pri shranjevanju oglasa.","ad_browse.detailview.google_map.multiple_location":"Na tej lokaciji se nahaja ve\u010d oglasov","ad_browse.ad.price.on_request":"Cena po dogovoru","ad_browse.detailview.google_map.approx_location":"Za oglase ni to\u010dnega naslova, lokacija na zemljevidu je pribli\u017ena","ad_browse.detailview.google_map.approx_location_title":"Pribli\u017ena lokacija","ad_browse.detailview.google_map.remaining_ads_on_location":"Ostali oglasi na tej lokaciji","ad_browse.multiple_option_hierarchy_selector.choose":"Izberi","ad_browse.multiple_option_hierarchy_selector.no_results":"Ni rezultatov","geolocation.web.filter.range_all":"Vse","geolocation.web.filter.autolocate_fetch":"Prepoznaj mojo lokacijo","geolocation.web.filter.search_fail":"Vnesena adresa ni pronajdena","geolocation.web.filter.autolocate_fail":"Prepoznavanje lokacije ni uspelo. Preverite Nastavite.","geolocation.web.filter.delete":"Izbri\u0161ite","geolocation.web.filter.hierarchy_conflict":"lokacijo, ki ste jo vnesli, da boste lahko filtrirali po regiji","geolocation.web.filter.range_conflict":"izbrane regije, da boste lahko filtrirali po obsegu iskanja"},"localizedRoutes":{"login":{"path":"\/prijava\/"},"my_ads_saved":{"path":"\/moja-bolha\/shranjeni-oglasi\/"},"mobile_app_information":{"path":"\/promo\/mobilna-aplikacija\/"}},"settings":{"userId":-1,"userType":1,"isBackendUser":false,"mobileAppFeatures":[],"ccapi":{"baseUrl":"https:\/\/www.bolha.com","authType":"public","clientId":"njuskalo_js_app","clientSecret":"1412aa6f3a6194adefceb8e547d5e6aa"},"features":{"isYieldLoveFeatureEnabled":false,"isDidomiFeatureEnabled":true,"isDidomiFullImplementationFeatureEnabled":true,"isFallbackCookiePolicyFeatureEnabled":false,"isSavedSearchFeatureEnabled":true,"isSavedSearchNotificationFeatureEnabled":true,"isRecaptchaFeatureEnabled":true,"isReviewsFeatureEnabled":false,"isMobileDeeplinkFeatureEnabled":false,"isAppleLoginOnWebFeatureEnabled":false,"isFacebookLoginOnWebFeatureEnabled":false,"isGoogleLoginOnWebFeatureEnabled":false}}};
     var app3k = app;
 
     var js_app_rewrite_base = "\/";
@@ -43,12 +43,12 @@
         app.boot.push({"name":"Pagination","values":{"el":".PaginationContainer--bottom .Pagination"}});
         app.boot.push({"name":"MainSearchBox","values":{"el":"#search-main","minKeywordsLengthNecessary":true,"minKeywordsLengthMessage":"Vnesite izraz z vsaj 2 znakoma.","originalPlaceholder":"Kaj i\u0161\u010dete danes?","hasAutosuggest":true}});
         app.boot.push({"name":"SavedSearchCreate","values":{"el":".SavedSearchCreate","searchContext":"search","searchUrl":"index.php?ctl=search_ads&keywords=apple+watch+nike","savedSearchEditUrl":null,"loginUrl":"https:\/\/www.bolha.com\/prijava\/?returnUrl=\/?ctl%3Dsearch_ads%26keywords%3Dapple%20watch%20nike","formId":"detailedSearch","defaultSuggestedTitle":"apple watch nike","searchParameters":[],"hasMobilePushNotificationsSupport":true,"mobileAppIosAppStoreUrl":"https:\/\/apps.apple.com\/app\/id1540081488","mobileAppAndroidAppStoreUrl":"https:\/\/play.google.com\/store\/apps\/details?id=net.trikoder.android.bolha"}});
-        app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemRegularAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":5933975},{"hasCompare":false,"isAdInSavedList":false,"id":6401269},{"hasCompare":false,"isAdInSavedList":false,"id":5745268},{"hasCompare":false,"isAdInSavedList":false,"id":6394139},{"hasCompare":false,"isAdInSavedList":false,"id":5455575},{"hasCompare":false,"isAdInSavedList":false,"id":5745446},{"hasCompare":false,"isAdInSavedList":false,"id":5851443},{"hasCompare":false,"isAdInSavedList":false,"id":6405640},{"hasCompare":false,"isAdInSavedList":false,"id":5316514},{"hasCompare":false,"isAdInSavedList":false,"id":6212190},{"hasCompare":false,"isAdInSavedList":false,"id":3929622},{"hasCompare":false,"isAdInSavedList":false,"id":3428895},{"hasCompare":false,"isAdInSavedList":false,"id":4023403},{"hasCompare":false,"isAdInSavedList":false,"id":5316504},{"hasCompare":false,"isAdInSavedList":false,"id":6251921}]}});
+        app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemRegularAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":5997904},{"hasCompare":false,"isAdInSavedList":false,"id":6401269},{"hasCompare":false,"isAdInSavedList":false,"id":5745268},{"hasCompare":false,"isAdInSavedList":false,"id":6394139},{"hasCompare":false,"isAdInSavedList":false,"id":5455575},{"hasCompare":false,"isAdInSavedList":false,"id":5745446},{"hasCompare":false,"isAdInSavedList":false,"id":5851443},{"hasCompare":false,"isAdInSavedList":false,"id":6405640},{"hasCompare":false,"isAdInSavedList":false,"id":6212190},{"hasCompare":false,"isAdInSavedList":false,"id":3929622},{"hasCompare":false,"isAdInSavedList":false,"id":3428895},{"hasCompare":false,"isAdInSavedList":false,"id":4023403},{"hasCompare":false,"isAdInSavedList":false,"id":6251921}]}});
         app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemVauVauAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":6394139}]}});
-        app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemLatestAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":6409369},{"hasCompare":false,"isAdInSavedList":false,"id":6409370},{"hasCompare":false,"isAdInSavedList":false,"id":6409368},{"hasCompare":false,"isAdInSavedList":false,"id":6409367},{"hasCompare":false,"isAdInSavedList":false,"id":6409366},{"hasCompare":false,"isAdInSavedList":false,"id":6409365}]}});
+        app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemLatestAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":6430493},{"hasCompare":false,"isAdInSavedList":false,"id":6430492},{"hasCompare":false,"isAdInSavedList":false,"id":6430491},{"hasCompare":false,"isAdInSavedList":false,"id":6430490},{"hasCompare":false,"isAdInSavedList":false,"id":6430489},{"hasCompare":false,"isAdInSavedList":false,"id":6430488}]}});
         app.boot.push({"name":"EntityListCompare","values":{"items":[]}});
-        app.boot.push({"name":"ProcessApiCalls","values":{"apiQueueCacheKey":"api:0:b07669a7347109624870919d4013c317","matchedRoute":"fw3k2.ctl_search_ads._execute"}});
-        app.boot.push({"name":"LocationMapsService","values":{"locationMapsServiceName":"Mireo","locationMapsServiceSettings":{"mapStyle":"https:\/\/static.bolha.com\/dist\/79fd4a98e8e399186aed682db0be1a29_a1764494c3.json"}}});
+        app.boot.push({"name":"ProcessApiCalls","values":{"apiQueueCacheKey":"api:0:755791e3364957d3265b3d70d0ab8af8","matchedRoute":"fw3k2.ctl_search_ads._execute"}});
+        app.boot.push({"name":"LocationMapsService","values":{"locationMapsServiceName":"Mireo","locationMapsServiceSettings":{"mapStyle":"https:\/\/static.bolha.com\/dist\/6559406d608469eefd6f5e0c5c852b5c_a1764494c3.json"}}});
         app.boot.push({"name":"PaginationBaseData","values":{"adjustedCanonicalUrl":""}});
     
     
@@ -173,11 +173,11 @@
       arguments)},g[o]['t']=1*new Date})(window,'_googCsa');
 </script>
 
-                        <link rel="stylesheet" href="https://static.bolha.com/dist/79fd4a98e8e399186aed682db0be1a29_6608dcde96.css" />
-                                                    <link rel="stylesheet" href="https://static.bolha.com/dist/79fd4a98e8e399186aed682db0be1a29_66cd824661.css" />
+                        <link rel="stylesheet" href="https://static.bolha.com/dist/6559406d608469eefd6f5e0c5c852b5c_6608dcde96.css" />
+                                                    <link rel="stylesheet" href="https://static.bolha.com/dist/6559406d608469eefd6f5e0c5c852b5c_66cd824661.css" />
             
-                        <script>!function(e){function a(a){for(var c,d,o=a[0],r=a[1],b=a[2],i=0,l=[];i<o.length;i++)d=o[i],Object.prototype.hasOwnProperty.call(f,d)&&f[d]&&l.push(f[d][0]),f[d]=0;for(c in r)Object.prototype.hasOwnProperty.call(r,c)&&(e[c]=r[c]);for(u&&u(a);l.length;)l.shift()();return n.push.apply(n,b||[]),t()}function t(){for(var e,a=0;a<n.length;a++){for(var t=n[a],c=!0,o=1;o<t.length;o++){var r=t[o];0!==f[r]&&(c=!1)}c&&(n.splice(a--,1),e=d(d.s=t[0]))}return e}var c={},f={1:0},n=[];function d(a){if(c[a])return c[a].exports;var t=c[a]={i:a,l:!1,exports:{}};return e[a].call(t.exports,t,t.exports,d),t.l=!0,t.exports}d.e=function(e){var a=[],t=f[e];if(0!==t)if(t)a.push(t[2]);else{var c=new Promise((function(a,c){t=f[e]=[a,c]}));a.push(t[2]=c);var n,o=document.createElement("script");o.charset="utf-8",o.timeout=120,d.nc&&o.setAttribute("nonce",d.nc),o.src=function(e){return d.p+"79fd4a98e8e399186aed682db0be1a29_"+{0:"2a687e5591",2:"a9a6063a14",3:"99b781b17d",4:"58427d0f3d",5:"34fa2c60b5",6:"1e9eb2ab33",7:"46df4e41f8",8:"d9025b2db9",9:"d2fe2d52ef",10:"dcf66a1600",11:"015538fbff",12:"78b29f3a8f",13:"be731ea9fa",14:"a1b8f49ae7",15:"cd5b2e2251",16:"43efa2eec1",17:"a46c5f9a97",18:"07b4b840b0",19:"3a59b5e43f",20:"3c7c57f58e",21:"f9b55d0c83",22:"efad194479",23:"cd1bc0f8bd",24:"0410c640f2",25:"d2174a3d0f",26:"8e64eecfbc",27:"46b5f4a2f4",28:"4c4ce06740",29:"55107f8128",30:"593f36199b",31:"d865c32e9e",32:"69b286885b",33:"5fe7ca77b4",34:"f84a8f136b",35:"568042af5b",36:"91be5f0949",37:"1656faaca6",38:"5101b20f0e",39:"f5b23e68d3",40:"7aebe29fdd",41:"4037d759fb",42:"502fb879df",43:"4e77e4fd67",44:"bc41baae5c",45:"b4c88c1463",46:"6f4b84c845",63:"278cac7243",64:"3db6f1a3c0",65:"069ff08632",66:"a831391dc6",67:"bc1627aff6",78:"0448047dd2",80:"6a4a755bea",81:"538d8d6739",82:"6ceac33aad",83:"0bcbdd951e",92:"d934ed2b4a",102:"281021a3a9",104:"fc9c07b8cd",139:"f93e41379d",140:"0249d97e8a",141:"d392128c8a",142:"5ac02ee2af",144:"187e0bca90",145:"8b160531d0",146:"a74ee3ed8d",147:"c68c3a74e4",148:"ee643fd065",149:"30c9bf7544",150:"a50bb753e7",151:"e49233a360",152:"5dae4d32c1",153:"9303d7ede1",154:"aefde569a6",155:"fafb81d252",156:"f0d3a17132",157:"9c4ab5ac17",158:"5f345142ba",159:"60ea7b9e05",160:"3e8b30590e",161:"bda50cca83",162:"36f1221a5c",163:"6b953f8345",164:"347432290d",165:"0351723353",166:"15da6b46ea",167:"d7f56a1c14",168:"50c570b300",169:"2cb410bd22",170:"3d381a2717",171:"8fa597aab8",172:"3d6e2480a5",173:"3aa6bbc108",174:"28f294bc1d",175:"340dd797a8",176:"f37136383a",177:"04fa092c6f",178:"cb82537aa7",179:"d95f559c3a",180:"04727ca58f",181:"a6df76569b",182:"69fd2c94aa",183:"edcc24d205",184:"1428fb58c0",185:"51b6446e5e",186:"52faffa098",187:"367bda24e8",188:"336ff74c48",189:"ee244671a9",190:"df42cff51c",191:"d969571e8c",192:"ff78d16109",193:"68f5f1362f",194:"585b0155c4",195:"f2bace13aa",196:"6e88e76a9e",197:"be4f7f718a",198:"8a05359e6b",199:"0babf167ea",200:"57ac0daf74",201:"1bfec99489",202:"84bcd9ec7c",203:"f6d803da16",204:"3883db7775",205:"18ed817d5e",206:"c54a264e78",207:"c24140a4a8",208:"d6716a4df0",209:"9ab6492305",210:"8d93b0b9f7",211:"ee0d8796aa",212:"09705e6ffc",213:"05f414fe8e",214:"22e2b8d0bd",215:"cbf4509a93",216:"8b51e3e339",217:"7eeb325573",218:"9890fc5746",219:"09fce3f236",220:"7c7ddbbb54",221:"ec0028258d",222:"29305a6142",223:"fe7a6da828",224:"b11892750e",225:"d8498747db",226:"9a6a4cc192",227:"7de6ffdfb0",228:"a9120227e5",229:"7bfbebdd39",230:"3b0310e310"}[e]+".js"}(e);var r=new Error;n=function(a){o.onerror=o.onload=null,clearTimeout(b);var t=f[e];if(0!==t){if(t){var c=a&&("load"===a.type?"missing":a.type),n=a&&a.target&&a.target.src;r.message="Loading chunk "+e+" failed.\n("+c+": "+n+")",r.name="ChunkLoadError",r.type=c,r.request=n,t[1](r)}f[e]=void 0}};var b=setTimeout((function(){n({type:"timeout",target:o})}),12e4);o.onerror=o.onload=n,document.head.appendChild(o)}return Promise.all(a)},d.m=e,d.c=c,d.d=function(e,a,t){d.o(e,a)||Object.defineProperty(e,a,{enumerable:!0,get:t})},d.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},d.t=function(e,a){if(1&a&&(e=d(e)),8&a)return e;if(4&a&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(d.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&a&&"string"!=typeof e)for(var c in e)d.d(t,c,function(a){return e[a]}.bind(null,c));return t},d.n=function(e){var a=e&&e.__esModule?function(){return e.default}:function(){return e};return d.d(a,"a",a),a},d.o=function(e,a){return Object.prototype.hasOwnProperty.call(e,a)},d.p="https://static.bolha.com/dist/",d.oe=function(e){throw console.error(e),e};var o=window.webpackJsonp=window.webpackJsonp||[],r=o.push.bind(o);o.push=a,o=o.slice();for(var b=0;b<o.length;b++)a(o[b]);var u=r;t()}({516:function(e,a,t){"use strict";t.d(a,"a",(function(){return c}));var c=function(){0}},619:function(e,a){!function(){function e(e,a){a=a||{bubbles:!1,cancelable:!1,detail:void 0};var t=document.createEvent("CustomEvent");return t.initCustomEvent(e,a.bubbles,a.cancelable,a.detail),t}"function"!=typeof window.CustomEvent&&(e.prototype=window.Event.prototype,window.CustomEvent=e)}()},651:function(e,a,t){"use strict";t.r(a);t(619);var c=t(516);!function(){var e,a,t=document.documentElement;if(null===(e=window.CSS)||void 0===e||null===(a=e.supports)||void 0===a?void 0:a.call(e,"(font:-apple-system-body) and (-webkit-touch-callout:none) and (-webkit-tap-highlight-color:hotpink)")){var c=document.querySelector('meta[name="viewport"]');null!==c&&(c.content="".concat(c.content,",user-scalable=no"))}t.classList.remove("no-js"),t.classList.add("js")}(),Object(c.a)()},692:function(e,a,t){e.exports=t(651)}});</script>
-                                    <script>(window.webpackJsonp=window.webpackJsonp||[]).push([[52],[],[[692,1]]]);</script>
+                        <script>!function(e){function a(a){for(var c,d,o=a[0],r=a[1],b=a[2],i=0,l=[];i<o.length;i++)d=o[i],Object.prototype.hasOwnProperty.call(n,d)&&n[d]&&l.push(n[d][0]),n[d]=0;for(c in r)Object.prototype.hasOwnProperty.call(r,c)&&(e[c]=r[c]);for(u&&u(a);l.length;)l.shift()();return f.push.apply(f,b||[]),t()}function t(){for(var e,a=0;a<f.length;a++){for(var t=f[a],c=!0,o=1;o<t.length;o++){var r=t[o];0!==n[r]&&(c=!1)}c&&(f.splice(a--,1),e=d(d.s=t[0]))}return e}var c={},n={1:0},f=[];function d(a){if(c[a])return c[a].exports;var t=c[a]={i:a,l:!1,exports:{}};return e[a].call(t.exports,t,t.exports,d),t.l=!0,t.exports}d.e=function(e){var a=[],t=n[e];if(0!==t)if(t)a.push(t[2]);else{var c=new Promise((function(a,c){t=n[e]=[a,c]}));a.push(t[2]=c);var f,o=document.createElement("script");o.charset="utf-8",o.timeout=120,d.nc&&o.setAttribute("nonce",d.nc),o.src=function(e){return d.p+"6559406d608469eefd6f5e0c5c852b5c_"+{0:"046e34975a",2:"c1ea0b186c",3:"e1cbada41f",4:"58427d0f3d",5:"34fa2c60b5",6:"dc66d1f807",7:"0b59d76c30",8:"b49baae635",9:"ffb6755698",10:"09b3fb959f",11:"e192208b68",12:"cf43cc1c25",13:"73f83f57ea",14:"8b14aae77e",15:"32f3fed9b6",16:"9025446c41",17:"c6405e5026",18:"7048948e4c",19:"c19d13403f",20:"dc200594d2",21:"f9b55d0c83",22:"1b0208a4f8",23:"001283eff8",24:"4587be3d94",25:"a11e8e71d1",26:"26c6f9977e",27:"74e6fb0872",28:"6e34df5224",29:"014c5684f6",30:"538da65f23",31:"bfa3149f05",32:"69b286885b",33:"b1835fd17c",34:"13b4631964",35:"69e40de50c",36:"5fa2bc71b7",37:"1abc5a54a1",38:"fab0cfb827",39:"24ddd0eed6",40:"0435e48a9f",41:"4037d759fb",42:"246b81f6ca",43:"dc94863b39",44:"64f6755031",45:"0a2d865c07",46:"6f4b84c845",47:"a2ef82e373",64:"6d6e292705",65:"b57944802c",66:"e3e28458d3",67:"bf74ee7f66",68:"f61908a0b9",79:"4a9fd4d02e",81:"29c92ad2b6",82:"4a748d861a",83:"4c79d49338",84:"fe7fbbfd41",93:"7e83a52b3c",103:"3076408ee7",105:"1c851b618e",140:"ad50c8d95a",141:"e63d394fd8",142:"17dfa40657",144:"94bb8178c7",145:"1c09550024",146:"57535f6317",147:"a6fadab246",148:"850fd936de",149:"bb520c58ce",150:"af49ceb391",151:"a7f279d25b",152:"d948b06e50",153:"13684a0623",154:"26e466eacc",155:"b689092313",156:"5f6a11afe0",157:"d01f049cd1",158:"2fcaabf2ba",159:"a86221678f",160:"bb547a2d1e",161:"32f1e110e6",162:"f850a6f139",163:"77986008b1",164:"ecdda980cd",165:"00936abf4c",166:"438bbded10",167:"d8be76a72f",168:"36998b3b24",169:"2cb410bd22",170:"31ec92d792",171:"04398f5e07",172:"69abda0983",173:"13c08002fd",174:"5a310ed4ff",175:"cb2c284b8c",176:"d811bd0d02",177:"3ee763c55b",178:"8871a3410b",179:"622ff1301d",180:"b114bf4870",181:"31f6bfe9d8",182:"7fb2652f59",183:"128602f740",184:"1428fb58c0",185:"070768b83a",186:"0d9939bf52",187:"62815ce50a",188:"f6a21137ff",189:"e6532de544",190:"b8e8c3c3a4",191:"a5d0b3aab1",192:"44a43981f7",193:"6ec5079f0b",194:"588ca694e9",195:"bf0244e47d",196:"d4a618ec23",197:"be4f7f718a",198:"1da0dd7062",199:"0babf167ea",200:"57ac0daf74",201:"a299d08cea",202:"d980e81b0a",203:"26ff8c5655",204:"0fb583de0c",205:"422d057e98",206:"c54a264e78",207:"b92795358f",208:"ea7a9ca010",209:"dde1a160d7",210:"5f1295c4b2",211:"ee0d8796aa",212:"e8e34efe75",213:"1580724c2d",214:"85d38b2d89",215:"cbf4509a93",216:"438e69c8b2",217:"7eeb325573",218:"9890fc5746",219:"942ccf539a",220:"7c7ddbbb54",221:"ec0028258d",222:"a79914ccc2",223:"48fe657c71",224:"f4ce8814ab",225:"1da07b0d41",226:"a155fa31a1",227:"01ba5ad81d",228:"60b357b4a3",229:"89e80611be",230:"e43b3cee71"}[e]+".js"}(e);var r=new Error;f=function(a){o.onerror=o.onload=null,clearTimeout(b);var t=n[e];if(0!==t){if(t){var c=a&&("load"===a.type?"missing":a.type),f=a&&a.target&&a.target.src;r.message="Loading chunk "+e+" failed.\n("+c+": "+f+")",r.name="ChunkLoadError",r.type=c,r.request=f,t[1](r)}n[e]=void 0}};var b=setTimeout((function(){f({type:"timeout",target:o})}),12e4);o.onerror=o.onload=f,document.head.appendChild(o)}return Promise.all(a)},d.m=e,d.c=c,d.d=function(e,a,t){d.o(e,a)||Object.defineProperty(e,a,{enumerable:!0,get:t})},d.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},d.t=function(e,a){if(1&a&&(e=d(e)),8&a)return e;if(4&a&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(d.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&a&&"string"!=typeof e)for(var c in e)d.d(t,c,function(a){return e[a]}.bind(null,c));return t},d.n=function(e){var a=e&&e.__esModule?function(){return e.default}:function(){return e};return d.d(a,"a",a),a},d.o=function(e,a){return Object.prototype.hasOwnProperty.call(e,a)},d.p="https://static.bolha.com/dist/",d.oe=function(e){throw console.error(e),e};var o=window.webpackJsonp=window.webpackJsonp||[],r=o.push.bind(o);o.push=a,o=o.slice();for(var b=0;b<o.length;b++)a(o[b]);var u=r;t()}({517:function(e,a,t){"use strict";t.d(a,"a",(function(){return c}));var c=function(){0}},620:function(e,a){!function(){function e(e,a){a=a||{bubbles:!1,cancelable:!1,detail:void 0};var t=document.createEvent("CustomEvent");return t.initCustomEvent(e,a.bubbles,a.cancelable,a.detail),t}"function"!=typeof window.CustomEvent&&(e.prototype=window.Event.prototype,window.CustomEvent=e)}()},652:function(e,a,t){"use strict";t.r(a);t(620);var c=t(517);!function(){var e,a,t=document.documentElement;if(null===(e=window.CSS)||void 0===e||null===(a=e.supports)||void 0===a?void 0:a.call(e,"(font:-apple-system-body) and (-webkit-touch-callout:none) and (-webkit-tap-highlight-color:hotpink)")){var c=document.querySelector('meta[name="viewport"]');null!==c&&(c.content="".concat(c.content,",user-scalable=no"))}t.classList.remove("no-js"),t.classList.add("js")}(),Object(c.a)()},693:function(e,a,t){e.exports=t(652)}});</script>
+                                    <script>(window.webpackJsonp=window.webpackJsonp||[]).push([[53],[],[[693,1]]]);</script>
                             
 
 
@@ -373,75 +373,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     
             <div class="Attention HeaderSpotlight">
-            
-<!-- Ticker PROMO -->
+            <!-- modro ozadje, ikona informacij -->
 <div class="wrap-notification" style="margin-top:5px;">
-   <style>
-      .nborder {border: 1px solid #fff; border-radius: 4px; background-color: #fff; padding: .83333rem .83333rem .83333rem .83333rem;}
-      .nborder::before {background-image: none;}
-      #divBase {font-family: Helvetica; font-size: 130%;display:inline-block;vertical-align: top;}
-      #divA {display: block; width:7%; float:left;}
-      #divB {display: block; width:93%; float:right; margin-top: 20px;}
-      /* VIEWPORT TWEAKS */
-      @media (min-width: 1280px) {#divB {margin-top: 10px; padding-right: 40px;}}
-      @media (max-width: 1280px) {#divB {margin-top: 10px; padding-right: 40px;}}
-      @media (max-width: 2600px) {#divBase {font-family: Helvetica; font-size: 130%;display:inline-block;vertical-align: top; width:100%;}
-      @media (max-width: 910px) {#divB {margin-top: 10px; padding-right: 0px;}}
-      @media (max-width: 810px) {#divB {margin-top: 10px; padding-right: 0px;}}
-      @media (max-width: 750px) {#divB {margin-top: 10px;}}
-      @media (max-width: 750px) {#divB {margin-top: 10px; }
-      #divA {display: block; width:15%; float:left;}
-      #divB {display: block; width:85%; float:right;margin-top: 10px;}
-      }
-      @media (max-width: 560px) {#divA {display: block; width:100%; float:left; text-align: center;}
-      #divB {display: block; width:100%; float:left;margin-top: 0px; text-align: center;}}
-      @media (max-width: 480px) {#divBase {font-size: 120%; text-align:center;}}
-      @media (max-width: 350px) {#divBase {margin: 0px; text-align: center;}}
-      .animated {
-      animation-duration: 1s;
-      animation-fill-mode: both;
-      animation-iteration-count: 1;
-      animation-delay: 1s;
-      }
-      @keyframes bounce{
-      0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
-      40% {transform: translateY(-30px);}
-      60% {transform: translateY(-15px);}
-      }
-      .bounce {
-      animation-name: bounce;
-      }
-      .buttonblhgo {
-      font-size: 11px;
-      text-decoration: none;
-      background-color: #EE8F44;
-      color: #fff;
-      padding: .75rem 1.66667rem;
-      border: 1px solid #cc6510;
-      //text-shadow: 0 -1px 0 rgba(0,0,0,.4);
-      transition: all .08s ease-in-out;
-      position: relative;
-      display: inline-block;
-      border-radius: 4px;
-      }
-      .buttonblhgo:hover{
-      color: #fff;
-      text-decoration: none;
-      }
-   </style>
-   <div class="wrap-notification" style="margin-top:5px;">
-      <div class="notification nborder">
-         <div id="divBase">
-            <div id="divA" class="animated bounce">
-               <a href="https://bit.ly/3uahInM" target="_blank"><img src="https://www.bolha.com/3d/banneri/ugledni_delodajalec.png" width="60" height="60" alt="nagradna igra logo"></a>
-            </div>
-            <div id="divB" style="color: #333;">
-               <span>Oddajte svoj glas v raziskavi Ugled delodajalca 2020 in sodelujte v nagradnem žrebu za e-bralnik, pametno uro, prenosni zvočnik ter druge praktične nagrade.</span>
-               <a href="https://bit.ly/3uahInM" target="_blank" class="buttonblhgo">Oddajte svoj glas</a>
-            </div>
-         </div>
-      </div>
-   </div>
+    <div class="notification notification--info">
+        <p>Zasledili smo, da so spletni goljufi tokrat na lovu za vašimi kreditnimi karticami. Pozivamo vas, da podatkov o kreditni kartici ne posredujete tretjim osebam. Vaša bolha.com.</p>
+    </div>
 </div>
             
         </div>
@@ -564,7 +500,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             
                             <header class="entity-list-header">
                                 <div class="entity-list-meta">
-                                    <strong class="entities-count">15</strong> <span class="entities-count-label">oglasov</span>
+                                    <strong class="entities-count">13</strong> <span class="entities-count-label">oglasov</span>
                                 </div>
                                 <div class="entity-list-actions entity-list-actions--filter">
                                     <a class="link" href="#detailedSearch-filter-block">Filtriraj</a>
@@ -713,29 +649,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
 
-<div class="EntityList EntityList--Standard EntityList--Regular EntityList--ListItemRegularAd EntityList--itemCount_15">
+<div class="EntityList EntityList--Standard EntityList--Regular EntityList--ListItemRegularAd EntityList--itemCount_13">
         <h3 class="EntityList-groupTitle">Oglasi na bolha.com</h3>
             <ul class="EntityList-items">
 
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n1  bp-radix__faux-anchor  "  data-href="/pametne-ure-mobilna-telefonija/apple-watch-nike-series-5-gps-44mm-space-gray-aluminum-oglas-5933975"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5933975}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n1  bp-radix__faux-anchor  "  data-href="/sportne-ure-merilci/apple-watch-nike-s4-gps-44mm-oglas-5997904"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5997904}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="5933975" class="link" href="/pametne-ure-mobilna-telefonija/apple-watch-nike-series-5-gps-44mm-space-gray-aluminum-oglas-5933975">NOV Apple Watch Nike Series 5 GPS, 44mm Space Gray Aluminum, garancija</a></h3>
+                    <h3 class="entity-title"><a name="5997904" class="link" href="/sportne-ure-merilci/apple-watch-nike-s4-gps-44mm-oglas-5997904">NOVO Apple Watch Nike+ S4 GPS 44mm</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/pametne-ure-mobilna-telefonija/apple-watch-nike-series-5-gps-44mm-space-gray-aluminum-oglas-5933975">
+                <a class="link" href="/sportne-ure-merilci/apple-watch-nike-s4-gps-44mm-oglas-5997904">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/apple-watch-nike-series-5-gps-44mm-space-gray-aluminum-slika-21177339.jpg"
-                        alt="NOV Apple Watch Nike Series 5 GPS, 44mm Space Gray Aluminum, garancija"
+                        data-src="//www.bolha.com/image-200x150/sportne-ure-merilci/apple-watch-nike-s4-gps-44mm-slika-21274673.jpg"
+                        alt="NOVO Apple Watch Nike+ S4 GPS 44mm"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/apple-watch-nike-series-5-gps-44mm-space-gray-aluminum-slika-21177339.jpg"
-                            alt="NOV Apple Watch Nike Series 5 GPS, 44mm Space Gray Aluminum, garancija"
+                            src="//www.bolha.com/image-200x150/sportne-ure-merilci/apple-watch-nike-s4-gps-44mm-slika-21274673.jpg"
+                            alt="NOVO Apple Watch Nike+ S4 GPS 44mm"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -752,14 +688,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Koper, Koper<br />
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Ljubljana Moste Polje, Moste<br />
                                                                         </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-02-10T11:06:02+01:00" pubdate="pubdate">10.02.2021.</time>
+                <time class="date date--full" datetime="2021-03-01T11:01:58+01:00" pubdate="pubdate">01.03.2021.</time>
             </div>
         
         
@@ -784,7 +720,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     
                                             <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/pametne-ure-mobilna-telefonija/apple-watch-nike-series-5-gps-44mm-space-gray-aluminum-oglas-5933975?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/sportne-ure-merilci/apple-watch-nike-s4-gps-44mm-oglas-5997904?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
                         </li>
                     
                     
@@ -800,7 +736,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                300&nbsp;<span class="currency">€</span>                            </strong>
+                                299&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -1492,101 +1428,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n9  bp-radix__faux-anchor  "  data-href="/moske-rocne-ure/kupim-apple-watch-oglas-5316514"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5316514}'>
-                <article class="entity-body cf">
-
-    
-                    <h3 class="entity-title"><a name="5316514" class="link" href="/moske-rocne-ure/kupim-apple-watch-oglas-5316514">KUPIM APPLE WATCH</a></h3>
-        
-                    <div class="entity-thumbnail">
-                <a class="link" href="/moske-rocne-ure/kupim-apple-watch-oglas-5316514">
-                    <img
-                        class="img entity-thumbnail-img"
-                        src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/moske-rocne-ure/kupim-apple-watch-slika-20238542.jpg"
-                        alt="KUPIM APPLE WATCH"
-                    />
-                    <noscript>
-                        <img
-                            class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/moske-rocne-ure/kupim-apple-watch-slika-20238542.jpg"
-                            alt="KUPIM APPLE WATCH"
-                        />
-                    </noscript>
-                    <div class="entity-thumbnail-preloader">
-                        <div class="Preloader Preloader--center">
-                            <div class="Preloader-inner"></div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        
-        
-                    <div class="entity-description">
-
-                
-                
-                                    <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Maribor, Ostalo<br />
-                                                                        </div>
-                
-            </div>
-        
-                    <div class="entity-pub-date">
-                <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-01-22T20:57:56+01:00" pubdate="pubdate">22.01.2021.</time>
-            </div>
-        
-        
-                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
-                            </div>
-        
-        
-                    <div class="entity-tools">
-                <ul class="tool-items">
-
-                                            <li class="tool-item">
-                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
-                        </li>
-                    
-                    
-                    
-                </ul>
-            </div>
-        
-                    <div class="entity-features">
-                <ul class="feature-items cf">
-
-                    
-                                            <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/moske-rocne-ure/kupim-apple-watch-oglas-5316514?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
-                        </li>
-                    
-                    
-                    
-                    
-                    
-                    
-                                    </ul>
-            </div>
-        
-        
-                    <div class="entity-prices">
-                <ul class="price-items cf">
-                                            <li class="price-item">
-                            <strong class="price price--hrk">
-                                350&nbsp;<span class="currency">€</span>                            </strong>
-                        </li>
-                                                            </ul>
-            </div>
-        
-        
-        
-    
-</article>
-            </li>
-            
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n10  bp-radix__faux-anchor  "  data-href="/pametne-ure-mobilna-telefonija/apple-watch-serie-3-iwatch-serije-3-42mm-oglas-6212190"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6212190}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n9  bp-radix__faux-anchor  "  data-href="/pametne-ure-mobilna-telefonija/apple-watch-serie-3-iwatch-serije-3-42mm-oglas-6212190"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6212190}'>
                 <article class="entity-body cf">
 
     
@@ -1680,23 +1522,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                
-                                            <li class="EntityList-item EntityList-item--banner EntityList-bannerContainer BannerAlignment BannerAlignment--center  hidden  ">
-                            <div class="BannerAlignment-inner">
-                                                                        
-<div class="Banner Banner--list" data-zone-id="/4099697/dfp_list_middle_bolha" id="dfp-zone-container-dfp_list_middle_bolha"></div>
-                                                            </div>
-                                        </li>
-                
-                                            <li class="EntityList-item EntityList-item--banner EntityList-bannerContainer BannerAlignment BannerAlignment--center  hidden  ">
-                            <div class="BannerAlignment-inner">
-                                                                        
-<div class="Banner Banner--list" data-zone-id="/4099697/dfp_list_middle_bolha_mobile" id="dfp-zone-container-dfp_list_middle_bolha_mobile"></div>
-                                                            </div>
-                                        </li>
-                
-            
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n11  bp-radix__faux-anchor  "  data-href="/moske-rocne-ure/kupim-huawei-watch-gt-2-oglas-3929622"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":3929622}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n10  bp-radix__faux-anchor  "  data-href="/moske-rocne-ure/kupim-huawei-watch-gt-2-oglas-3929622"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":3929622}'>
                 <article class="entity-body cf">
 
     
@@ -1790,7 +1616,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n12  bp-radix__faux-anchor  "  data-href="/moske-rocne-ure/apple-watch-4-5-oglas-3428895"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":3428895}'>
+                
+                                            <li class="EntityList-item EntityList-item--banner EntityList-bannerContainer BannerAlignment BannerAlignment--center  hidden  ">
+                            <div class="BannerAlignment-inner">
+                                                                        
+<div class="Banner Banner--list" data-zone-id="/4099697/dfp_list_middle_bolha" id="dfp-zone-container-dfp_list_middle_bolha"></div>
+                                                            </div>
+                                        </li>
+                
+                                            <li class="EntityList-item EntityList-item--banner EntityList-bannerContainer BannerAlignment BannerAlignment--center  hidden  ">
+                            <div class="BannerAlignment-inner">
+                                                                        
+<div class="Banner Banner--list" data-zone-id="/4099697/dfp_list_middle_bolha_mobile" id="dfp-zone-container-dfp_list_middle_bolha_mobile"></div>
+                                                            </div>
+                                        </li>
+                
+            
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n11  bp-radix__faux-anchor  "  data-href="/moske-rocne-ure/apple-watch-4-5-oglas-3428895"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":3428895}'>
                 <article class="entity-body cf">
 
     
@@ -1884,7 +1726,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n13  bp-radix__faux-anchor  "  data-href="/moske-rocne-ure/apple-watch-4-oglas-4023403"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":4023403}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n12  bp-radix__faux-anchor  "  data-href="/moske-rocne-ure/apple-watch-4-oglas-4023403"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":4023403}'>
                 <article class="entity-body cf">
 
     
@@ -1978,101 +1820,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n14  bp-radix__faux-anchor  "  data-href="/moske-rocne-ure/kupim-apple-watch-6-ali-se-oglas-5316504"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5316504}'>
-                <article class="entity-body cf">
-
-    
-                    <h3 class="entity-title"><a name="5316504" class="link" href="/moske-rocne-ure/kupim-apple-watch-6-ali-se-oglas-5316504">KUPIM APPLE WATCH 6 ali SE</a></h3>
-        
-                    <div class="entity-thumbnail">
-                <a class="link" href="/moske-rocne-ure/kupim-apple-watch-6-ali-se-oglas-5316504">
-                    <img
-                        class="img entity-thumbnail-img"
-                        src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/moske-rocne-ure/kupim-apple-watch-6-ali-se-slika-20238515.jpg"
-                        alt="KUPIM APPLE WATCH 6 ali SE"
-                    />
-                    <noscript>
-                        <img
-                            class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/moske-rocne-ure/kupim-apple-watch-6-ali-se-slika-20238515.jpg"
-                            alt="KUPIM APPLE WATCH 6 ali SE"
-                        />
-                    </noscript>
-                    <div class="entity-thumbnail-preloader">
-                        <div class="Preloader Preloader--center">
-                            <div class="Preloader-inner"></div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        
-        
-                    <div class="entity-description">
-
-                
-                
-                                    <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Maribor, Ostalo<br />
-                                                                        </div>
-                
-            </div>
-        
-                    <div class="entity-pub-date">
-                <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-01-22T20:57:56+01:00" pubdate="pubdate">22.01.2021.</time>
-            </div>
-        
-        
-                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
-                            </div>
-        
-        
-                    <div class="entity-tools">
-                <ul class="tool-items">
-
-                                            <li class="tool-item">
-                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
-                        </li>
-                    
-                    
-                    
-                </ul>
-            </div>
-        
-                    <div class="entity-features">
-                <ul class="feature-items cf">
-
-                    
-                                            <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/moske-rocne-ure/kupim-apple-watch-6-ali-se-oglas-5316504?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
-                        </li>
-                    
-                    
-                    
-                    
-                    
-                    
-                                    </ul>
-            </div>
-        
-        
-                    <div class="entity-prices">
-                <ul class="price-items cf">
-                                            <li class="price-item">
-                            <strong class="price price--hrk">
-                                350&nbsp;<span class="currency">€</span>                            </strong>
-                        </li>
-                                                            </ul>
-            </div>
-        
-        
-        
-    
-</article>
-            </li>
-            
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n15  bp-radix__faux-anchor  "  data-href="/pametne-ure-mobilna-telefonija/kupim-huawei-watch-gt2-najboljse-placilo-gotovina-takoj-oglas-6251921"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6251921}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n13  bp-radix__faux-anchor  "  data-href="/pametne-ure-mobilna-telefonija/kupim-huawei-watch-gt2-najboljse-placilo-gotovina-takoj-oglas-6251921"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6251921}'>
                 <article class="entity-body cf">
 
     
@@ -2222,7 +1970,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                             <ul class="FormOptionsListing-subCategories">
                                                                                                                                                                     <li class="FormOptionsListing-subCategoryItem">
                                                                                                                                                                                     <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;categoryId=29641" >Pametne ure</a>
-                                                                                            <span class="FormOptionsListing-entitiesCount">8</span>
+                                                                                            <span class="FormOptionsListing-entitiesCount">7</span>
                                                                                                                                                                             </li>
                                                                                                                                                             </ul>
                                                                         </li>
@@ -2232,7 +1980,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                             <ul class="FormOptionsListing-subCategories">
                                                                                                                                                                     <li class="FormOptionsListing-subCategoryItem">
                                                                                                                                                                                     <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;categoryId=12193" >Moške ročne ure</a>
-                                                                                            <span class="FormOptionsListing-entitiesCount">6</span>
+                                                                                            <span class="FormOptionsListing-entitiesCount">4</span>
+                                                                                                                                                                            </li>
+                                                                                                                                                            </ul>
+                                                                        </li>
+                                                                                                                                            <li class="FormOptionsListing-topCategoryItem">
+                                                                            <span class="FormOptionsListing-topCategoryTitle">Športni rekviziti in pripomočki</span>
+                                                                            <a href="/sportni-rekviziti-in-pripomocki" title="Za pomik v kategorijo kliknite" >&#187;</a>
+                                                                            <ul class="FormOptionsListing-subCategories">
+                                                                                                                                                                    <li class="FormOptionsListing-subCategoryItem">
+                                                                                                                                                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;categoryId=29223" >Športne ure, merilci</a>
+                                                                                            <span class="FormOptionsListing-entitiesCount">1</span>
                                                                                                                                                                             </li>
                                                                                                                                                             </ul>
                                                                         </li>
@@ -2265,27 +2023,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                         <li>
                                                     <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;price[min]=10&amp;price[max]=299">
                                 10                                - 299 €                            </a>
-                            <span class="FormOptionsListing-entitiesCount">2</span>
-                                                </li>
-                                                        <li>
-                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;price[min]=300&amp;price[max]=349">
-                                300                                - 349 €                            </a>
-                            <span class="FormOptionsListing-entitiesCount">2</span>
-                                                </li>
-                                                        <li>
-                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;price[min]=350&amp;price[max]=429">
-                                350                                - 429 €                            </a>
                             <span class="FormOptionsListing-entitiesCount">3</span>
                                                 </li>
                                                         <li>
-                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;price[min]=430&amp;price[max]=469">
-                                430                                - 469 €                            </a>
+                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;price[min]=300&amp;price[max]=439">
+                                300                                - 439 €                            </a>
                             <span class="FormOptionsListing-entitiesCount">3</span>
                                                 </li>
                                                         <li>
-                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;price[min]=470">
-                                470                                - ... €                            </a>
-                            <span class="FormOptionsListing-entitiesCount">1</span>
+                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;price[min]=440">
+                                440                                - ... €                            </a>
+                            <span class="FormOptionsListing-entitiesCount">3</span>
                                                 </li>
                             </ul>
         </div>
@@ -2404,7 +2152,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 
 <script>
-    app.boot.push({"name":"GeoLocationSelector","values":{"el":"#GeoLocationSelector-geo-wrap","range":{"el":"#GeoLocationSelector-geo","address":{"url":"\/ccapi\/v2\/geocoder\/autocomplete?address={{address}}","el":"#GeoLocationSelector-address-wrapper","input":"#GeoLocationSelector-address","initialValue":null},"autoComplete":{"url":"\/ccapi\/v2\/geocoder\/autocomplete?address={{address}}","el":"#GeoLocationSelector-autoComplete-wrapper","input":"#GeoLocationSelector-autoComplete"},"autoLocate":{"url":"\/ccapi\/v2\/geocoder\/reverse\/address?geolocation[lat]={{lat}}&geolocation[lng]={{lng}}","el":"#GeoLocationSelector-autoLocate-wrapper","input":"#GeoLocationSelector-autoLocate","useUrl":true},"lat":{"el":"#GeoLocationSelector-lat","initialValue":null},"lng":{"el":"#GeoLocationSelector-lng","initialValue":null},"radius":{"el":"#GeoLocationSelector-radius-wrapper","input":"#GeoLocationSelector-radius","initialValue":20,"values":[1,2,5,10,20,50,100,200,99999]}},"hierarchy":{"elementName":"geo[locationIds]","el":".MultipleOptionHierarchySelector--GeoLocationSelector-locationIds","elementTargetId":"GeoLocationSelector-locationIds-hiddenElement","maxLevel":0,"maxValuesCount":{"amount":50,"message":"Ni mogo\u010de izbrati ve\u010d kot toliko polj \u0160t. elementov v filt. va\u0161a lokacija: 50"},"adId":null,"levelMap":{"location_id_level_0":0},"hideDefault":false,"hideAboveLevel":0,"optionalArguments":null,"initialValues":{"location_id_level_0":{"selectedValues":[],"url":"\/ccapi\/v2\/locality","filters":[],"fetchNextLevelOnlyOnId":["-30","-40"]}},"fetchInitialData":true,"columnized":false,"componentType":"default","initialCountValues":[{"locationId":26325,"count":1},{"locationId":26324,"count":0},{"locationId":26323,"count":0},{"locationId":26322,"count":0},{"locationId":26321,"count":2},{"locationId":26320,"count":4},{"locationId":26319,"count":6},{"locationId":26318,"count":0},{"locationId":26317,"count":0},{"locationId":26316,"count":0},{"locationId":26315,"count":1},{"locationId":26314,"count":0},{"locationId":44285,"count":0},{"locationId":30277,"count":0},{"locationId":-30,"count":1},{"locationId":-40,"count":0}],"groupSelect":{"target":"-20","values":["26325","26324","26323","26322","26321","26320","26319","26318","26317","26316","26315","26314","44285","30277"]}}}});</script>
+    app.boot.push({"name":"GeoLocationSelector","values":{"el":"#GeoLocationSelector-geo-wrap","range":{"el":"#GeoLocationSelector-geo","address":{"url":"\/ccapi\/v2\/geocoder\/autocomplete?address={{address}}","el":"#GeoLocationSelector-address-wrapper","input":"#GeoLocationSelector-address","initialValue":null},"autoComplete":{"url":"\/ccapi\/v2\/geocoder\/autocomplete?address={{address}}","el":"#GeoLocationSelector-autoComplete-wrapper","input":"#GeoLocationSelector-autoComplete"},"autoLocate":{"url":"\/ccapi\/v2\/geocoder\/reverse\/address?geolocation[lat]={{lat}}&geolocation[lng]={{lng}}","el":"#GeoLocationSelector-autoLocate-wrapper","input":"#GeoLocationSelector-autoLocate","useUrl":true},"lat":{"el":"#GeoLocationSelector-lat","initialValue":null},"lng":{"el":"#GeoLocationSelector-lng","initialValue":null},"radius":{"el":"#GeoLocationSelector-radius-wrapper","input":"#GeoLocationSelector-radius","initialValue":20,"values":[1,2,5,10,20,50,100,200,99999]}},"hierarchy":{"elementName":"geo[locationIds]","el":".MultipleOptionHierarchySelector--GeoLocationSelector-locationIds","elementTargetId":"GeoLocationSelector-locationIds-hiddenElement","maxLevel":0,"maxValuesCount":{"amount":50,"message":"Ni mogo\u010de izbrati ve\u010d kot toliko polj \u0160t. elementov v filt. va\u0161a lokacija: 50"},"adId":null,"levelMap":{"location_id_level_0":0},"hideDefault":false,"hideAboveLevel":0,"optionalArguments":null,"initialValues":{"location_id_level_0":{"selectedValues":[],"url":"\/ccapi\/v2\/locality","filters":[],"fetchNextLevelOnlyOnId":["-30","-40"]}},"fetchInitialData":true,"columnized":false,"componentType":"default","initialCountValues":[{"locationId":26325,"count":1},{"locationId":26324,"count":0},{"locationId":26323,"count":0},{"locationId":26322,"count":0},{"locationId":26321,"count":1},{"locationId":26320,"count":5},{"locationId":26319,"count":4},{"locationId":26318,"count":0},{"locationId":26317,"count":0},{"locationId":26316,"count":0},{"locationId":26315,"count":1},{"locationId":26314,"count":0},{"locationId":44285,"count":0},{"locationId":30277,"count":0},{"locationId":-30,"count":1},{"locationId":-40,"count":0}],"groupSelect":{"target":"-20","values":["26325","26324","26323","26322","26321","26320","26319","26318","26317","26316","26315","26314","44285","30277"]}}}});</script>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2461,11 +2209,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="EntityList EntityList--Small EntityList--Latest EntityList--ListItemLatestAd EntityList--itemCount_6">
             <ul class="EntityList-items">
 
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n1  bp-radix__faux-anchor  "  data-href="/fendt/fendt-309-ca-stoll-robust-f-15-hdpm-oglas-6409369"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409369}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n1  bp-radix__faux-anchor  "  data-href="/kmetijstvo-gozdarstvo-ostalo/seme-facelija-oglas-6430493"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6430493}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6409369" class="link" href="/fendt/fendt-309-ca-stoll-robust-f-15-hdpm-oglas-6409369">Fendt 309 CA + Stoll Robust F 15 HDPM</a></h3>
+                    <h3 class="entity-title"><a name="6430493" class="link" href="/kmetijstvo-gozdarstvo-ostalo/seme-facelija-oglas-6430493">Seme facelija</a></h3>
         
         
         
@@ -2492,11 +2240,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n2  bp-radix__faux-anchor  "  data-href="/alu-platisca/original-bmw-platisca-18-luknje-5x120-kolicina-4-bmw-serija-7-oglas-6409370"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409370}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n2  bp-radix__faux-anchor  "  data-href="/zbirateljstvo-ostalo/vodnjak-svetlega-in-temno-rjavega-lesa-oglas-6430492"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6430492}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6409370" class="link" href="/alu-platisca/original-bmw-platisca-18-luknje-5x120-kolicina-4-bmw-serija-7-oglas-6409370">Original BMW Platišča 18&#039;&#039; luknje 5x120, količina: 4, BMW serija 7</a></h3>
+                    <h3 class="entity-title"><a name="6430492" class="link" href="/zbirateljstvo-ostalo/vodnjak-svetlega-in-temno-rjavega-lesa-oglas-6430492">Vodnjak iz svetlega in temno rjavega lesa</a></h3>
         
         
         
@@ -2523,11 +2271,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n3  bp-radix__faux-anchor  "  data-href="/slascicarska-oprema/vozicek-odlaganje-pladnjev-oglas-6409368"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409368}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n3  bp-radix__faux-anchor  "  data-href="/ostala-kolesarska-oprema/prodam-pedala-kolo-oglas-6430491"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6430491}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6409368" class="link" href="/slascicarska-oprema/vozicek-odlaganje-pladnjev-oglas-6409368">VOZIČEK ZA ODLAGANJE PLADNJEV</a></h3>
+                    <h3 class="entity-title"><a name="6430491" class="link" href="/ostala-kolesarska-oprema/prodam-pedala-kolo-oglas-6430491">Prodam Pedala za kolo Nova</a></h3>
         
         
         
@@ -2554,11 +2302,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n4  bp-radix__faux-anchor  "  data-href="/duhovnost-strokovna-literatura-prirocniki/white-preroki-in-kralji-oglas-6409367"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409367}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n4  bp-radix__faux-anchor  "  data-href="/avto-oglasi/mercedes-benz-c-klasa-c-220-t-model-avtomatik-oglas-6430490"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6430490}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6409367" class="link" href="/duhovnost-strokovna-literatura-prirocniki/white-preroki-in-kralji-oglas-6409367">WHITE PREROKI IN KRALJI</a></h3>
+                    <h3 class="entity-title"><a name="6430490" class="link" href="/avto-oglasi/mercedes-benz-c-klasa-c-220-t-model-avtomatik-oglas-6430490">Mercedes-Benz C-klasa C 220 T-model avtomatik</a></h3>
         
         
         
@@ -2585,11 +2333,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n5  bp-radix__faux-anchor  "  data-href="/kuhinjske-armature/kuhinjska-pipa-oglas-6409366"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409366}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n5  bp-radix__faux-anchor  "  data-href="/evropa-filatelija/evropa-cept-nemcija-1984-mi-1210-1211-serija-ciste-rafl01-oglas-6430489"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6430489}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6409366" class="link" href="/kuhinjske-armature/kuhinjska-pipa-oglas-6409366">Kuhinjska pipa - NOVA</a></h3>
+                    <h3 class="entity-title"><a name="6430489" class="link" href="/evropa-filatelija/evropa-cept-nemcija-1984-mi-1210-1211-serija-ciste-rafl01-oglas-6430489">Evropa, CEPT - Nemčija 1984 - Mi 1210/1211 - serija, čiste (Rafl01)</a></h3>
         
         
         
@@ -2616,11 +2364,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n6  bp-radix__faux-anchor  "  data-href="/sandali-zenska-oblacila-obutev/nikoli-noseni-sandali-st-38-oglas-6409365"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6409365}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n6  bp-radix__faux-anchor  "  data-href="/poezija-leposlovje/marija-pucko-svajncer-ljubezenske-pesmi-oglas-6430488"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6430488}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6409365" class="link" href="/sandali-zenska-oblacila-obutev/nikoli-noseni-sandali-st-38-oglas-6409365">Novi nikoli nošeni sandali st 38</a></h3>
+                    <h3 class="entity-title"><a name="6430488" class="link" href="/poezija-leposlovje/marija-pucko-svajncer-ljubezenske-pesmi-oglas-6430488">Marija Pucko Svajncer: Ljubezenske pesmi</a></h3>
         
         
         
@@ -2823,12 +2571,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                 
 
 
-                        <script defer crossorigin="anonymous" src="https://static.bolha.com/dist/79fd4a98e8e399186aed682db0be1a29_2a687e5591.js"></script>
-                                    <script>(window.webpackJsonp=window.webpackJsonp||[]).push([[62],[],[[693,1,0]]]);</script>
-                                                    <script defer crossorigin="anonymous" src="https://static.bolha.com/dist/79fd4a98e8e399186aed682db0be1a29_f7189791bf.js"></script>
+                        <script defer crossorigin="anonymous" src="https://static.bolha.com/dist/6559406d608469eefd6f5e0c5c852b5c_046e34975a.js"></script>
+                                    <script>(window.webpackJsonp=window.webpackJsonp||[]).push([[63],[],[[694,1,0]]]);</script>
+                                                    <script defer crossorigin="anonymous" src="https://static.bolha.com/dist/6559406d608469eefd6f5e0c5c852b5c_8dbe67385b.js"></script>
             
 
-<script defer crossorigin="anonymous" src="https://static.bolha.com/js/veze.js?v=79fd4a98e8e399186aed682db0be1a29"></script>
+<script defer crossorigin="anonymous" src="https://static.bolha.com/js/veze.js?v=6559406d608469eefd6f5e0c5c852b5c"></script>
 
 <script id="wa_u"></script>
 
