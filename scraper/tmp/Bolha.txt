@@ -3,7 +3,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no" />
-<title>apple watch nike - Iskanje na bolha.com</title>
+<title>iphone 11 - Iskanje na bolha.com</title>
 <link rel="shortcut icon" href="https://static.bolha.com/dist/4ea70143ac.ico" />
 <link rel="apple-touch-icon-precomposed" href="https://static.bolha.com/dist/cc50a07b4c.png" />
 <meta name="description" content="" />
@@ -36,18 +36,18 @@
     
         app.boot.push({"name":"SearchAds","values":{}});
         app.boot.push({"name":"TrackingDetails","values":{"savedAdContext":"search"}});
-        app.boot.push({"name":"EntityListForm","values":{"el":"#detailedSearch","canonicalUrl":"index.php?ctl=search_ads&keywords=apple+watch+nike","defaultSort":"relevance","defaultFilterValues":{"page":1,"sort":"relevance","price[min]":"","price[max]":"","*":[0,"0",""]}}});
+        app.boot.push({"name":"EntityListForm","values":{"el":"#detailedSearch","canonicalUrl":"index.php?ctl=search_ads&keywords=iphone+11","defaultSort":"relevance","defaultFilterValues":{"page":1,"sort":"relevance","price[min]":"","price[max]":"","*":[0,"0",""]}}});
         app.boot.push({"name":"EntityListFormValuesConfiguration","values":{"urlParametersOrder":["ctl","keywords","categoryId","showAllCategories","price","condition","geo","adsWithImages","dontMatchAdDescription","hasDelivery","sort","page"]}});
         app.boot.push({"name":"FormValidator","values":{"el":"#detailedSearch"}});
         app.boot.push({"name":"Pagination","values":{"el":".PaginationContainer--top .Pagination"}});
         app.boot.push({"name":"Pagination","values":{"el":".PaginationContainer--bottom .Pagination"}});
         app.boot.push({"name":"MainSearchBox","values":{"el":"#search-main","minKeywordsLengthNecessary":true,"minKeywordsLengthMessage":"Vnesite izraz z vsaj 2 znakoma.","originalPlaceholder":"Kaj i\u0161\u010dete danes?","hasAutosuggest":true}});
-        app.boot.push({"name":"SavedSearchCreate","values":{"el":".SavedSearchCreate","searchContext":"search","searchUrl":"index.php?ctl=search_ads&keywords=apple+watch+nike","savedSearchEditUrl":null,"loginUrl":"https:\/\/www.bolha.com\/prijava\/?returnUrl=\/?ctl%3Dsearch_ads%26keywords%3Dapple%20watch%20nike","formId":"detailedSearch","defaultSuggestedTitle":"apple watch nike","searchParameters":[],"hasMobilePushNotificationsSupport":true,"mobileAppIosAppStoreUrl":"https:\/\/apps.apple.com\/app\/id1540081488","mobileAppAndroidAppStoreUrl":"https:\/\/play.google.com\/store\/apps\/details?id=net.trikoder.android.bolha"}});
-        app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemRegularAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":5997904},{"hasCompare":false,"isAdInSavedList":false,"id":6401269},{"hasCompare":false,"isAdInSavedList":false,"id":5745268},{"hasCompare":false,"isAdInSavedList":false,"id":6394139},{"hasCompare":false,"isAdInSavedList":false,"id":5455575},{"hasCompare":false,"isAdInSavedList":false,"id":5745446},{"hasCompare":false,"isAdInSavedList":false,"id":5851443},{"hasCompare":false,"isAdInSavedList":false,"id":6405640},{"hasCompare":false,"isAdInSavedList":false,"id":6212190},{"hasCompare":false,"isAdInSavedList":false,"id":3929622},{"hasCompare":false,"isAdInSavedList":false,"id":3428895},{"hasCompare":false,"isAdInSavedList":false,"id":4023403},{"hasCompare":false,"isAdInSavedList":false,"id":6251921}]}});
-        app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemVauVauAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":6394139}]}});
-        app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemLatestAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":6430493},{"hasCompare":false,"isAdInSavedList":false,"id":6430492},{"hasCompare":false,"isAdInSavedList":false,"id":6430491},{"hasCompare":false,"isAdInSavedList":false,"id":6430490},{"hasCompare":false,"isAdInSavedList":false,"id":6430489},{"hasCompare":false,"isAdInSavedList":false,"id":6430488}]}});
+        app.boot.push({"name":"SavedSearchCreate","values":{"el":".SavedSearchCreate","searchContext":"search","searchUrl":"index.php?ctl=search_ads&keywords=iphone+11","savedSearchEditUrl":null,"loginUrl":"https:\/\/www.bolha.com\/prijava\/?returnUrl=\/?ctl%3Dsearch_ads%26keywords%3Diphone%2011","formId":"detailedSearch","defaultSuggestedTitle":"iphone 11","searchParameters":[],"hasMobilePushNotificationsSupport":true,"mobileAppIosAppStoreUrl":"https:\/\/apps.apple.com\/app\/id1540081488","mobileAppAndroidAppStoreUrl":"https:\/\/play.google.com\/store\/apps\/details?id=net.trikoder.android.bolha"}});
+        app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemRegularAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":4616391},{"hasCompare":false,"isAdInSavedList":false,"id":6212504},{"hasCompare":false,"isAdInSavedList":false,"id":5328236},{"hasCompare":false,"isAdInSavedList":false,"id":5328040},{"hasCompare":false,"isAdInSavedList":false,"id":4939575},{"hasCompare":false,"isAdInSavedList":false,"id":4939532},{"hasCompare":false,"isAdInSavedList":false,"id":6203153},{"hasCompare":false,"isAdInSavedList":false,"id":6243463},{"hasCompare":false,"isAdInSavedList":false,"id":6265381},{"hasCompare":false,"isAdInSavedList":false,"id":2118328},{"hasCompare":false,"isAdInSavedList":false,"id":2540978},{"hasCompare":false,"isAdInSavedList":false,"id":2572208},{"hasCompare":false,"isAdInSavedList":false,"id":2572665},{"hasCompare":false,"isAdInSavedList":false,"id":2980194},{"hasCompare":false,"isAdInSavedList":false,"id":5809318},{"hasCompare":false,"isAdInSavedList":false,"id":5699589},{"hasCompare":false,"isAdInSavedList":false,"id":2615555},{"hasCompare":false,"isAdInSavedList":false,"id":5976941},{"hasCompare":false,"isAdInSavedList":false,"id":2750730},{"hasCompare":false,"isAdInSavedList":false,"id":4993772}]}});
+        app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemVauVauAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":4154744},{"hasCompare":false,"isAdInSavedList":false,"id":4559296},{"hasCompare":false,"isAdInSavedList":false,"id":2698426},{"hasCompare":false,"isAdInSavedList":false,"id":6425236},{"hasCompare":false,"isAdInSavedList":false,"id":4356987},{"hasCompare":false,"isAdInSavedList":false,"id":2698439}]}});
+        app.boot.push({"name":"EntityList","values":{"el":".EntityList--ListItemLatestAd","items":[{"hasCompare":false,"isAdInSavedList":false,"id":6431158},{"hasCompare":false,"isAdInSavedList":false,"id":6431157},{"hasCompare":false,"isAdInSavedList":false,"id":6431156},{"hasCompare":false,"isAdInSavedList":false,"id":6431155},{"hasCompare":false,"isAdInSavedList":false,"id":6431154},{"hasCompare":false,"isAdInSavedList":false,"id":6431153}]}});
         app.boot.push({"name":"EntityListCompare","values":{"items":[]}});
-        app.boot.push({"name":"ProcessApiCalls","values":{"apiQueueCacheKey":"api:0:755791e3364957d3265b3d70d0ab8af8","matchedRoute":"fw3k2.ctl_search_ads._execute"}});
+        app.boot.push({"name":"ProcessApiCalls","values":{"apiQueueCacheKey":"api:0:52ac4068b78c475ca04573124f7b7090","matchedRoute":"fw3k2.ctl_search_ads._execute"}});
         app.boot.push({"name":"LocationMapsService","values":{"locationMapsServiceName":"Mireo","locationMapsServiceSettings":{"mapStyle":"https:\/\/static.bolha.com\/dist\/6559406d608469eefd6f5e0c5c852b5c_a1764494c3.json"}}});
         app.boot.push({"name":"PaginationBaseData","values":{"adjustedCanonicalUrl":""}});
     
@@ -157,7 +157,7 @@
 
 <script type="didomi/javascript" data-vendor="didomi:google" >
     
-            window.Adsense_hints_keywords = "apple watch nike";
+            window.Adsense_hints_keywords = "iphone 11";
     
     </script>
 
@@ -221,7 +221,7 @@
         
         window.googletag.cmd.push(function() {
 
-                window.googletag.pubads().setTargeting('site', 'www.bolha.com').setTargeting('url', 'https\u003A\/\/www.bolha.com\/\u003Fctl\u003Dsearch_ads\u0026keywords\u003Dapple\u002520watch\u002520nike').setTargeting('cont_type', 'trazilica').setTargeting('mainsection', 'search').setTargeting('search_value', 'apple\u0020watch\u0020nike');
+                window.googletag.pubads().setTargeting('site', 'www.bolha.com').setTargeting('url', 'https\u003A\/\/www.bolha.com\/\u003Fctl\u003Dsearch_ads\u0026keywords\u003Diphone\u00252011').setTargeting('cont_type', 'trazilica').setTargeting('mainsection', 'search').setTargeting('search_value', 'iphone\u002011');
         
     });
     
@@ -355,7 +355,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <input type="hidden" name="ctl" value="search_ads"  />    <div class="SearchBox-inner">
         <fieldset class="form-items">
             <div class="form-item">
-                <label class="form-label vis-hidden SearchBox-label" for="" >Kaj iščete danes?</label>                <input type="search" name="keywords" autocomplete="off" placeholder="Kaj iščete danes?" value="apple watch nike" class="SearchBox-input form-field-textual form-field-text"  />                <button type="reset" id="clearInputButton" name="" class="is-active SearchBox-clearInput" ><i class="icon">Odstrani vnos</i></button>            </div>
+                <label class="form-label vis-hidden SearchBox-label" for="" >Kaj iščete danes?</label>                <input type="search" name="keywords" autocomplete="off" placeholder="Kaj iščete danes?" value="iphone 11" class="SearchBox-input form-field-textual form-field-text"  />                <button type="reset" id="clearInputButton" name="" class="is-active SearchBox-clearInput" ><i class="icon">Odstrani vnos</i></button>            </div>
         </fieldset>
         <div class="SearchBox-actions form-actions">
             <button type="submit" name="" class="SearchBox-submit form-action form-action--submit button-generic" ><i class="icon">Išči</i></button>        </div>
@@ -412,7 +412,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <a class="link" href="https://www.bolha.com/">Oglasnik</a>
                     </li>
                                         <li class="breadcrumb-item  is-active ">
-                        <a class="link" href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike"><strong>Iskanje</strong></a>
+                        <a class="link" href="index.php?ctl=search_ads&amp;keywords=iphone+11"><strong>Iskanje</strong></a>
                     </li>
                             </ul>
 </nav>
@@ -427,7 +427,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                         <div class="ContentHeader ContentHeader--alpha">
                             <header class="ContentHeader-inner block-standard block-standard-title">
-                                <h1 class="ContentHeader-title">Rezultati iskanja za <mark class="SearchKeyword">apple watch nike</mark></h1>
+                                <h1 class="ContentHeader-title">Rezultati iskanja za <mark class="SearchKeyword">iphone 11</mark></h1>
                             </header>
                                                     </div>
                         
@@ -482,7 +482,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <div class="SavedSearchCreate-actions">
                                 <a
-                    href="https://www.bolha.com/prijava/?returnUrl=https://www.bolha.com/?ctl%3Dsearch_ads%26keywords%3Dapple%2520watch%2520nike"
+                    href="https://www.bolha.com/prijava/?returnUrl=https://www.bolha.com/?ctl%3Dsearch_ads%26keywords%3Diphone%252011"
                     class="SavedSearchCreate-action button-standard button-standard--beta"
                     >Prijava</a
                 >
@@ -497,10 +497,28 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         
                         <div class="block-standard block-standard--epsilon">
 
-                            
+                                <div class="PaginationContainer  PaginationContainer--top ">
+        <nav class="Pagination">
+            <ul class="Pagination-items cf">
+                                
+                                                                                                                <li class="Pagination-item Pagination-item--active"><a class="Pagination-link is-active" href="index.php?ctl=search_ads&amp;keywords=iphone+11"><strong><span class="label--s">Stran</span> 1</strong></a></li>
+                                                                                                <li class="Pagination-item"><a class="Pagination-link" href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;page=2">2</a></li>
+                                                                                                <li class="Pagination-item"><a class="Pagination-link" href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;page=3">3</a></li>
+                                                                                                <li class="Pagination-item"><a class="Pagination-link" href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;page=4">4</a></li>
+                                                                                                <li class="Pagination-item"><a class="Pagination-link" href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;page=5">5</a></li>
+                                                                                                <li class="Pagination-item"><a class="Pagination-link" href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;page=6">6</a></li>
+                                                                                        <li class="Pagination-item"><a class="Pagination-link" href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;page=7">7-12</a></li>
+                                                            <li class="Pagination-item Pagination-item--next  Pagination-item--nextSolo ">
+                        <a class="Pagination-link" href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;page=2">Naslednja&nbsp;<span aria-hidden="true" role="presentation">&#187;</span></a>
+                    </li>
+                    
+                            </ul>
+        </nav>
+    </div>
+    
                             <header class="entity-list-header">
                                 <div class="entity-list-meta">
-                                    <strong class="entities-count">13</strong> <span class="entities-count-label">oglasov</span>
+                                    <strong class="entities-count">670</strong> <span class="entities-count-label">oglasov</span>
                                 </div>
                                 <div class="entity-list-actions entity-list-actions--filter">
                                     <a class="link" href="#detailedSearch-filter-block">Filtriraj</a>
@@ -529,29 +547,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<div class="EntityList EntityList--Standard EntityList--VauVau EntityList--ListItemVauVauAd EntityList--itemCount_1">
+<div class="EntityList EntityList--Standard EntityList--VauVau EntityList--ListItemVauVauAd EntityList--itemCount_6">
         <h3 class="EntityList-groupTitle">Izpostavljeni oglasi na bolha.com</h3>
             <ul class="EntityList-items">
 
-                    <li class="EntityList-item EntityList-item--VauVau EntityList-item--n1  bp-radix__faux-anchor  "  data-href="/moske-rocne-ure/apple-watch-series-5-nike-44mm-oglas-6394139"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6394139}'>
+                    <li class="EntityList-item EntityList-item--VauVau EntityList-item--n1  bp-radix__faux-anchor  "  data-href="/apple-iphone/iphone-11-11-pro-11-pro-max-s20-ultra-s20-plus-s20-note-10-s10-p40-pro-oglas-4154744"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":4154744}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6394139" class="link" href="/moske-rocne-ure/apple-watch-series-5-nike-44mm-oglas-6394139">Apple Watch Series 5 Nike (44mm)</a></h3>
+                    <h3 class="entity-title"><a name="4154744" class="link" href="/apple-iphone/iphone-11-11-pro-11-pro-max-s20-ultra-s20-plus-s20-note-10-s10-p40-pro-oglas-4154744">ODKUP iPhone 12/12 PRO/12 PRO MAX/12 mini/11/11 PRO/11 PRO MAX/XS/XR/X</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/moske-rocne-ure/apple-watch-series-5-nike-44mm-oglas-6394139">
+                <a class="link" href="/apple-iphone/iphone-11-11-pro-11-pro-max-s20-ultra-s20-plus-s20-note-10-s10-p40-pro-oglas-4154744">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/moske-rocne-ure/apple-watch-series-5-nike-44mm-slika-21952099.jpg"
-                        alt="Apple Watch Series 5 Nike (44mm)"
+                        data-src="//www.bolha.com/image-200x150/apple-iphone/iphone-11-11-pro-11-pro-max-s20-ultra-s20-plus-s20-note-10-s10-p40-pro-slika-18134621.jpg"
+                        alt="ODKUP iPhone 12/12 PRO/12 PRO MAX/12 mini/11/11 PRO/11 PRO MAX/XS/XR/X"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/moske-rocne-ure/apple-watch-series-5-nike-44mm-slika-21952099.jpg"
-                            alt="Apple Watch Series 5 Nike (44mm)"
+                            src="//www.bolha.com/image-200x150/apple-iphone/iphone-11-11-pro-11-pro-max-s20-ultra-s20-plus-s20-note-10-s10-p40-pro-slika-18134621.jpg"
+                            alt="ODKUP iPhone 12/12 PRO/12 PRO MAX/12 mini/11/11 PRO/11 PRO MAX/XS/XR/X"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -568,14 +586,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Ljubljana Moste Polje, Polje<br />
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Kamnik, Kamnik<br />
                                                                         </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-02-25T23:37:57+01:00" pubdate="pubdate">25.02.2021.</time>
+                <time class="date date--full" datetime="2021-03-02T22:02:01+01:00" pubdate="pubdate">02.03.2021.</time>
             </div>
         
         
@@ -600,7 +618,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     
                                             <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/moske-rocne-ure/apple-watch-series-5-nike-44mm-oglas-6394139?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/apple-iphone/iphone-11-11-pro-11-pro-max-s20-ultra-s20-plus-s20-note-10-s10-p40-pro-oglas-4154744?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
                         </li>
                     
                     
@@ -616,7 +634,477 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                300&nbsp;<span class="currency">€</span>                            </strong>
+                                1.001&nbsp;<span class="currency">€</span>                            </strong>
+                        </li>
+                                                            </ul>
+            </div>
+        
+        
+        
+    
+</article>
+            </li>
+            
+                    <li class="EntityList-item EntityList-item--VauVau EntityList-item--n2  bp-radix__faux-anchor  "  data-href="/apple-iphone/kupim-iphone-11-11-pro-11-pro-max-samsung-note-20-ultra-s20-plus-a51-oglas-4559296"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":4559296}'>
+                <article class="entity-body cf">
+
+    
+                    <h3 class="entity-title"><a name="4559296" class="link" href="/apple-iphone/kupim-iphone-11-11-pro-11-pro-max-samsung-note-20-ultra-s20-plus-a51-oglas-4559296">KUPIM iPhone 12/12 PRO/12 PRO MAX/12 mini/11/11 PRO/11 PRO MAX/XS MAX</a></h3>
+        
+                    <div class="entity-thumbnail">
+                <a class="link" href="/apple-iphone/kupim-iphone-11-11-pro-11-pro-max-samsung-note-20-ultra-s20-plus-a51-oglas-4559296">
+                    <img
+                        class="img entity-thumbnail-img"
+                        src="https://static.bolha.com/dist/e57e14f619.png"
+                        data-src="//www.bolha.com/image-200x150/apple-iphone/kupim-iphone-11-11-pro-11-pro-max-samsung-note-20-ultra-s20-plus-a51-slika-18840670.jpg"
+                        alt="KUPIM iPhone 12/12 PRO/12 PRO MAX/12 mini/11/11 PRO/11 PRO MAX/XS MAX"
+                    />
+                    <noscript>
+                        <img
+                            class="img entity-thumbnail-img"
+                            src="//www.bolha.com/image-200x150/apple-iphone/kupim-iphone-11-11-pro-11-pro-max-samsung-note-20-ultra-s20-plus-a51-slika-18840670.jpg"
+                            alt="KUPIM iPhone 12/12 PRO/12 PRO MAX/12 mini/11/11 PRO/11 PRO MAX/XS MAX"
+                        />
+                    </noscript>
+                    <div class="entity-thumbnail-preloader">
+                        <div class="Preloader Preloader--center">
+                            <div class="Preloader-inner"></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        
+        
+                    <div class="entity-description">
+
+                
+                
+                                    <div class="entity-description-main">
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Kamnik, Kamnik<br />
+                                                                        </div>
+                
+            </div>
+        
+                    <div class="entity-pub-date">
+                <span class="label">Objavljen:</span>
+                <time class="date date--full" datetime="2021-03-02T22:20:01+01:00" pubdate="pubdate">02.03.2021.</time>
+            </div>
+        
+        
+                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
+                            </div>
+        
+        
+                    <div class="entity-tools">
+                <ul class="tool-items">
+
+                                            <li class="tool-item">
+                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
+                        </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+        
+                    <div class="entity-features">
+                <ul class="feature-items cf">
+
+                    
+                                            <li class="feature-item">
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/apple-iphone/kupim-iphone-11-11-pro-11-pro-max-samsung-note-20-ultra-s20-plus-a51-oglas-4559296?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                        </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                                    </ul>
+            </div>
+        
+        
+                    <div class="entity-prices">
+                <ul class="price-items cf">
+                                            <li class="price-item">
+                            <strong class="price price--hrk">
+                                800&nbsp;<span class="currency">€</span>                            </strong>
+                        </li>
+                                                            </ul>
+            </div>
+        
+        
+        
+    
+</article>
+            </li>
+            
+                    <li class="EntityList-item EntityList-item--VauVau EntityList-item--n3  bp-radix__faux-anchor  "  data-href="/apple-iphone/odkup-mobilnih-aparatov-iphone-11-iphone-11-pro-iphone-11-pro-max-oglas-2698426"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":2698426}'>
+                <article class="entity-body cf">
+
+    
+                    <h3 class="entity-title"><a name="2698426" class="link" href="/apple-iphone/odkup-mobilnih-aparatov-iphone-11-iphone-11-pro-iphone-11-pro-max-oglas-2698426">KUPIM iPhone 12/12 PRO/12 PRO MAX/11/11 PRO/11 PRO MAX/XR/X/XS/XS MAX</a></h3>
+        
+                    <div class="entity-thumbnail">
+                <a class="link" href="/apple-iphone/odkup-mobilnih-aparatov-iphone-11-iphone-11-pro-iphone-11-pro-max-oglas-2698426">
+                    <img
+                        class="img entity-thumbnail-img"
+                        src="https://static.bolha.com/dist/e57e14f619.png"
+                        data-src="//www.bolha.com/image-200x150/apple-iphone/odkup-mobilnih-aparatov-iphone-11-iphone-11-pro-iphone-11-pro-max-slika-18134617.jpg"
+                        alt="KUPIM iPhone 12/12 PRO/12 PRO MAX/11/11 PRO/11 PRO MAX/XR/X/XS/XS MAX"
+                    />
+                    <noscript>
+                        <img
+                            class="img entity-thumbnail-img"
+                            src="//www.bolha.com/image-200x150/apple-iphone/odkup-mobilnih-aparatov-iphone-11-iphone-11-pro-iphone-11-pro-max-slika-18134617.jpg"
+                            alt="KUPIM iPhone 12/12 PRO/12 PRO MAX/11/11 PRO/11 PRO MAX/XR/X/XS/XS MAX"
+                        />
+                    </noscript>
+                    <div class="entity-thumbnail-preloader">
+                        <div class="Preloader Preloader--center">
+                            <div class="Preloader-inner"></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        
+        
+                    <div class="entity-description">
+
+                
+                
+                                    <div class="entity-description-main">
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Kamnik, Kamnik<br />
+                                                                        </div>
+                
+            </div>
+        
+                    <div class="entity-pub-date">
+                <span class="label">Objavljen:</span>
+                <time class="date date--full" datetime="2021-03-02T22:11:01+01:00" pubdate="pubdate">02.03.2021.</time>
+            </div>
+        
+        
+                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
+                            </div>
+        
+        
+                    <div class="entity-tools">
+                <ul class="tool-items">
+
+                                            <li class="tool-item">
+                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
+                        </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+        
+                    <div class="entity-features">
+                <ul class="feature-items cf">
+
+                    
+                                            <li class="feature-item">
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/apple-iphone/odkup-mobilnih-aparatov-iphone-11-iphone-11-pro-iphone-11-pro-max-oglas-2698426?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                        </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                                    </ul>
+            </div>
+        
+        
+                    <div class="entity-prices">
+                <ul class="price-items cf">
+                                            <li class="price-item">
+                            <strong class="price price--hrk">
+                                777&nbsp;<span class="currency">€</span>                            </strong>
+                        </li>
+                                                            </ul>
+            </div>
+        
+        
+        
+    
+</article>
+            </li>
+            
+                    <li class="EntityList-item EntityList-item--VauVau EntityList-item--n4  bp-radix__faux-anchor  "  data-href="/apple-iphone/iphone-11-pro-256gb-oglas-6425236"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6425236}'>
+                <article class="entity-body cf">
+
+    
+                    <h3 class="entity-title"><a name="6425236" class="link" href="/apple-iphone/iphone-11-pro-256gb-oglas-6425236">iPhone-11 Pro 256gb</a></h3>
+        
+                    <div class="entity-thumbnail">
+                <a class="link" href="/apple-iphone/iphone-11-pro-256gb-oglas-6425236">
+                    <img
+                        class="img entity-thumbnail-img"
+                        src="https://static.bolha.com/dist/e57e14f619.png"
+                        data-src="//www.bolha.com/image-200x150/apple-iphone/iphone-11-pro-256gb-slika-22027003.jpg"
+                        alt="iPhone-11 Pro 256gb"
+                    />
+                    <noscript>
+                        <img
+                            class="img entity-thumbnail-img"
+                            src="//www.bolha.com/image-200x150/apple-iphone/iphone-11-pro-256gb-slika-22027003.jpg"
+                            alt="iPhone-11 Pro 256gb"
+                        />
+                    </noscript>
+                    <div class="entity-thumbnail-preloader">
+                        <div class="Preloader Preloader--center">
+                            <div class="Preloader-inner"></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        
+        
+                    <div class="entity-description">
+
+                
+                
+                                    <div class="entity-description-main">
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Koper, Koper<br />
+                                                                        </div>
+                
+            </div>
+        
+                    <div class="entity-pub-date">
+                <span class="label">Objavljen:</span>
+                <time class="date date--full" datetime="2021-03-01T21:25:17+01:00" pubdate="pubdate">01.03.2021.</time>
+            </div>
+        
+        
+                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
+                            </div>
+        
+        
+                    <div class="entity-tools">
+                <ul class="tool-items">
+
+                                            <li class="tool-item">
+                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
+                        </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+        
+                    <div class="entity-features">
+                <ul class="feature-items cf">
+
+                    
+                                            <li class="feature-item">
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/apple-iphone/iphone-11-pro-256gb-oglas-6425236?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                        </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                                    </ul>
+            </div>
+        
+        
+                    <div class="entity-prices">
+                <ul class="price-items cf">
+                                            <li class="price-item">
+                            <strong class="price price--hrk">
+                                790&nbsp;<span class="currency">€</span>                            </strong>
+                        </li>
+                                                            </ul>
+            </div>
+        
+        
+        
+    
+</article>
+            </li>
+            
+                    <li class="EntityList-item EntityList-item--VauVau EntityList-item--n5  bp-radix__faux-anchor  "  data-href="/apple-iphone/kupim-iphone-11-samsung-a51-a71-note-lite-s10-lite-huawei-p40-pro-p30-oglas-4356987"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":4356987}'>
+                <article class="entity-body cf">
+
+    
+                    <h3 class="entity-title"><a name="4356987" class="link" href="/apple-iphone/kupim-iphone-11-samsung-a51-a71-note-lite-s10-lite-huawei-p40-pro-p30-oglas-4356987">KUPIM iPhone 12 PRO MAX/12 PRO/12/11 PRO MAX/11 PRO/Huawei P40 Pro/P30</a></h3>
+        
+                    <div class="entity-thumbnail">
+                <a class="link" href="/apple-iphone/kupim-iphone-11-samsung-a51-a71-note-lite-s10-lite-huawei-p40-pro-p30-oglas-4356987">
+                    <img
+                        class="img entity-thumbnail-img"
+                        src="https://static.bolha.com/dist/e57e14f619.png"
+                        data-src="//www.bolha.com/image-200x150/apple-iphone/kupim-iphone-11-samsung-a51-a71-note-lite-s10-lite-huawei-p40-pro-p30-slika-18221355.jpg"
+                        alt="KUPIM iPhone 12 PRO MAX/12 PRO/12/11 PRO MAX/11 PRO/Huawei P40 Pro/P30"
+                    />
+                    <noscript>
+                        <img
+                            class="img entity-thumbnail-img"
+                            src="//www.bolha.com/image-200x150/apple-iphone/kupim-iphone-11-samsung-a51-a71-note-lite-s10-lite-huawei-p40-pro-p30-slika-18221355.jpg"
+                            alt="KUPIM iPhone 12 PRO MAX/12 PRO/12/11 PRO MAX/11 PRO/Huawei P40 Pro/P30"
+                        />
+                    </noscript>
+                    <div class="entity-thumbnail-preloader">
+                        <div class="Preloader Preloader--center">
+                            <div class="Preloader-inner"></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        
+        
+                    <div class="entity-description">
+
+                
+                
+                                    <div class="entity-description-main">
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Kamnik, Kamnik<br />
+                                                                        </div>
+                
+            </div>
+        
+                    <div class="entity-pub-date">
+                <span class="label">Objavljen:</span>
+                <time class="date date--full" datetime="2021-03-02T22:01:01+01:00" pubdate="pubdate">02.03.2021.</time>
+            </div>
+        
+        
+                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
+                            </div>
+        
+        
+                    <div class="entity-tools">
+                <ul class="tool-items">
+
+                                            <li class="tool-item">
+                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
+                        </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+        
+                    <div class="entity-features">
+                <ul class="feature-items cf">
+
+                    
+                                            <li class="feature-item">
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/apple-iphone/kupim-iphone-11-samsung-a51-a71-note-lite-s10-lite-huawei-p40-pro-p30-oglas-4356987?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                        </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                                    </ul>
+            </div>
+        
+        
+                    <div class="entity-prices">
+                <ul class="price-items cf">
+                                            <li class="price-item">
+                            <strong class="price price--hrk">
+                                500&nbsp;<span class="currency">€</span>                            </strong>
+                        </li>
+                                                            </ul>
+            </div>
+        
+        
+        
+    
+</article>
+            </li>
+            
+                    <li class="EntityList-item EntityList-item--VauVau EntityList-item--n6  bp-radix__faux-anchor  "  data-href="/apple-iphone/odkup-mobilnih-aparatov-iphone-11-pro-max-samsung-s10-plus-oglas-2698439"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":2698439}'>
+                <article class="entity-body cf">
+
+    
+                    <h3 class="entity-title"><a name="2698439" class="link" href="/apple-iphone/odkup-mobilnih-aparatov-iphone-11-pro-max-samsung-s10-plus-oglas-2698439">iPhone 12/12 PRO/12 PRO MAX/12 mini/11/11 PRO/11 PRO MAX/XS MAX/XS/XR</a></h3>
+        
+                    <div class="entity-thumbnail">
+                <a class="link" href="/apple-iphone/odkup-mobilnih-aparatov-iphone-11-pro-max-samsung-s10-plus-oglas-2698439">
+                    <img
+                        class="img entity-thumbnail-img"
+                        src="https://static.bolha.com/dist/e57e14f619.png"
+                        data-src="//www.bolha.com/image-200x150/apple-iphone/odkup-mobilnih-aparatov-iphone-11-pro-max-samsung-s10-plus-slika-18134616.jpg"
+                        alt="iPhone 12/12 PRO/12 PRO MAX/12 mini/11/11 PRO/11 PRO MAX/XS MAX/XS/XR"
+                    />
+                    <noscript>
+                        <img
+                            class="img entity-thumbnail-img"
+                            src="//www.bolha.com/image-200x150/apple-iphone/odkup-mobilnih-aparatov-iphone-11-pro-max-samsung-s10-plus-slika-18134616.jpg"
+                            alt="iPhone 12/12 PRO/12 PRO MAX/12 mini/11/11 PRO/11 PRO MAX/XS MAX/XS/XR"
+                        />
+                    </noscript>
+                    <div class="entity-thumbnail-preloader">
+                        <div class="Preloader Preloader--center">
+                            <div class="Preloader-inner"></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        
+        
+                    <div class="entity-description">
+
+                
+                
+                                    <div class="entity-description-main">
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Kamnik, Kamnik<br />
+                                                                        </div>
+                
+            </div>
+        
+                    <div class="entity-pub-date">
+                <span class="label">Objavljen:</span>
+                <time class="date date--full" datetime="2021-03-02T22:11:01+01:00" pubdate="pubdate">02.03.2021.</time>
+            </div>
+        
+        
+                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
+                            </div>
+        
+        
+                    <div class="entity-tools">
+                <ul class="tool-items">
+
+                                            <li class="tool-item">
+                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
+                        </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+        
+                    <div class="entity-features">
+                <ul class="feature-items cf">
+
+                    
+                                            <li class="feature-item">
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/apple-iphone/odkup-mobilnih-aparatov-iphone-11-pro-max-samsung-s10-plus-oglas-2698439?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                        </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                                    </ul>
+            </div>
+        
+        
+                    <div class="entity-prices">
+                <ul class="price-items cf">
+                                            <li class="price-item">
+                            <strong class="price price--hrk">
+                                0&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -643,35 +1131,35 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="Banner Banner--listTop Banner--adsenseForSearch">
     <div id="afscontainer1"></div>
     <script type="didomi/javascript" data-vendor="didomi:google" >
-        window._googCsa('ads', {"pubId":"partner-pub-4888878118303059","styleId":"9755588219","query":"apple watch nike"}, {"container":"afscontainer1"});
+        window._googCsa('ads', {"pubId":"partner-pub-4888878118303059","styleId":"9755588219","query":"iphone 11"}, {"container":"afscontainer1"});
     </script>
 </div>
 </div>
 
 
-<div class="EntityList EntityList--Standard EntityList--Regular EntityList--ListItemRegularAd EntityList--itemCount_13">
+<div class="EntityList EntityList--Standard EntityList--Regular EntityList--ListItemRegularAd EntityList--itemCount_670">
         <h3 class="EntityList-groupTitle">Oglasi na bolha.com</h3>
             <ul class="EntityList-items">
 
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n1  bp-radix__faux-anchor  "  data-href="/sportne-ure-merilci/apple-watch-nike-s4-gps-44mm-oglas-5997904"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5997904}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n1  bp-radix__faux-anchor  "  data-href="/oprema-za-gospodarska-in-druga-vozila/brezzicni-polnilnik-samsung-s10-s9-s8-iphone-11-pro-8-x-xr-xs-max-oglas-4616391"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":4616391}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="5997904" class="link" href="/sportne-ure-merilci/apple-watch-nike-s4-gps-44mm-oglas-5997904">NOVO Apple Watch Nike+ S4 GPS 44mm</a></h3>
+                    <h3 class="entity-title"><a name="4616391" class="link" href="/oprema-za-gospodarska-in-druga-vozila/brezzicni-polnilnik-samsung-s10-s9-s8-iphone-11-pro-8-x-xr-xs-max-oglas-4616391">Brezzični polnilnik Samsung S10 S9 S8 | iPhone 11 Pro 8 X XR XS Max</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/sportne-ure-merilci/apple-watch-nike-s4-gps-44mm-oglas-5997904">
+                <a class="link" href="/oprema-za-gospodarska-in-druga-vozila/brezzicni-polnilnik-samsung-s10-s9-s8-iphone-11-pro-8-x-xr-xs-max-oglas-4616391">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/sportne-ure-merilci/apple-watch-nike-s4-gps-44mm-slika-21274673.jpg"
-                        alt="NOVO Apple Watch Nike+ S4 GPS 44mm"
+                        data-src="//www.bolha.com/image-200x150/oprema-za-gospodarska-in-druga-vozila/brezzicni-polnilnik-samsung-s10-s9-s8-iphone-11-pro-8-x-xr-xs-max-slika-19002278.jpg"
+                        alt="Brezzični polnilnik Samsung S10 S9 S8 | iPhone 11 Pro 8 X XR XS Max"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/sportne-ure-merilci/apple-watch-nike-s4-gps-44mm-slika-21274673.jpg"
-                            alt="NOVO Apple Watch Nike+ S4 GPS 44mm"
+                            src="//www.bolha.com/image-200x150/oprema-za-gospodarska-in-druga-vozila/brezzicni-polnilnik-samsung-s10-s9-s8-iphone-11-pro-8-x-xr-xs-max-slika-19002278.jpg"
+                            alt="Brezzični polnilnik Samsung S10 S9 S8 | iPhone 11 Pro 8 X XR XS Max"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -688,14 +1176,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Ljubljana Moste Polje, Moste<br />
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Maribor, Pobrežje<br />
                                                                         </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-03-01T11:01:58+01:00" pubdate="pubdate">01.03.2021.</time>
+                <time class="date date--full" datetime="2021-02-02T20:35:16+01:00" pubdate="pubdate">02.02.2021.</time>
             </div>
         
         
@@ -720,7 +1208,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     
                                             <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/sportne-ure-merilci/apple-watch-nike-s4-gps-44mm-oglas-5997904?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/oprema-za-gospodarska-in-druga-vozila/brezzicni-polnilnik-samsung-s10-s9-s8-iphone-11-pro-8-x-xr-xs-max-oglas-4616391?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
                         </li>
                     
                     
@@ -736,7 +1224,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                299&nbsp;<span class="currency">€</span>                            </strong>
+                                25&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -747,25 +1235,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n2  bp-radix__faux-anchor  "  data-href="/pametne-ure-mobilna-telefonija/apple-watch-6s-nike-44mm-oglas-6401269"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6401269}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n2  bp-radix__faux-anchor  "  data-href="/deli-za-pametne-mobilne-telefone/iphone-11-pro-slusalka-oglas-6212504"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6212504}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6401269" class="link" href="/pametne-ure-mobilna-telefonija/apple-watch-6s-nike-44mm-oglas-6401269">Apple watch 6S nike 44mm</a></h3>
+                    <h3 class="entity-title"><a name="6212504" class="link" href="/deli-za-pametne-mobilne-telefone/iphone-11-pro-slusalka-oglas-6212504">Iphone 11 Pro slušalka</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/pametne-ure-mobilna-telefonija/apple-watch-6s-nike-44mm-oglas-6401269">
+                <a class="link" href="/deli-za-pametne-mobilne-telefone/iphone-11-pro-slusalka-oglas-6212504">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/apple-watch-6s-nike-44mm-slika-21977443.jpg"
-                        alt="Apple watch 6S nike 44mm"
+                        data-src="//www.bolha.com/image-200x150/deli-za-pametne-mobilne-telefone/iphone-11-pro-slusalka-slika-21616124.jpg"
+                        alt="Iphone 11 Pro slušalka"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/apple-watch-6s-nike-44mm-slika-21977443.jpg"
-                            alt="Apple watch 6S nike 44mm"
+                            src="//www.bolha.com/image-200x150/deli-za-pametne-mobilne-telefone/iphone-11-pro-slusalka-slika-21616124.jpg"
+                            alt="Iphone 11 Pro slušalka"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -782,14 +1270,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Radovljica, Lesce<br />
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Koper, Koper<br />
                                                                         </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-02-26T21:41:11+01:00" pubdate="pubdate">26.02.2021.</time>
+                <time class="date date--full" datetime="2021-02-04T11:36:43+01:00" pubdate="pubdate">04.02.2021.</time>
             </div>
         
         
@@ -814,7 +1302,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     
                                             <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/pametne-ure-mobilna-telefonija/apple-watch-6s-nike-44mm-oglas-6401269?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/deli-za-pametne-mobilne-telefone/iphone-11-pro-slusalka-oglas-6212504?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
                         </li>
                     
                     
@@ -830,7 +1318,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                440&nbsp;<span class="currency">€</span>                            </strong>
+                                17,99&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -841,25 +1329,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n3  bp-radix__faux-anchor  "  data-href="/pametne-ure-mobilna-telefonija/apple-watch-5-nike-44mm-gps-space-grey-aluminium-z-anthracite-black-oglas-5745268"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5745268}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n3  bp-radix__faux-anchor  "  data-href="/deli-za-pametne-mobilne-telefone/iphone-11-armor-ovitek-oglas-5328236"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5328236}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="5745268" class="link" href="/pametne-ure-mobilna-telefonija/apple-watch-5-nike-44mm-gps-space-grey-aluminium-z-anthracite-black-oglas-5745268">Apple Watch 5 (Nike) 44mm GPS Space Grey Aluminium z Anthracite/Black</a></h3>
+                    <h3 class="entity-title"><a name="5328236" class="link" href="/deli-za-pametne-mobilne-telefone/iphone-11-armor-ovitek-oglas-5328236">Iphone 11 armor ovitek</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/pametne-ure-mobilna-telefonija/apple-watch-5-nike-44mm-gps-space-grey-aluminium-z-anthracite-black-oglas-5745268">
+                <a class="link" href="/deli-za-pametne-mobilne-telefone/iphone-11-armor-ovitek-oglas-5328236">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/apple-watch-5-nike-44mm-gps-space-grey-aluminium-z-anthracite-black-slika-20889821.jpg"
-                        alt="Apple Watch 5 (Nike) 44mm GPS Space Grey Aluminium z Anthracite/Black"
+                        data-src="//www.bolha.com/image-200x150/deli-za-pametne-mobilne-telefone/iphone-11-armor-ovitek-slika-20438887.jpg"
+                        alt="Iphone 11 armor ovitek"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/apple-watch-5-nike-44mm-gps-space-grey-aluminium-z-anthracite-black-slika-20889821.jpg"
-                            alt="Apple Watch 5 (Nike) 44mm GPS Space Grey Aluminium z Anthracite/Black"
+                            src="//www.bolha.com/image-200x150/deli-za-pametne-mobilne-telefone/iphone-11-armor-ovitek-slika-20438887.jpg"
+                            alt="Iphone 11 armor ovitek"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -876,14 +1364,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Ljubljana Moste Polje, BTC<br />
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Koper, Koper<br />
                                                                         </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2020-12-25T00:18:21+01:00" pubdate="pubdate">25.12.2020.</time>
+                <time class="date date--full" datetime="2020-11-20T11:36:37+01:00" pubdate="pubdate">20.11.2020.</time>
             </div>
         
         
@@ -908,7 +1396,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     
                                             <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/pametne-ure-mobilna-telefonija/apple-watch-5-nike-44mm-gps-space-grey-aluminium-z-anthracite-black-oglas-5745268?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/deli-za-pametne-mobilne-telefone/iphone-11-armor-ovitek-oglas-5328236?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
                         </li>
                     
                     
@@ -924,7 +1412,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                479,99&nbsp;<span class="currency">€</span>                            </strong>
+                                9,99&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -935,25 +1423,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--VauVau EntityList-item--n4  bp-radix__faux-anchor  "  data-href="/moske-rocne-ure/apple-watch-series-5-nike-44mm-oglas-6394139"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6394139}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n4  bp-radix__faux-anchor  "  data-href="/deli-za-pametne-mobilne-telefone/iphone-11-11-pro-11-pro-max-zascitno-steklo-oglas-5328040"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5328040}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6394139" class="link" href="/moske-rocne-ure/apple-watch-series-5-nike-44mm-oglas-6394139">Apple Watch Series 5 Nike (44mm)</a></h3>
+                    <h3 class="entity-title"><a name="5328040" class="link" href="/deli-za-pametne-mobilne-telefone/iphone-11-11-pro-11-pro-max-zascitno-steklo-oglas-5328040">Iphone 11 11 pro 11 pro max zaščitno steklo</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/moske-rocne-ure/apple-watch-series-5-nike-44mm-oglas-6394139">
+                <a class="link" href="/deli-za-pametne-mobilne-telefone/iphone-11-11-pro-11-pro-max-zascitno-steklo-oglas-5328040">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/moske-rocne-ure/apple-watch-series-5-nike-44mm-slika-21952099.jpg"
-                        alt="Apple Watch Series 5 Nike (44mm)"
+                        data-src="//www.bolha.com/image-200x150/deli-za-pametne-mobilne-telefone/iphone-11-11-pro-11-pro-max-zascitno-steklo-slika-20438710.jpg"
+                        alt="Iphone 11 11 pro 11 pro max zaščitno steklo"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/moske-rocne-ure/apple-watch-series-5-nike-44mm-slika-21952099.jpg"
-                            alt="Apple Watch Series 5 Nike (44mm)"
+                            src="//www.bolha.com/image-200x150/deli-za-pametne-mobilne-telefone/iphone-11-11-pro-11-pro-max-zascitno-steklo-slika-20438710.jpg"
+                            alt="Iphone 11 11 pro 11 pro max zaščitno steklo"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -970,14 +1458,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Ljubljana Moste Polje, Polje<br />
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Koper, Koper<br />
                                                                         </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-02-25T23:37:57+01:00" pubdate="pubdate">25.02.2021.</time>
+                <time class="date date--full" datetime="2020-11-20T11:03:24+01:00" pubdate="pubdate">20.11.2020.</time>
             </div>
         
         
@@ -1002,7 +1490,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     
                                             <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/moske-rocne-ure/apple-watch-series-5-nike-44mm-oglas-6394139?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/deli-za-pametne-mobilne-telefone/iphone-11-11-pro-11-pro-max-zascitno-steklo-oglas-5328040?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
                         </li>
                     
                     
@@ -1018,7 +1506,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                300&nbsp;<span class="currency">€</span>                            </strong>
+                                7,99&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -1029,25 +1517,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n5  bp-radix__faux-anchor  "  data-href="/pametne-ure-mobilna-telefonija/apple-watch-series-6-nike-44mm-gps-aluminium-case-grey-sport-band-oglas-5455575"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5455575}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n5  bp-radix__faux-anchor  "  data-href="/deli-za-pametne-mobilne-telefone/iphone-11-pro-baterija-oglas-4939575"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":4939575}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="5455575" class="link" href="/pametne-ure-mobilna-telefonija/apple-watch-series-6-nike-44mm-gps-aluminium-case-grey-sport-band-oglas-5455575">Apple Watch Series 6 Nike 44mm (GPS) Aluminium Case Grey Sport Band...</a></h3>
+                    <h3 class="entity-title"><a name="4939575" class="link" href="/deli-za-pametne-mobilne-telefone/iphone-11-pro-baterija-oglas-4939575">Iphone 11 Pro original baterija</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/pametne-ure-mobilna-telefonija/apple-watch-series-6-nike-44mm-gps-aluminium-case-grey-sport-band-oglas-5455575">
+                <a class="link" href="/deli-za-pametne-mobilne-telefone/iphone-11-pro-baterija-oglas-4939575">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/apple-watch-series-6-nike-44mm-gps-aluminium-case-grey-sport-band-slika-20450726.jpg"
-                        alt="Apple Watch Series 6 Nike 44mm (GPS) Aluminium Case Grey Sport Band..."
+                        data-src="//www.bolha.com/image-200x150/deli-za-pametne-mobilne-telefone/iphone-11-pro-baterija-slika-20438113.jpg"
+                        alt="Iphone 11 Pro original baterija"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/apple-watch-series-6-nike-44mm-gps-aluminium-case-grey-sport-band-slika-20450726.jpg"
-                            alt="Apple Watch Series 6 Nike 44mm (GPS) Aluminium Case Grey Sport Band..."
+                            src="//www.bolha.com/image-200x150/deli-za-pametne-mobilne-telefone/iphone-11-pro-baterija-slika-20438113.jpg"
+                            alt="Iphone 11 Pro original baterija"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -1064,14 +1552,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Slovaška<br />
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Koper, Koper<br />
                                                                         </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2020-12-01T04:08:57+01:00" pubdate="pubdate">01.12.2020.</time>
+                <time class="date date--full" datetime="2020-11-04T11:14:08+01:00" pubdate="pubdate">04.11.2020.</time>
             </div>
         
         
@@ -1095,6 +1583,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="feature-items cf">
 
                     
+                                            <li class="feature-item">
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/deli-za-pametne-mobilne-telefone/iphone-11-pro-baterija-oglas-4939575?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                        </li>
                     
                     
                     
@@ -1109,7 +1600,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                447&nbsp;<span class="currency">€</span>                            </strong>
+                                49,90&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -1146,25 +1637,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         </li>
                 
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n6  bp-radix__faux-anchor  "  data-href="/pametne-ure-mobilna-telefonija/apple-watch-4-gps-44mm-space-grey-aluminium-black-nike-mu7j2hc-a-oglas-5745446"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5745446}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n6  bp-radix__faux-anchor  "  data-href="/deli-za-pametne-mobilne-telefone/iphone-11-baterija-oglas-4939532"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":4939532}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="5745446" class="link" href="/pametne-ure-mobilna-telefonija/apple-watch-4-gps-44mm-space-grey-aluminium-black-nike-mu7j2hc-a-oglas-5745446">Apple Watch 4 GPS 44mm Space Grey Aluminium/Black Nike+ (MU7J2HC/A)</a></h3>
+                    <h3 class="entity-title"><a name="4939532" class="link" href="/deli-za-pametne-mobilne-telefone/iphone-11-baterija-oglas-4939532">Iphone 11 original baterija</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/pametne-ure-mobilna-telefonija/apple-watch-4-gps-44mm-space-grey-aluminium-black-nike-mu7j2hc-a-oglas-5745446">
+                <a class="link" href="/deli-za-pametne-mobilne-telefone/iphone-11-baterija-oglas-4939532">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/apple-watch-4-gps-44mm-space-grey-aluminium-black-nike-mu7j2hc-a-slika-20889870.jpg"
-                        alt="Apple Watch 4 GPS 44mm Space Grey Aluminium/Black Nike+ (MU7J2HC/A)"
+                        data-src="//www.bolha.com/image-200x150/deli-za-pametne-mobilne-telefone/iphone-11-baterija-slika-20438110.jpg"
+                        alt="Iphone 11 original baterija"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/apple-watch-4-gps-44mm-space-grey-aluminium-black-nike-mu7j2hc-a-slika-20889870.jpg"
-                            alt="Apple Watch 4 GPS 44mm Space Grey Aluminium/Black Nike+ (MU7J2HC/A)"
+                            src="//www.bolha.com/image-200x150/deli-za-pametne-mobilne-telefone/iphone-11-baterija-slika-20438110.jpg"
+                            alt="Iphone 11 original baterija"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -1181,14 +1672,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Ljubljana Moste Polje, BTC<br />
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Koper, Koper<br />
                                                                         </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2020-12-25T00:19:36+01:00" pubdate="pubdate">25.12.2020.</time>
+                <time class="date date--full" datetime="2020-11-04T11:12:25+01:00" pubdate="pubdate">04.11.2020.</time>
             </div>
         
         
@@ -1213,7 +1704,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     
                                             <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/pametne-ure-mobilna-telefonija/apple-watch-4-gps-44mm-space-grey-aluminium-black-nike-mu7j2hc-a-oglas-5745446?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/deli-za-pametne-mobilne-telefone/iphone-11-baterija-oglas-4939532?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
                         </li>
                     
                     
@@ -1229,7 +1720,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                439,99&nbsp;<span class="currency">€</span>                            </strong>
+                                34,90&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -1240,25 +1731,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n7  bp-radix__faux-anchor  "  data-href="/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-oglas-5851443"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5851443}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n7  bp-radix__faux-anchor  "  data-href="/apple-iphone/kupim-iphone-11-gotovina-takoj-oglas-6203153"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6203153}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="5851443" class="link" href="/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-oglas-5851443">Silikonski pašček NIKE 42/44 mm za Apple Watch 4 5 6</a></h3>
+                    <h3 class="entity-title"><a name="6203153" class="link" href="/apple-iphone/kupim-iphone-11-gotovina-takoj-oglas-6203153">KUPIM Iphone 11 - GOTOVINA TAKOJ</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-oglas-5851443">
+                <a class="link" href="/apple-iphone/kupim-iphone-11-gotovina-takoj-oglas-6203153">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-slika-21051099.jpg"
-                        alt="Silikonski pašček NIKE 42/44 mm za Apple Watch 4 5 6"
+                        data-src="//www.bolha.com/image-200x150/apple-iphone/kupim-iphone-11-gotovina-takoj-slika-21604695.jpg"
+                        alt="KUPIM Iphone 11 - GOTOVINA TAKOJ"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-slika-21051099.jpg"
-                            alt="Silikonski pašček NIKE 42/44 mm za Apple Watch 4 5 6"
+                            src="//www.bolha.com/image-200x150/apple-iphone/kupim-iphone-11-gotovina-takoj-slika-21604695.jpg"
+                            alt="KUPIM Iphone 11 - GOTOVINA TAKOJ"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -1275,14 +1766,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Ljubljana Vič Rudnik, Vič - Dolgi most<br />
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Maribor, Magdalena<br />
                                                                         </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-02-18T09:04:16+01:00" pubdate="pubdate">18.02.2021.</time>
+                <time class="date date--full" datetime="2021-02-03T19:00:03+01:00" pubdate="pubdate">03.02.2021.</time>
             </div>
         
         
@@ -1307,7 +1798,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     
                                             <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/oprema-za-klasicne-mobilne-telefone/silikonski-pascek-nike-42-44-mm-apple-watch-4-5-6-oglas-5851443?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/apple-iphone/kupim-iphone-11-gotovina-takoj-oglas-6203153?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
                         </li>
                     
                     
@@ -1323,7 +1814,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                10&nbsp;<span class="currency">€</span>                            </strong>
+                                700&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -1334,25 +1825,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n8  bp-radix__faux-anchor  "  data-href="/pametne-ure-mobilna-telefonija/apple-watch-6-oglas-6405640"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6405640}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n8  bp-radix__faux-anchor  "  data-href="/oprema-za-klasicne-mobilne-telefone/ovitek-apple-iphone-11-pro-silikonski-original-in-steklo-oglas-6243463"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6243463}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6405640" class="link" href="/pametne-ure-mobilna-telefonija/apple-watch-6-oglas-6405640">Apple Watch 6</a></h3>
+                    <h3 class="entity-title"><a name="6243463" class="link" href="/oprema-za-klasicne-mobilne-telefone/ovitek-apple-iphone-11-pro-silikonski-original-in-steklo-oglas-6243463">Ovitek za Apple iPhone 11 Pro, silikonski, original in steklo</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/pametne-ure-mobilna-telefonija/apple-watch-6-oglas-6405640">
+                <a class="link" href="/oprema-za-klasicne-mobilne-telefone/ovitek-apple-iphone-11-pro-silikonski-original-in-steklo-oglas-6243463">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/apple-watch-6-slika-21981585.jpg"
-                        alt="Apple Watch 6"
+                        data-src="//www.bolha.com/image-200x150/oprema-za-klasicne-mobilne-telefone/ovitek-apple-iphone-11-pro-silikonski-original-in-steklo-slika-21666665.jpg"
+                        alt="Ovitek za Apple iPhone 11 Pro, silikonski, original in steklo"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/apple-watch-6-slika-21981585.jpg"
-                            alt="Apple Watch 6"
+                            src="//www.bolha.com/image-200x150/oprema-za-klasicne-mobilne-telefone/ovitek-apple-iphone-11-pro-silikonski-original-in-steklo-slika-21666665.jpg"
+                            alt="Ovitek za Apple iPhone 11 Pro, silikonski, original in steklo"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -1369,14 +1860,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Slovenske Konjice, Slovenske Konjice<br />
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Nova Gorica, Nova Gorica<br />
                                                                         </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-02-27T09:29:16+01:00" pubdate="pubdate">27.02.2021.</time>
+                <time class="date date--full" datetime="2021-02-07T10:21:59+01:00" pubdate="pubdate">07.02.2021.</time>
             </div>
         
         
@@ -1401,7 +1892,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     
                                             <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/pametne-ure-mobilna-telefonija/apple-watch-6-oglas-6405640?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/oprema-za-klasicne-mobilne-telefone/ovitek-apple-iphone-11-pro-silikonski-original-in-steklo-oglas-6243463?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
                         </li>
                     
                     
@@ -1417,7 +1908,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                400&nbsp;<span class="currency">€</span>                            </strong>
+                                15&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -1428,25 +1919,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n9  bp-radix__faux-anchor  "  data-href="/pametne-ure-mobilna-telefonija/apple-watch-serie-3-iwatch-serije-3-42mm-oglas-6212190"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6212190}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n9  bp-radix__faux-anchor  "  data-href="/apple-iphone/iphone-11-pro-oglas-6265381"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6265381}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6212190" class="link" href="/pametne-ure-mobilna-telefonija/apple-watch-serie-3-iwatch-serije-3-42mm-oglas-6212190">Apple watch serie 3, iwatch serije 3, 42mm</a></h3>
+                    <h3 class="entity-title"><a name="6265381" class="link" href="/apple-iphone/iphone-11-pro-oglas-6265381">Iphone 11 PRO NOVO</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/pametne-ure-mobilna-telefonija/apple-watch-serie-3-iwatch-serije-3-42mm-oglas-6212190">
+                <a class="link" href="/apple-iphone/iphone-11-pro-oglas-6265381">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/apple-watch-serie-3-iwatch-serije-3-42mm-slika-21615240.jpg"
-                        alt="Apple watch serie 3, iwatch serije 3, 42mm"
+                        data-src="//www.bolha.com/image-200x150/apple-iphone/iphone-11-pro-slika-21723107.jpg"
+                        alt="Iphone 11 PRO NOVO"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/apple-watch-serie-3-iwatch-serije-3-42mm-slika-21615240.jpg"
-                            alt="Apple watch serie 3, iwatch serije 3, 42mm"
+                            src="//www.bolha.com/image-200x150/apple-iphone/iphone-11-pro-slika-21723107.jpg"
+                            alt="Iphone 11 PRO NOVO"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -1463,14 +1954,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Kozina, Kozina<br />
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Slovenska Bistrica, Klopce<br />
                                                                         </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-02-04T10:31:28+01:00" pubdate="pubdate">04.02.2021.</time>
+                <time class="date date--full" datetime="2021-02-10T11:11:58+01:00" pubdate="pubdate">10.02.2021.</time>
             </div>
         
         
@@ -1495,7 +1986,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     
                                             <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/pametne-ure-mobilna-telefonija/apple-watch-serie-3-iwatch-serije-3-42mm-oglas-6212190?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/apple-iphone/iphone-11-pro-oglas-6265381?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
                         </li>
                     
                     
@@ -1511,7 +2002,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                120&nbsp;<span class="currency">€</span>                            </strong>
+                                750&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -1522,25 +2013,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n10  bp-radix__faux-anchor  "  data-href="/moske-rocne-ure/kupim-huawei-watch-gt-2-oglas-3929622"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":3929622}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n10  bp-radix__faux-anchor  "  data-href="/ovitki-etuiji-mobilna-telefonija/iphone-11-pro-max-etui-ovitek-oglas-2118328"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":2118328}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="3929622" class="link" href="/moske-rocne-ure/kupim-huawei-watch-gt-2-oglas-3929622">KUPIM HUAWEI WATCH GT2</a></h3>
+                    <h3 class="entity-title"><a name="2118328" class="link" href="/ovitki-etuiji-mobilna-telefonija/iphone-11-pro-max-etui-ovitek-oglas-2118328">iPhone 11 Pro Max etui / ovitek</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/moske-rocne-ure/kupim-huawei-watch-gt-2-oglas-3929622">
+                <a class="link" href="/ovitki-etuiji-mobilna-telefonija/iphone-11-pro-max-etui-ovitek-oglas-2118328">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/moske-rocne-ure/kupim-huawei-watch-gt-2-slika-17063117.jpg"
-                        alt="KUPIM HUAWEI WATCH GT2"
+                        data-src="//www.bolha.com/image-200x150/ovitki-etuiji-mobilna-telefonija/iphone-11-pro-max-etui-ovitek-slika-17931450.jpg"
+                        alt="iPhone 11 Pro Max etui / ovitek"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/moske-rocne-ure/kupim-huawei-watch-gt-2-slika-17063117.jpg"
-                            alt="KUPIM HUAWEI WATCH GT2"
+                            src="//www.bolha.com/image-200x150/ovitki-etuiji-mobilna-telefonija/iphone-11-pro-max-etui-ovitek-slika-17931450.jpg"
+                            alt="iPhone 11 Pro Max etui / ovitek"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -1557,14 +2048,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Maribor, Ostalo<br />
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Ljubljana Bežigrad, Črnuče<br />
                                                                         </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-01-31T14:29:23+01:00" pubdate="pubdate">31.01.2021.</time>
+                <time class="date date--full" datetime="2019-10-10T10:18:35+02:00" pubdate="pubdate">10.10.2019.</time>
             </div>
         
         
@@ -1589,7 +2080,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     
                                             <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/moske-rocne-ure/kupim-huawei-watch-gt-2-oglas-3929622?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/ovitki-etuiji-mobilna-telefonija/iphone-11-pro-max-etui-ovitek-oglas-2118328?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
                         </li>
                     
                     
@@ -1605,7 +2096,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                0&nbsp;<span class="currency">€</span>                            </strong>
+                                4,90&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -1632,25 +2123,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         </li>
                 
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n11  bp-radix__faux-anchor  "  data-href="/moske-rocne-ure/apple-watch-4-5-oglas-3428895"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":3428895}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n11  bp-radix__faux-anchor  "  data-href="/ostali-pametni-mobilni-telefoni/apple-iphone-11-dual-esim-64gb-4gb-ram-crna-oglas-2540978"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":2540978}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="3428895" class="link" href="/moske-rocne-ure/apple-watch-4-5-oglas-3428895">APPLE WATCH 4 5</a></h3>
+                    <h3 class="entity-title"><a name="2540978" class="link" href="/ostali-pametni-mobilni-telefoni/apple-iphone-11-dual-esim-64gb-4gb-ram-crna-oglas-2540978">Apple iPhone 11 Dual eSIM 64GB 4GB RAM Črna</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/moske-rocne-ure/apple-watch-4-5-oglas-3428895">
+                <a class="link" href="/ostali-pametni-mobilni-telefoni/apple-iphone-11-dual-esim-64gb-4gb-ram-crna-oglas-2540978">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/moske-rocne-ure/apple-watch-4-5-slika-15871959.jpg"
-                        alt="APPLE WATCH 4 5"
+                        data-src="//www.bolha.com/image-200x150/ostali-pametni-mobilni-telefoni/apple-iphone-11-dual-esim-64gb-4gb-ram-crna-slika-9739539.jpg"
+                        alt="Apple iPhone 11 Dual eSIM 64GB 4GB RAM Črna"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/moske-rocne-ure/apple-watch-4-5-slika-15871959.jpg"
-                            alt="APPLE WATCH 4 5"
+                            src="//www.bolha.com/image-200x150/ostali-pametni-mobilni-telefoni/apple-iphone-11-dual-esim-64gb-4gb-ram-crna-slika-9739539.jpg"
+                            alt="Apple iPhone 11 Dual eSIM 64GB 4GB RAM Črna"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -1667,14 +2158,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Maribor, Ostalo<br />
-                                                                        </div>
+                                            </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-01-26T12:45:11+01:00" pubdate="pubdate">26.01.2021.</time>
+                <time class="date date--full" datetime="2020-04-29T00:23:32+02:00" pubdate="pubdate">29.04.2020.</time>
             </div>
         
         
@@ -1698,9 +2188,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="feature-items cf">
 
                     
-                                            <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/moske-rocne-ure/apple-watch-4-5-oglas-3428895?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
-                        </li>
                     
                     
                     
@@ -1715,7 +2202,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                0&nbsp;<span class="currency">€</span>                            </strong>
+                                645&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -1726,25 +2213,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n12  bp-radix__faux-anchor  "  data-href="/moske-rocne-ure/apple-watch-4-oglas-4023403"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":4023403}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n12  bp-radix__faux-anchor  "  data-href="/ostali-pametni-mobilni-telefoni/apple-iphone-11-pro-max-dual-esim-64gb-4gb-ram-srebrna-oglas-2572208"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":2572208}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="4023403" class="link" href="/moske-rocne-ure/apple-watch-4-oglas-4023403">APPLE WATCH 4</a></h3>
+                    <h3 class="entity-title"><a name="2572208" class="link" href="/ostali-pametni-mobilni-telefoni/apple-iphone-11-pro-max-dual-esim-64gb-4gb-ram-srebrna-oglas-2572208">Apple iPhone 11 Pro Max Dual eSIM 64GB 4GB RAM Srebrna</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/moske-rocne-ure/apple-watch-4-oglas-4023403">
+                <a class="link" href="/ostali-pametni-mobilni-telefoni/apple-iphone-11-pro-max-dual-esim-64gb-4gb-ram-srebrna-oglas-2572208">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/moske-rocne-ure/apple-watch-4-slika-17328893.jpg"
-                        alt="APPLE WATCH 4"
+                        data-src="//www.bolha.com/image-200x150/ostali-pametni-mobilni-telefoni/apple-iphone-11-pro-max-dual-esim-64gb-4gb-ram-srebrna-slika-9741300.jpg"
+                        alt="Apple iPhone 11 Pro Max Dual eSIM 64GB 4GB RAM Srebrna"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/moske-rocne-ure/apple-watch-4-slika-17328893.jpg"
-                            alt="APPLE WATCH 4"
+                            src="//www.bolha.com/image-200x150/ostali-pametni-mobilni-telefoni/apple-iphone-11-pro-max-dual-esim-64gb-4gb-ram-srebrna-slika-9741300.jpg"
+                            alt="Apple iPhone 11 Pro Max Dual eSIM 64GB 4GB RAM Srebrna"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -1761,14 +2248,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Maribor, Ostalo<br />
-                                                                        </div>
+                                            </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-01-26T12:44:31+01:00" pubdate="pubdate">26.01.2021.</time>
+                <time class="date date--full" datetime="2020-10-27T00:32:54+01:00" pubdate="pubdate">27.10.2020.</time>
             </div>
         
         
@@ -1792,9 +2278,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="feature-items cf">
 
                     
-                                            <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/moske-rocne-ure/apple-watch-4-oglas-4023403?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
-                        </li>
                     
                     
                     
@@ -1809,7 +2292,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                0&nbsp;<span class="currency">€</span>                            </strong>
+                                1.030&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -1820,25 +2303,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n13  bp-radix__faux-anchor  "  data-href="/pametne-ure-mobilna-telefonija/kupim-huawei-watch-gt2-najboljse-placilo-gotovina-takoj-oglas-6251921"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6251921}'>
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n13  bp-radix__faux-anchor  "  data-href="/ostali-pametni-mobilni-telefoni/apple-iphone-11-pro-dual-esim-64gb-4gb-ram-midnight-zelena-oglas-2572665"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":2572665}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6251921" class="link" href="/pametne-ure-mobilna-telefonija/kupim-huawei-watch-gt2-najboljse-placilo-gotovina-takoj-oglas-6251921">Kupim Huawei WATCH GT2 - NAJBOLJŠE PLAČILO - GOTOVINA TAKOJ</a></h3>
+                    <h3 class="entity-title"><a name="2572665" class="link" href="/ostali-pametni-mobilni-telefoni/apple-iphone-11-pro-dual-esim-64gb-4gb-ram-midnight-zelena-oglas-2572665">Apple iPhone 11 Pro Dual eSIM 64GB 4GB RAM Midnight Zelena</a></h3>
         
                     <div class="entity-thumbnail">
-                <a class="link" href="/pametne-ure-mobilna-telefonija/kupim-huawei-watch-gt2-najboljse-placilo-gotovina-takoj-oglas-6251921">
+                <a class="link" href="/ostali-pametni-mobilni-telefoni/apple-iphone-11-pro-dual-esim-64gb-4gb-ram-midnight-zelena-oglas-2572665">
                     <img
                         class="img entity-thumbnail-img"
                         src="https://static.bolha.com/dist/e57e14f619.png"
-                        data-src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/kupim-huawei-watch-gt2-najboljse-placilo-gotovina-takoj-slika-21688753.jpg"
-                        alt="Kupim Huawei WATCH GT2 - NAJBOLJŠE PLAČILO - GOTOVINA TAKOJ"
+                        data-src="//www.bolha.com/image-200x150/ostali-pametni-mobilni-telefoni/apple-iphone-11-pro-dual-esim-64gb-4gb-ram-midnight-zelena-slika-9741121.jpg"
+                        alt="Apple iPhone 11 Pro Dual eSIM 64GB 4GB RAM Midnight Zelena"
                     />
                     <noscript>
                         <img
                             class="img entity-thumbnail-img"
-                            src="//www.bolha.com/image-200x150/pametne-ure-mobilna-telefonija/kupim-huawei-watch-gt2-najboljse-placilo-gotovina-takoj-slika-21688753.jpg"
-                            alt="Kupim Huawei WATCH GT2 - NAJBOLJŠE PLAČILO - GOTOVINA TAKOJ"
+                            src="//www.bolha.com/image-200x150/ostali-pametni-mobilni-telefoni/apple-iphone-11-pro-dual-esim-64gb-4gb-ram-midnight-zelena-slika-9741121.jpg"
+                            alt="Apple iPhone 11 Pro Dual eSIM 64GB 4GB RAM Midnight Zelena"
                         />
                     </noscript>
                     <div class="entity-thumbnail-preloader">
@@ -1855,14 +2338,104 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                                     <div class="entity-description-main">
-                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Slovenska Bistrica, Slovenska Bistrica<br />
+                                            </div>
+                
+            </div>
+        
+                    <div class="entity-pub-date">
+                <span class="label">Objavljen:</span>
+                <time class="date date--full" datetime="2020-10-29T00:28:21+01:00" pubdate="pubdate">29.10.2020.</time>
+            </div>
+        
+        
+                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
+                            </div>
+        
+        
+                    <div class="entity-tools">
+                <ul class="tool-items">
+
+                                            <li class="tool-item">
+                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
+                        </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+        
+                    <div class="entity-features">
+                <ul class="feature-items cf">
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                    </ul>
+            </div>
+        
+        
+                    <div class="entity-prices">
+                <ul class="price-items cf">
+                                            <li class="price-item">
+                            <strong class="price price--hrk">
+                                914&nbsp;<span class="currency">€</span>                            </strong>
+                        </li>
+                                                            </ul>
+            </div>
+        
+        
+        
+    
+</article>
+            </li>
+            
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n14  bp-radix__faux-anchor  "  data-href="/apple-iphone/apple-iphone-11-pro-max-512gb-space-gray-obroke-oglas-2980194"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":2980194}'>
+                <article class="entity-body cf">
+
+    
+                    <h3 class="entity-title"><a name="2980194" class="link" href="/apple-iphone/apple-iphone-11-pro-max-512gb-space-gray-obroke-oglas-2980194">Apple iPhone 11 Pro Max 512GB, Space gray, *** AKCIJA ***</a></h3>
+        
+                    <div class="entity-thumbnail">
+                <a class="link" href="/apple-iphone/apple-iphone-11-pro-max-512gb-space-gray-obroke-oglas-2980194">
+                    <img
+                        class="img entity-thumbnail-img"
+                        src="https://static.bolha.com/dist/e57e14f619.png"
+                        data-src="//www.bolha.com/image-200x150/apple-iphone/apple-iphone-11-pro-max-512gb-space-gray-obroke-slika-15534957.jpg"
+                        alt="Apple iPhone 11 Pro Max 512GB, Space gray, *** AKCIJA ***"
+                    />
+                    <noscript>
+                        <img
+                            class="img entity-thumbnail-img"
+                            src="//www.bolha.com/image-200x150/apple-iphone/apple-iphone-11-pro-max-512gb-space-gray-obroke-slika-15534957.jpg"
+                            alt="Apple iPhone 11 Pro Max 512GB, Space gray, *** AKCIJA ***"
+                        />
+                    </noscript>
+                    <div class="entity-thumbnail-preloader">
+                        <div class="Preloader Preloader--center">
+                            <div class="Preloader-inner"></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        
+        
+                    <div class="entity-description">
+
+                
+                
+                                    <div class="entity-description-main">
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Ljubljana Bežigrad, Črnuče<br />
                                                                         </div>
                 
             </div>
         
                     <div class="entity-pub-date">
                 <span class="label">Objavljen:</span>
-                <time class="date date--full" datetime="2021-02-08T11:13:21+01:00" pubdate="pubdate">08.02.2021.</time>
+                <time class="date date--full" datetime="2021-02-04T13:38:05+01:00" pubdate="pubdate">04.02.2021.</time>
             </div>
         
         
@@ -1887,7 +2460,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     
                                             <li class="feature-item">
-                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/pametne-ure-mobilna-telefonija/kupim-huawei-watch-gt2-najboljse-placilo-gotovina-takoj-oglas-6251921?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/apple-iphone/apple-iphone-11-pro-max-512gb-space-gray-obroke-oglas-2980194?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
                         </li>
                     
                     
@@ -1903,7 +2476,568 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="price-items cf">
                                             <li class="price-item">
                             <strong class="price price--hrk">
-                                0&nbsp;<span class="currency">€</span>                            </strong>
+                                1.099,90&nbsp;<span class="currency">€</span>                            </strong>
+                        </li>
+                                                            </ul>
+            </div>
+        
+        
+        
+    
+</article>
+            </li>
+            
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n15  bp-radix__faux-anchor  "  data-href="/deli-za-pametne-mobilne-telefone/original-apple-iphone-11-pro-max-baterija-oglas-5809318"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5809318}'>
+                <article class="entity-body cf">
+
+    
+                    <h3 class="entity-title"><a name="5809318" class="link" href="/deli-za-pametne-mobilne-telefone/original-apple-iphone-11-pro-max-baterija-oglas-5809318">Original Apple iPhone 11 Pro Max baterija</a></h3>
+        
+                    <div class="entity-thumbnail">
+                <a class="link" href="/deli-za-pametne-mobilne-telefone/original-apple-iphone-11-pro-max-baterija-oglas-5809318">
+                    <img
+                        class="img entity-thumbnail-img"
+                        src="https://static.bolha.com/dist/e57e14f619.png"
+                        data-src="//www.bolha.com/image-200x150/deli-za-pametne-mobilne-telefone/original-apple-iphone-11-pro-max-baterija-slika-20988012.jpg"
+                        alt="Original Apple iPhone 11 Pro Max baterija"
+                    />
+                    <noscript>
+                        <img
+                            class="img entity-thumbnail-img"
+                            src="//www.bolha.com/image-200x150/deli-za-pametne-mobilne-telefone/original-apple-iphone-11-pro-max-baterija-slika-20988012.jpg"
+                            alt="Original Apple iPhone 11 Pro Max baterija"
+                        />
+                    </noscript>
+                    <div class="entity-thumbnail-preloader">
+                        <div class="Preloader Preloader--center">
+                            <div class="Preloader-inner"></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        
+        
+                    <div class="entity-description">
+
+                
+                
+                                    <div class="entity-description-main">
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Ljubljana Bežigrad, Črnuče<br />
+                                                                        </div>
+                
+            </div>
+        
+                    <div class="entity-pub-date">
+                <span class="label">Objavljen:</span>
+                <time class="date date--full" datetime="2021-01-25T13:29:08+01:00" pubdate="pubdate">25.01.2021.</time>
+            </div>
+        
+        
+                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
+                            </div>
+        
+        
+                    <div class="entity-tools">
+                <ul class="tool-items">
+
+                                            <li class="tool-item">
+                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
+                        </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+        
+                    <div class="entity-features">
+                <ul class="feature-items cf">
+
+                    
+                                            <li class="feature-item">
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/deli-za-pametne-mobilne-telefone/original-apple-iphone-11-pro-max-baterija-oglas-5809318?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                        </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                                    </ul>
+            </div>
+        
+        
+                    <div class="entity-prices">
+                <ul class="price-items cf">
+                                            <li class="price-item">
+                            <strong class="price price--hrk">
+                                46,90&nbsp;<span class="currency">€</span>                            </strong>
+                        </li>
+                                                            </ul>
+            </div>
+        
+        
+        
+    
+</article>
+            </li>
+            
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n16  bp-radix__faux-anchor  "  data-href="/deli-za-pametne-mobilne-telefone/iphone-11-pro-lcd-oled-soft-beri-opis-oglas-5699589"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5699589}'>
+                <article class="entity-body cf">
+
+    
+                    <h3 class="entity-title"><a name="5699589" class="link" href="/deli-za-pametne-mobilne-telefone/iphone-11-pro-lcd-oled-soft-beri-opis-oglas-5699589">iphone 11 pro lcd oled (soft) (beri opis)</a></h3>
+        
+                    <div class="entity-thumbnail">
+                <a class="link" href="/deli-za-pametne-mobilne-telefone/iphone-11-pro-lcd-oled-soft-beri-opis-oglas-5699589">
+                    <img
+                        class="img entity-thumbnail-img"
+                        src="https://static.bolha.com/dist/e57e14f619.png"
+                        data-src="//www.bolha.com/image-200x150/deli-za-pametne-mobilne-telefone/iphone-11-pro-lcd-oled-soft-beri-opis-slika-20820504.jpg"
+                        alt="iphone 11 pro lcd oled (soft) (beri opis)"
+                    />
+                    <noscript>
+                        <img
+                            class="img entity-thumbnail-img"
+                            src="//www.bolha.com/image-200x150/deli-za-pametne-mobilne-telefone/iphone-11-pro-lcd-oled-soft-beri-opis-slika-20820504.jpg"
+                            alt="iphone 11 pro lcd oled (soft) (beri opis)"
+                        />
+                    </noscript>
+                    <div class="entity-thumbnail-preloader">
+                        <div class="Preloader Preloader--center">
+                            <div class="Preloader-inner"></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        
+        
+                    <div class="entity-description">
+
+                
+                
+                                    <div class="entity-description-main">
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Koper, Koper<br />
+                                                                        </div>
+                
+            </div>
+        
+                    <div class="entity-pub-date">
+                <span class="label">Objavljen:</span>
+                <time class="date date--full" datetime="2020-12-20T02:58:35+01:00" pubdate="pubdate">20.12.2020.</time>
+            </div>
+        
+        
+                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
+                            </div>
+        
+        
+                    <div class="entity-tools">
+                <ul class="tool-items">
+
+                                            <li class="tool-item">
+                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
+                        </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+        
+                    <div class="entity-features">
+                <ul class="feature-items cf">
+
+                    
+                                            <li class="feature-item">
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/deli-za-pametne-mobilne-telefone/iphone-11-pro-lcd-oled-soft-beri-opis-oglas-5699589?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                        </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                                    </ul>
+            </div>
+        
+        
+                    <div class="entity-prices">
+                <ul class="price-items cf">
+                                            <li class="price-item">
+                            <strong class="price price--hrk">
+                                200&nbsp;<span class="currency">€</span>                            </strong>
+                        </li>
+                                                            </ul>
+            </div>
+        
+        
+        
+    
+</article>
+            </li>
+            
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n17  bp-radix__faux-anchor  "  data-href="/apple-iphone/apple-iphone-11-pro-max-64gb-space-gray-obroke-oglas-2615555"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":2615555}'>
+                <article class="entity-body cf">
+
+    
+                    <h3 class="entity-title"><a name="2615555" class="link" href="/apple-iphone/apple-iphone-11-pro-max-64gb-space-gray-obroke-oglas-2615555">Apple iPhone 11 Pro Max 64GB, Space gray, *** AKCIJA ** NA OBROKE ***</a></h3>
+        
+                    <div class="entity-thumbnail">
+                <a class="link" href="/apple-iphone/apple-iphone-11-pro-max-64gb-space-gray-obroke-oglas-2615555">
+                    <img
+                        class="img entity-thumbnail-img"
+                        src="https://static.bolha.com/dist/e57e14f619.png"
+                        data-src="//www.bolha.com/image-200x150/apple-iphone/apple-iphone-11-pro-max-64gb-space-gray-obroke-slika-15016030.jpg"
+                        alt="Apple iPhone 11 Pro Max 64GB, Space gray, *** AKCIJA ** NA OBROKE ***"
+                    />
+                    <noscript>
+                        <img
+                            class="img entity-thumbnail-img"
+                            src="//www.bolha.com/image-200x150/apple-iphone/apple-iphone-11-pro-max-64gb-space-gray-obroke-slika-15016030.jpg"
+                            alt="Apple iPhone 11 Pro Max 64GB, Space gray, *** AKCIJA ** NA OBROKE ***"
+                        />
+                    </noscript>
+                    <div class="entity-thumbnail-preloader">
+                        <div class="Preloader Preloader--center">
+                            <div class="Preloader-inner"></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        
+        
+                    <div class="entity-description">
+
+                
+                
+                                    <div class="entity-description-main">
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Ljubljana Bežigrad, Črnuče<br />
+                                                                        </div>
+                
+            </div>
+        
+                    <div class="entity-pub-date">
+                <span class="label">Objavljen:</span>
+                <time class="date date--full" datetime="2021-02-18T11:49:33+01:00" pubdate="pubdate">18.02.2021.</time>
+            </div>
+        
+        
+                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
+                            </div>
+        
+        
+                    <div class="entity-tools">
+                <ul class="tool-items">
+
+                                            <li class="tool-item">
+                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
+                        </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+        
+                    <div class="entity-features">
+                <ul class="feature-items cf">
+
+                    
+                                            <li class="feature-item">
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/apple-iphone/apple-iphone-11-pro-max-64gb-space-gray-obroke-oglas-2615555?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                        </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                                    </ul>
+            </div>
+        
+        
+                    <div class="entity-prices">
+                <ul class="price-items cf">
+                                            <li class="price-item">
+                            <strong class="price price--hrk">
+                                999,90&nbsp;<span class="currency">€</span>                            </strong>
+                        </li>
+                                                            </ul>
+            </div>
+        
+        
+        
+    
+</article>
+            </li>
+            
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n18  bp-radix__faux-anchor  "  data-href="/apple-iphone/apple-iphone-11-pro-max-64gb-space-gray-10-mesecev-garancije-oglas-5976941"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":5976941}'>
+                <article class="entity-body cf">
+
+    
+                    <h3 class="entity-title"><a name="5976941" class="link" href="/apple-iphone/apple-iphone-11-pro-max-64gb-space-gray-10-mesecev-garancije-oglas-5976941">Apple iPhone 11 Pro Max 64GB, Space gray, 10 mesecev garancije</a></h3>
+        
+                    <div class="entity-thumbnail">
+                <a class="link" href="/apple-iphone/apple-iphone-11-pro-max-64gb-space-gray-10-mesecev-garancije-oglas-5976941">
+                    <img
+                        class="img entity-thumbnail-img"
+                        src="https://static.bolha.com/dist/e57e14f619.png"
+                        data-src="//www.bolha.com/image-200x150/apple-iphone/apple-iphone-11-pro-max-64gb-space-gray-10-mesecev-garancije-slika-21244256.jpg"
+                        alt="Apple iPhone 11 Pro Max 64GB, Space gray, 10 mesecev garancije"
+                    />
+                    <noscript>
+                        <img
+                            class="img entity-thumbnail-img"
+                            src="//www.bolha.com/image-200x150/apple-iphone/apple-iphone-11-pro-max-64gb-space-gray-10-mesecev-garancije-slika-21244256.jpg"
+                            alt="Apple iPhone 11 Pro Max 64GB, Space gray, 10 mesecev garancije"
+                        />
+                    </noscript>
+                    <div class="entity-thumbnail-preloader">
+                        <div class="Preloader Preloader--center">
+                            <div class="Preloader-inner"></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        
+        
+                    <div class="entity-description">
+
+                
+                
+                                    <div class="entity-description-main">
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Ljubljana Bežigrad, Črnuče<br />
+                                                                        </div>
+                
+            </div>
+        
+                    <div class="entity-pub-date">
+                <span class="label">Objavljen:</span>
+                <time class="date date--full" datetime="2021-02-18T11:47:02+01:00" pubdate="pubdate">18.02.2021.</time>
+            </div>
+        
+        
+                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
+                            </div>
+        
+        
+                    <div class="entity-tools">
+                <ul class="tool-items">
+
+                                            <li class="tool-item">
+                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
+                        </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+        
+                    <div class="entity-features">
+                <ul class="feature-items cf">
+
+                    
+                                            <li class="feature-item">
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/apple-iphone/apple-iphone-11-pro-max-64gb-space-gray-10-mesecev-garancije-oglas-5976941?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                        </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                                    </ul>
+            </div>
+        
+        
+                    <div class="entity-prices">
+                <ul class="price-items cf">
+                                            <li class="price-item">
+                            <strong class="price price--hrk">
+                                799,99&nbsp;<span class="currency">€</span>                            </strong>
+                        </li>
+                                                            </ul>
+            </div>
+        
+        
+        
+    
+</article>
+            </li>
+            
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n19  bp-radix__faux-anchor  "  data-href="/ovitki-etuiji-mobilna-telefonija/apple-smart-battery-case-black-iphone-11-pro-max-oglas-2750730"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":2750730}'>
+                <article class="entity-body cf">
+
+    
+                    <h3 class="entity-title"><a name="2750730" class="link" href="/ovitki-etuiji-mobilna-telefonija/apple-smart-battery-case-black-iphone-11-pro-max-oglas-2750730">Apple Smart Battery Case Black za iPhone 11 Pro Max</a></h3>
+        
+                    <div class="entity-thumbnail">
+                <a class="link" href="/ovitki-etuiji-mobilna-telefonija/apple-smart-battery-case-black-iphone-11-pro-max-oglas-2750730">
+                    <img
+                        class="img entity-thumbnail-img"
+                        src="https://static.bolha.com/dist/e57e14f619.png"
+                        data-src="//www.bolha.com/image-200x150/ovitki-etuiji-mobilna-telefonija/apple-smart-battery-case-black-iphone-11-pro-max-slika-15354933.jpg"
+                        alt="Apple Smart Battery Case Black za iPhone 11 Pro Max"
+                    />
+                    <noscript>
+                        <img
+                            class="img entity-thumbnail-img"
+                            src="//www.bolha.com/image-200x150/ovitki-etuiji-mobilna-telefonija/apple-smart-battery-case-black-iphone-11-pro-max-slika-15354933.jpg"
+                            alt="Apple Smart Battery Case Black za iPhone 11 Pro Max"
+                        />
+                    </noscript>
+                    <div class="entity-thumbnail-preloader">
+                        <div class="Preloader Preloader--center">
+                            <div class="Preloader-inner"></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        
+        
+                    <div class="entity-description">
+
+                
+                
+                                    <div class="entity-description-main">
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Jesenice, Jesenice<br />
+                                                                        </div>
+                
+            </div>
+        
+                    <div class="entity-pub-date">
+                <span class="label">Objavljen:</span>
+                <time class="date date--full" datetime="2021-02-18T21:30:41+01:00" pubdate="pubdate">18.02.2021.</time>
+            </div>
+        
+        
+                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
+                            </div>
+        
+        
+                    <div class="entity-tools">
+                <ul class="tool-items">
+
+                                            <li class="tool-item">
+                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
+                        </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+        
+                    <div class="entity-features">
+                <ul class="feature-items cf">
+
+                    
+                                            <li class="feature-item">
+                            <button class="icon-item feature feature--Map js-faux-anchor" type="button" data-href="/ovitki-etuiji-mobilna-telefonija/apple-smart-battery-case-black-iphone-11-pro-max-oglas-2750730?tab=map" title="Ta oglas je umeščen na zemljevidu"><span class="icon icon--action icon--s icon--map">Prikaži na zemljevidu</span></button>
+                        </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                                    </ul>
+            </div>
+        
+        
+                    <div class="entity-prices">
+                <ul class="price-items cf">
+                                            <li class="price-item">
+                            <strong class="price price--hrk">
+                                49&nbsp;<span class="currency">€</span>                            </strong>
+                        </li>
+                                                            </ul>
+            </div>
+        
+        
+        
+    
+</article>
+            </li>
+            
+                    <li class="EntityList-item EntityList-item--Regular EntityList-item--n20  bp-radix__faux-anchor  "  data-href="/ostali-pametni-mobilni-telefoni/apple-iphone-11-dual-esim-256gb-4gb-ram-rdeca-oglas-4993772"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":4993772}'>
+                <article class="entity-body cf">
+
+    
+                    <h3 class="entity-title"><a name="4993772" class="link" href="/ostali-pametni-mobilni-telefoni/apple-iphone-11-dual-esim-256gb-4gb-ram-rdeca-oglas-4993772">Apple iPhone 11 Dual eSIM 256GB 4GB RAM Rdeča</a></h3>
+        
+                    <div class="entity-thumbnail">
+                <a class="link" href="/ostali-pametni-mobilni-telefoni/apple-iphone-11-dual-esim-256gb-4gb-ram-rdeca-oglas-4993772">
+                    <img
+                        class="img entity-thumbnail-img"
+                        src="https://static.bolha.com/dist/e57e14f619.png"
+                        data-src="//www.bolha.com/image-200x150/ostali-pametni-mobilni-telefoni/apple-iphone-11-dual-esim-256gb-4gb-ram-rdeca-slika-19918372.jpg"
+                        alt="Apple iPhone 11 Dual eSIM 256GB 4GB RAM Rdeča"
+                    />
+                    <noscript>
+                        <img
+                            class="img entity-thumbnail-img"
+                            src="//www.bolha.com/image-200x150/ostali-pametni-mobilni-telefoni/apple-iphone-11-dual-esim-256gb-4gb-ram-rdeca-slika-19918372.jpg"
+                            alt="Apple iPhone 11 Dual eSIM 256GB 4GB RAM Rdeča"
+                        />
+                    </noscript>
+                    <div class="entity-thumbnail-preloader">
+                        <div class="Preloader Preloader--center">
+                            <div class="Preloader-inner"></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        
+        
+                    <div class="entity-description">
+
+                
+                
+                                    <div class="entity-description-main">
+                                                                                    <span class="entity-description-itemCaption">Lokacija: </span>Slovaška<br />
+                                                                        </div>
+                
+            </div>
+        
+                    <div class="entity-pub-date">
+                <span class="label">Objavljen:</span>
+                <time class="date date--full" datetime="2020-11-10T13:32:49+01:00" pubdate="pubdate">10.11.2020.</time>
+            </div>
+        
+        
+                    <div class="entity-notice entity-notice--saved-ad notice-ad-saved  hidden ">
+                            </div>
+        
+        
+                    <div class="entity-tools">
+                <ul class="tool-items">
+
+                                            <li class="tool-item">
+                            <button class="icon-item tool tool--SaveAd js-veza-save_ad " type="button" title="Shrani oglas"><span class="icon icon--action icon--xs icon--star">Shrani oglas</span></button>
+                        </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+        
+                    <div class="entity-features">
+                <ul class="feature-items cf">
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                    </ul>
+            </div>
+        
+        
+                    <div class="entity-prices">
+                <ul class="price-items cf">
+                                            <li class="price-item">
+                            <strong class="price price--hrk">
+                                788&nbsp;<span class="currency">€</span>                            </strong>
                         </li>
                                                             </ul>
             </div>
@@ -1930,7 +3064,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
 
-                        
+                            <div class="PaginationContainer  PaginationContainer--bottom ">
+        <nav class="Pagination">
+            <ul class="Pagination-items cf">
+                                
+                                                                                                                <li class="Pagination-item Pagination-item--active"><a class="Pagination-link is-active" href="index.php?ctl=search_ads&amp;keywords=iphone+11"><strong><span class="label--s">Stran</span> 1</strong></a></li>
+                                                                                                <li class="Pagination-item"><a class="Pagination-link" href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;page=2">2</a></li>
+                                                                                                <li class="Pagination-item"><a class="Pagination-link" href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;page=3">3</a></li>
+                                                                                                <li class="Pagination-item"><a class="Pagination-link" href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;page=4">4</a></li>
+                                                                                                <li class="Pagination-item"><a class="Pagination-link" href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;page=5">5</a></li>
+                                                                                                <li class="Pagination-item"><a class="Pagination-link" href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;page=6">6</a></li>
+                                                                                        <li class="Pagination-item"><a class="Pagination-link" href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;page=7">7-12</a></li>
+                                                            <li class="Pagination-item Pagination-item--next  Pagination-item--nextSolo ">
+                        <a class="Pagination-link" href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;page=2">Naslednja&nbsp;<span aria-hidden="true" role="presentation">&#187;</span></a>
+                    </li>
+                    
+                            </ul>
+        </nav>
+    </div>
+    
                         </div>
 
                         <div class="BannerFull">
@@ -1953,44 +3105,36 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <div class="EntityListFilter block-standard block-standard--alpha block-standard--epsilon">
                                     <h3 class="EntityListFilter-title block-standard-title">Natančneje določi iskanje</h3>
                                     <div class="form-standard">
-                                        <input type="hidden" id="categoryId" name="categoryId" value=""  />                                        <input type="hidden" id="keywords" name="keywords" value="apple watch nike"  />                                        <fieldset class="form-items">
+                                        <input type="hidden" id="categoryId" name="categoryId" value=""  />                                        <input type="hidden" id="keywords" name="keywords" value="iphone 11"  />                                        <fieldset class="form-items">
                                             <div class="form-grid">
                                                 <div class="form-grid-item form-grid-item--1of2">
                                                     <div class="form-item form-item--category">
                                                         <span class="form-item-category-title">
                                                             <span class="form-item-category-title-label">Kategorija</span>
-                                                                                                                        <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;showAllCategories=1">(prikaži vse)</a>
+                                                                                                                        <a href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;showAllCategories=1">(prikaži vse)</a>
                                                                                                                     </span>
                                                         <div class="form-item-category-block">
                                                             <div class="FormOptionsListing">
                                                                 <ul class="FormOptionsListing-topCategories">
                                                                                                                                             <li class="FormOptionsListing-topCategoryItem">
-                                                                            <span class="FormOptionsListing-topCategoryTitle">Dodatki za pametne mobilne telefone</span>
-                                                                            <a href="/dodatki-za-pametne-mobilne-telefone" title="Za pomik v kategorijo kliknite" >&#187;</a>
+                                                                            <span class="FormOptionsListing-topCategoryTitle">Pametni mobilni telefoni</span>
+                                                                            <a href="/pametni-mobilni-telefoni" title="Za pomik v kategorijo kliknite" >&#187;</a>
                                                                             <ul class="FormOptionsListing-subCategories">
                                                                                                                                                                     <li class="FormOptionsListing-subCategoryItem">
-                                                                                                                                                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;categoryId=29641" >Pametne ure</a>
-                                                                                            <span class="FormOptionsListing-entitiesCount">7</span>
+                                                                                                                                                                                    <a href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;categoryId=29832" >Apple iPhone</a>
+                                                                                            <span class="FormOptionsListing-entitiesCount">321</span>
                                                                                                                                                                             </li>
-                                                                                                                                                            </ul>
-                                                                        </li>
-                                                                                                                                            <li class="FormOptionsListing-topCategoryItem">
-                                                                            <span class="FormOptionsListing-topCategoryTitle">Ročne ure</span>
-                                                                            <a href="/rocne-ure" title="Za pomik v kategorijo kliknite" >&#187;</a>
-                                                                            <ul class="FormOptionsListing-subCategories">
                                                                                                                                                                     <li class="FormOptionsListing-subCategoryItem">
-                                                                                                                                                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;categoryId=12193" >Moške ročne ure</a>
-                                                                                            <span class="FormOptionsListing-entitiesCount">4</span>
+                                                                                                                                                                                    <a href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;categoryId=29846" >Samsung</a>
+                                                                                            <span class="FormOptionsListing-entitiesCount">101</span>
                                                                                                                                                                             </li>
-                                                                                                                                                            </ul>
-                                                                        </li>
-                                                                                                                                            <li class="FormOptionsListing-topCategoryItem">
-                                                                            <span class="FormOptionsListing-topCategoryTitle">Športni rekviziti in pripomočki</span>
-                                                                            <a href="/sportni-rekviziti-in-pripomocki" title="Za pomik v kategorijo kliknite" >&#187;</a>
-                                                                            <ul class="FormOptionsListing-subCategories">
                                                                                                                                                                     <li class="FormOptionsListing-subCategoryItem">
-                                                                                                                                                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;categoryId=29223" >Športne ure, merilci</a>
-                                                                                            <span class="FormOptionsListing-entitiesCount">1</span>
+                                                                                                                                                                                    <a href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;categoryId=29842" >Ostali pametni mobilni telefoni</a>
+                                                                                            <span class="FormOptionsListing-entitiesCount">45</span>
+                                                                                                                                                                            </li>
+                                                                                                                                                                    <li class="FormOptionsListing-subCategoryItem">
+                                                                                                                                                                                    <a href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;categoryId=29835" >Huawei</a>
+                                                                                            <span class="FormOptionsListing-entitiesCount">25</span>
                                                                                                                                                                             </li>
                                                                                                                                                             </ul>
                                                                         </li>
@@ -1999,8 +3143,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                             <a href="/mobilna-telefonija" title="Za pomik v kategorijo kliknite" >&#187;</a>
                                                                             <ul class="FormOptionsListing-subCategories">
                                                                                                                                                                     <li class="FormOptionsListing-subCategoryItem">
-                                                                                                                                                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;categoryId=29650" >Oprema za klasične mobilne telefone</a>
-                                                                                            <span class="FormOptionsListing-entitiesCount">1</span>
+                                                                                                                                                                                    <a href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;categoryId=29634" >Deli za pametne mobilne telefone</a>
+                                                                                            <span class="FormOptionsListing-entitiesCount">55</span>
+                                                                                                                                                                            </li>
+                                                                                                                                                            </ul>
+                                                                        </li>
+                                                                                                                                            <li class="FormOptionsListing-topCategoryItem">
+                                                                            <span class="FormOptionsListing-topCategoryTitle">Dodatki za pametne mobilne telefone</span>
+                                                                            <a href="/dodatki-za-pametne-mobilne-telefone" title="Za pomik v kategorijo kliknite" >&#187;</a>
+                                                                            <ul class="FormOptionsListing-subCategories">
+                                                                                                                                                                    <li class="FormOptionsListing-subCategoryItem">
+                                                                                                                                                                                    <a href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;categoryId=29640" >Ovitki, etuiji</a>
+                                                                                            <span class="FormOptionsListing-entitiesCount">37</span>
+                                                                                                                                                                            </li>
+                                                                                                                                                                    <li class="FormOptionsListing-subCategoryItem">
+                                                                                                                                                                                    <a href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;categoryId=29648" >Zaščitne folije in stekla</a>
+                                                                                            <span class="FormOptionsListing-entitiesCount">13</span>
+                                                                                                                                                                            </li>
+                                                                                                                                                                    <li class="FormOptionsListing-subCategoryItem">
+                                                                                                                                                                                    <a href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;categoryId=29641" >Pametne ure</a>
+                                                                                            <span class="FormOptionsListing-entitiesCount">9</span>
                                                                                                                                                                             </li>
                                                                                                                                                             </ul>
                                                                         </li>
@@ -2016,24 +3178,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="FormOptionsListing">
             <ul>
                                                         <li>
-                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;price[min]=0&amp;price[max]=9">
+                                                    <a href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;price[min]=0&amp;price[max]=9">
                                 ...                                - 9 €                            </a>
-                            <span class="FormOptionsListing-entitiesCount">4</span>
+                            <span class="FormOptionsListing-entitiesCount">231</span>
                                                 </li>
                                                         <li>
-                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;price[min]=10&amp;price[max]=299">
-                                10                                - 299 €                            </a>
-                            <span class="FormOptionsListing-entitiesCount">3</span>
+                                                    <a href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;price[min]=10&amp;price[max]=609">
+                                10                                - 609 €                            </a>
+                            <span class="FormOptionsListing-entitiesCount">167</span>
                                                 </li>
                                                         <li>
-                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;price[min]=300&amp;price[max]=439">
-                                300                                - 439 €                            </a>
-                            <span class="FormOptionsListing-entitiesCount">3</span>
+                                                    <a href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;price[min]=610&amp;price[max]=999">
+                                610                                - 999 €                            </a>
+                            <span class="FormOptionsListing-entitiesCount">160</span>
                                                 </li>
                                                         <li>
-                                                    <a href="index.php?ctl=search_ads&amp;keywords=apple+watch+nike&amp;price[min]=440">
-                                440                                - ... €                            </a>
-                            <span class="FormOptionsListing-entitiesCount">3</span>
+                                                    <a href="index.php?ctl=search_ads&amp;keywords=iphone+11&amp;price[min]=1000">
+                                1000                                - ... €                            </a>
+                            <span class="FormOptionsListing-entitiesCount">112</span>
                                                 </li>
                             </ul>
         </div>
@@ -2152,7 +3314,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 
 <script>
-    app.boot.push({"name":"GeoLocationSelector","values":{"el":"#GeoLocationSelector-geo-wrap","range":{"el":"#GeoLocationSelector-geo","address":{"url":"\/ccapi\/v2\/geocoder\/autocomplete?address={{address}}","el":"#GeoLocationSelector-address-wrapper","input":"#GeoLocationSelector-address","initialValue":null},"autoComplete":{"url":"\/ccapi\/v2\/geocoder\/autocomplete?address={{address}}","el":"#GeoLocationSelector-autoComplete-wrapper","input":"#GeoLocationSelector-autoComplete"},"autoLocate":{"url":"\/ccapi\/v2\/geocoder\/reverse\/address?geolocation[lat]={{lat}}&geolocation[lng]={{lng}}","el":"#GeoLocationSelector-autoLocate-wrapper","input":"#GeoLocationSelector-autoLocate","useUrl":true},"lat":{"el":"#GeoLocationSelector-lat","initialValue":null},"lng":{"el":"#GeoLocationSelector-lng","initialValue":null},"radius":{"el":"#GeoLocationSelector-radius-wrapper","input":"#GeoLocationSelector-radius","initialValue":20,"values":[1,2,5,10,20,50,100,200,99999]}},"hierarchy":{"elementName":"geo[locationIds]","el":".MultipleOptionHierarchySelector--GeoLocationSelector-locationIds","elementTargetId":"GeoLocationSelector-locationIds-hiddenElement","maxLevel":0,"maxValuesCount":{"amount":50,"message":"Ni mogo\u010de izbrati ve\u010d kot toliko polj \u0160t. elementov v filt. va\u0161a lokacija: 50"},"adId":null,"levelMap":{"location_id_level_0":0},"hideDefault":false,"hideAboveLevel":0,"optionalArguments":null,"initialValues":{"location_id_level_0":{"selectedValues":[],"url":"\/ccapi\/v2\/locality","filters":[],"fetchNextLevelOnlyOnId":["-30","-40"]}},"fetchInitialData":true,"columnized":false,"componentType":"default","initialCountValues":[{"locationId":26325,"count":1},{"locationId":26324,"count":0},{"locationId":26323,"count":0},{"locationId":26322,"count":0},{"locationId":26321,"count":1},{"locationId":26320,"count":5},{"locationId":26319,"count":4},{"locationId":26318,"count":0},{"locationId":26317,"count":0},{"locationId":26316,"count":0},{"locationId":26315,"count":1},{"locationId":26314,"count":0},{"locationId":44285,"count":0},{"locationId":30277,"count":0},{"locationId":-30,"count":1},{"locationId":-40,"count":0}],"groupSelect":{"target":"-20","values":["26325","26324","26323","26322","26321","26320","26319","26318","26317","26316","26315","26314","44285","30277"]}}}});</script>
+    app.boot.push({"name":"GeoLocationSelector","values":{"el":"#GeoLocationSelector-geo-wrap","range":{"el":"#GeoLocationSelector-geo","address":{"url":"\/ccapi\/v2\/geocoder\/autocomplete?address={{address}}","el":"#GeoLocationSelector-address-wrapper","input":"#GeoLocationSelector-address","initialValue":null},"autoComplete":{"url":"\/ccapi\/v2\/geocoder\/autocomplete?address={{address}}","el":"#GeoLocationSelector-autoComplete-wrapper","input":"#GeoLocationSelector-autoComplete"},"autoLocate":{"url":"\/ccapi\/v2\/geocoder\/reverse\/address?geolocation[lat]={{lat}}&geolocation[lng]={{lng}}","el":"#GeoLocationSelector-autoLocate-wrapper","input":"#GeoLocationSelector-autoLocate","useUrl":true},"lat":{"el":"#GeoLocationSelector-lat","initialValue":null},"lng":{"el":"#GeoLocationSelector-lng","initialValue":null},"radius":{"el":"#GeoLocationSelector-radius-wrapper","input":"#GeoLocationSelector-radius","initialValue":20,"values":[1,2,5,10,20,50,100,200,99999]}},"hierarchy":{"elementName":"geo[locationIds]","el":".MultipleOptionHierarchySelector--GeoLocationSelector-locationIds","elementTargetId":"GeoLocationSelector-locationIds-hiddenElement","maxLevel":0,"maxValuesCount":{"amount":50,"message":"Ni mogo\u010de izbrati ve\u010d kot toliko polj \u0160t. elementov v filt. va\u0161a lokacija: 50"},"adId":null,"levelMap":{"location_id_level_0":0},"hideDefault":false,"hideAboveLevel":0,"optionalArguments":null,"initialValues":{"location_id_level_0":{"selectedValues":[],"url":"\/ccapi\/v2\/locality","filters":[],"fetchNextLevelOnlyOnId":["-30","-40"]}},"fetchInitialData":true,"columnized":false,"componentType":"default","initialCountValues":[{"locationId":26325,"count":9},{"locationId":26324,"count":6},{"locationId":26323,"count":3},{"locationId":26322,"count":4},{"locationId":26321,"count":24},{"locationId":26320,"count":410},{"locationId":26319,"count":110},{"locationId":26318,"count":15},{"locationId":26317,"count":2},{"locationId":26316,"count":8},{"locationId":26315,"count":33},{"locationId":26314,"count":1},{"locationId":44285,"count":4},{"locationId":30277,"count":0},{"locationId":-30,"count":21},{"locationId":-40,"count":0}],"groupSelect":{"target":"-20","values":["26325","26324","26323","26322","26321","26320","26319","26318","26317","26316","26315","26314","44285","30277"]}}}});</script>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2209,11 +3371,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="EntityList EntityList--Small EntityList--Latest EntityList--ListItemLatestAd EntityList--itemCount_6">
             <ul class="EntityList-items">
 
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n1  bp-radix__faux-anchor  "  data-href="/kmetijstvo-gozdarstvo-ostalo/seme-facelija-oglas-6430493"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6430493}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n1  bp-radix__faux-anchor  "  data-href="/jugoslavija-numizmatika-bankovci/fantazijski-bankovci-unc-oglas-6431158"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6431158}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6430493" class="link" href="/kmetijstvo-gozdarstvo-ostalo/seme-facelija-oglas-6430493">Seme facelija</a></h3>
+                    <h3 class="entity-title"><a name="6431158" class="link" href="/jugoslavija-numizmatika-bankovci/fantazijski-bankovci-unc-oglas-6431158">fantazijski bankovci UNC</a></h3>
         
         
         
@@ -2240,11 +3402,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n2  bp-radix__faux-anchor  "  data-href="/zbirateljstvo-ostalo/vodnjak-svetlega-in-temno-rjavega-lesa-oglas-6430492"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6430492}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n2  bp-radix__faux-anchor  "  data-href="/radiatorji-kaloriferji/aluminijasti-radiator-rjav-10-reber-oglas-6431157"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6431157}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6430492" class="link" href="/zbirateljstvo-ostalo/vodnjak-svetlega-in-temno-rjavega-lesa-oglas-6430492">Vodnjak iz svetlega in temno rjavega lesa</a></h3>
+                    <h3 class="entity-title"><a name="6431157" class="link" href="/radiatorji-kaloriferji/aluminijasti-radiator-rjav-10-reber-oglas-6431157">Aluminijasti radiator (rjav, 10 reber)</a></h3>
         
         
         
@@ -2271,11 +3433,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n3  bp-radix__faux-anchor  "  data-href="/ostala-kolesarska-oprema/prodam-pedala-kolo-oglas-6430491"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6430491}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n3  bp-radix__faux-anchor  "  data-href="/zbirateljstvo-ostalo/zelo-star-nastavek-fotografije-retro-oglas-6431156"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6431156}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6430491" class="link" href="/ostala-kolesarska-oprema/prodam-pedala-kolo-oglas-6430491">Prodam Pedala za kolo Nova</a></h3>
+                    <h3 class="entity-title"><a name="6431156" class="link" href="/zbirateljstvo-ostalo/zelo-star-nastavek-fotografije-retro-oglas-6431156">Zelo star nastavek za fotografije RETRO</a></h3>
         
         
         
@@ -2302,11 +3464,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n4  bp-radix__faux-anchor  "  data-href="/avto-oglasi/mercedes-benz-c-klasa-c-220-t-model-avtomatik-oglas-6430490"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6430490}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n4  bp-radix__faux-anchor  "  data-href="/omare-vitrine/vitrina-oglas-6431155"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6431155}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6430490" class="link" href="/avto-oglasi/mercedes-benz-c-klasa-c-220-t-model-avtomatik-oglas-6430490">Mercedes-Benz C-klasa C 220 T-model avtomatik</a></h3>
+                    <h3 class="entity-title"><a name="6431155" class="link" href="/omare-vitrine/vitrina-oglas-6431155">Vitrina</a></h3>
         
         
         
@@ -2333,11 +3495,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n5  bp-radix__faux-anchor  "  data-href="/evropa-filatelija/evropa-cept-nemcija-1984-mi-1210-1211-serija-ciste-rafl01-oglas-6430489"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6430489}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n5  bp-radix__faux-anchor  "  data-href="/kamini-peci-ogrevalna-telesa/loncena-pec-oglas-6431154"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6431154}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6430489" class="link" href="/evropa-filatelija/evropa-cept-nemcija-1984-mi-1210-1211-serija-ciste-rafl01-oglas-6430489">Evropa, CEPT - Nemčija 1984 - Mi 1210/1211 - serija, čiste (Rafl01)</a></h3>
+                    <h3 class="entity-title"><a name="6431154" class="link" href="/kamini-peci-ogrevalna-telesa/loncena-pec-oglas-6431154">Lončena peč</a></h3>
         
         
         
@@ -2364,11 +3526,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
             </li>
             
-                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n6  bp-radix__faux-anchor  "  data-href="/poezija-leposlovje/marija-pucko-svajncer-ljubezenske-pesmi-oglas-6430488"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6430488}'>
+                    <li class="EntityList-item EntityList-item--Latest EntityList-item--n6  bp-radix__faux-anchor  "  data-href="/les-za-gradnjo/deske-divja-cesnja-gorski-javor-oglas-6431153"   data-options='{"hasCompare":false,"isAdInSavedList":false,"id":6431153}'>
                 <article class="entity-body cf">
 
     
-                    <h3 class="entity-title"><a name="6430488" class="link" href="/poezija-leposlovje/marija-pucko-svajncer-ljubezenske-pesmi-oglas-6430488">Marija Pucko Svajncer: Ljubezenske pesmi</a></h3>
+                    <h3 class="entity-title"><a name="6431153" class="link" href="/les-za-gradnjo/deske-divja-cesnja-gorski-javor-oglas-6431153">Deske; divja češnja, gorski javor</a></h3>
         
         
         
@@ -2526,7 +3688,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <script type="didomi/javascript" data-vendor="c:xiti-CzN7zA4y" >
     <!--
-    xt_mtcl = "apple_watch_nike"; //keyword value
+    xt_mtcl = "iphone_11"; //keyword value
     xt_npg = "1"; //result page number (0 when no result)
     //do not modify below
     if (window.xtparam!=null)
@@ -2563,7 +3725,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         
     }
-        window.initializeXitiTracker("search_ads::keywords=apple+watch+nike::");
+        window.initializeXitiTracker("search_ads::keywords=iphone+11::");
     </script>
 <script type="didomi/javascript" data-vendor="c:xiti-CzN7zA4y"  async src="//www.bolha.com/xtcore.js"></script>
 

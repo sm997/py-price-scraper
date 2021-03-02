@@ -8,6 +8,14 @@ pageHtml = scraping.getPageHtml("https://www.mimovrste.com/apple-iphone-11?s=iph
 productHtmlList = parsing.getProducts(pageHtml, "article")
 #print('produkti----->', productHtmlList)
 
+a = ['sanela', 'plava']
+b = ['plava', 'bbb']
+
+c = len(list(set(a).intersection(set(b))))
+
+x = set(a) and set(b)
+print(c)
+
 for prHtml in productHtmlList:
     hasEl = hasElementWithAttr(prHtml, "product-availability", "is-available", "1")
 

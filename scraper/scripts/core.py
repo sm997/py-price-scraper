@@ -13,13 +13,16 @@ def getProductsFromAllSites(query, excludeWords):
         products = getProductsFromSite(site, query, excludeWords)
         allProducts[site.pageName] = products
 
-    print(allProducts)
     return allProducts
 
 def getProductsFromSite(site, query, excludeWords):
     pageHtml = scraping.getPageHtml(site.getQueryUrl(query))
     textToFile('../tmp', site.pageName + '.txt', pageHtml.text)
     productHtmlList = parsing.getProducts(pageHtml, site.productHtmlEl)
+    excluded = []
+    if len(excludeWords) > 0:
+        clearInput = excludeWords.replace(" ", "")
+        excluded = list(map(str.lower, clearInput.split(",")))  # split excluded words and put them all to lowercae
 
 
     res = []
@@ -28,8 +31,8 @@ def getProductsFromSite(site, query, excludeWords):
             price = parsing.getPrice(productHtml, site.priceHtmlEl)
             productName = parsing.getProductName(productHtml, site.productNameHtmlEl)
             productUrl = parsing.getProductUrl(productHtml, site.productUrlHtmlHref)
-            if str(excludeWords) not in productName:
-                res.append([productName, price, productUrl])
+            if len(excluded)<1 or checkIfWordInList(excluded, productName):
+               res.append([productName, price, productUrl])
 
     return res
 
@@ -40,4 +43,18 @@ def checkStock(html, site):
         return hasElement(html, site.inStockEl)
     else:
         return True
+
+def checkIfWordInList(excludedWords, title):
+    clearTitle = title.replace(" ", "").lower()
+    for word in excludedWords:
+        print('word', word)
+        if word in clearTitle:
+            return False
+
+    return True
+
+
+
+
+
 
