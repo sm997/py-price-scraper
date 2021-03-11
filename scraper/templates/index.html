@@ -54,12 +54,20 @@
             <input type="text" id="excludeWords" value="{{ request.GET.excludeWords }}" placeholder="Exclude words..." name="excludeWords"/>
         </div>
         <input type="submit" value="Submit"/>
+        <input type="checkbox" id="filterStock" name="filterStock" value="{{ request.GET.filterStock }}">
+        <label for="filterStock"> NA ZALOGI</label><br>
+
     </form>
     {% if result %}
         {% for key, value in result.items %}
             <h2>{{ key }}</h2>
             {% for product in value %}
-                <a href="{{product.2}}"><h3>{{product.0}} - {{product.1}}</h3></a>
+                <div>
+                    {% if product.3 %}
+                        <img src="{{product.3}}" alt="Product" width="300" height="200">
+                    {% endif %}
+                    <a href="{{product.2}}"><h3>{{product.0}} - {{product.1}}</h3></a>
+                </div>
             {% endfor %}
             <br>
         {% endfor %}

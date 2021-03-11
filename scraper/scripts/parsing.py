@@ -15,6 +15,13 @@ def getProductName(html, element):
 def getProductUrl(html, element):
     return html.select(element)[0]["href"].strip()
 
+def getProductThumbnailImg(html, el, attr):
+    try:
+        return html.select(el)[0][attr].strip()
+    except:
+        return ""
+
+
 def hasElement(html, element):
     return len(html.select(element)) > 0
 

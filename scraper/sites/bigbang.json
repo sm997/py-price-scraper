@@ -7,5 +7,7 @@
   "productNameHtmlEl": ".cp-title a",
   "priceHtmlEl": ".cp-current-price",
   "inStockMethod": "hasElement",
-  "inStockEl": ".cp-btn-addtocart:not(.cp-btn-details)"
+  "inStockEl": ".cp-btn-addtocart:not(.cp-btn-details)",
+  "productThumbnailHtmlEl": ".cp-image img",
+  "productThumbnailHtmlAttribute":  "data-lazy"
 }

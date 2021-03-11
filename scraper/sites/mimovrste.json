@@ -9,5 +9,7 @@
   "inStockMethod": "hasElementWithAttr",
   "inStockEl": "product-availability",
   "inStockAttrName": "is-available",
-  "inStockAttrValue": "1"
+  "inStockAttrValue": "1",
+  "productThumbnailHtmlEl": ".lst-product-item-media-img",
+  "productThumbnailHtmlAttribute":  "data-src"
 }

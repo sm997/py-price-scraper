@@ -50,9 +50,9 @@
                                         <meta name="robots" content="noindex, follow" />
                             <meta property="og:url" content="https://www.bigbang.si/izdelki/?search_q=iphone%2011&securecode=main_search" />
     <meta property="twitter:url" content="https://www.bigbang.si/izdelki/?search_q=iphone%2011&securecode=main_search" />
-                    <link rel="alternate" hreflang="si" href="https://www.bigbang.si/izdelki/" />
+                        <link rel="alternate" hreflang="sl" href="https://www.bigbang.si/izdelki/" />
     
-	<link href="/upload/min/css_gdefault_si_f6e5a71ae97b2720ecd75f3bb9aad3ba.css" rel="stylesheet">	<script src="/upload/min/js_gmodernizr_si_f6e5a71ae97b2720ecd75f3bb9aad3ba.js" ></script>    	    <script type="text/javascript" src="//static.whisbi.com/f770b511-3e4d-40d7-863d-a187f1eccbb8/connect.js?origin=default&mode=chatbot&lang=SL" defer></script>
+	<link href="/upload/min/css_gdefault_si_2a279e878742e74ba78a3f24683cdd50.css" rel="stylesheet">	<script src="/upload/min/js_gmodernizr_si_2a279e878742e74ba78a3f24683cdd50.js" ></script>    	    <script type="text/javascript" src="//static.whisbi.com/f770b511-3e4d-40d7-863d-a187f1eccbb8/connect.js?origin=default&mode=chatbot&lang=SL" defer></script>
 	    </head>
 <body class="page-catalog-index page-search" id="top" data-module="catalog" data-fixed_header="80">
     			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PHR7T8H" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>	
@@ -212,7 +212,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/racunalnistvo/racunalniki/">
 												 					<span>Računalniki</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/icon-racunalniki-5d78992aecd22_5dc294614799e.svg" alt="Računalniki"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category2/8218_00a21686b6208ed3f66f4c3b77a1fc71.svg" alt="Računalniki"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -232,7 +232,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/racunalnistvo/periferija/">
 												 					<span>Periferija</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/rac-unalnis-tvo-periferija_5dc3ddc7d7966.svg" alt="Periferija"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/696d9e8fe1e84416bb6847eea4bad5609b283a2caef51ca3b9_6040400ad233a.svg" alt="Periferija"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -276,7 +276,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/racunalnistvo/racunalniske-komponente/">
 												 					<span>Računalniške komponente</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/rac-unalnis-tvo-rac-unalnis-ke-komponente_5dc3ddc8010ec.svg" alt="Računalniške komponente"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/b9b88687a24f6133a97d23e02dd0b6c870cb6999e414b6fe78_6040401383898.svg" alt="Računalniške komponente"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -314,7 +314,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/racunalnistvo/racunalniski-pribor/">
 												 					<span>Računalniški pribor</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/rac-unalnis-tvo-pribor_5dc3ddc821e9e.svg" alt="Računalniški pribor"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/8a1639d248177362a188a57e99f8a1090ff4334a3343b81c39_604040594d9c3.svg" alt="Računalniški pribor"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -367,18 +367,18 @@
 																									</div>
 												
 																									<div class="row2">
-																								 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/hp/?category_position=001">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9649-hp_5e173e1377040.jpg" alt="HP"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/asus/?category_position=001">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9263-asus_5e173e0d28a23.jpg" alt="ASUS"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/apple/?category_position=001">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9916-apple_5e173e17332a8.png" alt="APPLE"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/lenovo/?category_position=001">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/lenovologo-pos-red_5e46a8a107e5e.png" alt="LENOVO"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/acer/?category_position=001">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9267-acer_5e173e0d8ba1f.jpg" alt="Acer"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/dell/?category_position=001">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9326-dell_5e173e0eb3434.jpg" alt="DELL"/>										 																 					</a>	
+																								 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/hp_9649/?category_position=001">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9649_6398f964a30c205d99344e49815c34dc.jpeg" alt="HP"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/asus_9263/?category_position=001">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9263_7f1242a6a988f0c6d46b72ea519e5e16.png" alt="ASUS"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/apple_9916/?category_position=001">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9916_4650fe7ed8793f8e3b79a9bd7265895b.png" alt="APPLE"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/lenovo_8935/?category_position=001">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/8935_9da359b002a7d515ea6ccf08d2941507.png" alt="LENOVO"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/acer_9267/?category_position=001">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9267_aebf63a1d697bf93ab0d69d843e48dde.jpeg" alt="Acer"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/dell_9326/?category_position=001">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9326_679d694f6ff0ab9cdb2857b8569e2a4f.jpeg" alt="DELL"/>										 																 					</a>	
 														 													</div>
 																							</div>
 																			</li>
@@ -394,7 +394,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/tv-avdio/tv-sprejemniki/">
 												 					<span>TV sprejemniki</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/tvinaudio-tv-sprejemniki_5dc52138b7594.svg" alt="TV sprejemniki"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/3a772181d444561dc463134165493cc501d33921d445d9526f_6040407a98d3c.svg" alt="TV sprejemniki"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -414,7 +414,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/tv-avdio/tv-dodatki-in-oprema/">
 												 					<span>TV dodatki in oprema</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/tvinaudio-tv-dodatki_5dc3ddca3013c.svg" alt="TV dodatki in oprema"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/9e20ed029a99b9f869182e84c74e316746b4fda469e3c670ca_604040804009c.svg" alt="TV dodatki in oprema"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -448,7 +448,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/tv-avdio/projektorji/">
 												 					<span>Projektorji</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/icons8-video-projector_5dca85f4cbc8e.svg" alt="Projektorji"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/90d417276e257762ada3497a45faf479e7e4422d2dc00f45e7_60404083e108f.svg" alt="Projektorji"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -462,7 +462,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/tv-avdio/slusalke/">
 												 					<span>Slušalke</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/tvinaudio-slusalke_5dca85f514560.svg" alt="Slušalke"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/6f337f514580e3dd28f334e998c5d8ae175d752c002e68f413_6040408757b7e.svg" alt="Slušalke"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -486,7 +486,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/tv-avdio/zvocne-postaje/">
 												 					<span>Zvočne postaje</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/tvinaudio-zvocne-postaje_5dc3ddca4d780.svg" alt="Zvočne postaje"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/1584ea6a429bd6fec85ac61ba26b29a36dc6d9b5be91d9dac3_6040408c378c5.svg" alt="Zvočne postaje"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -503,21 +503,20 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/tv-avdio/hi-fi/">
 												 					<span>Hi-Fi</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/tvinaudio-hi-fi_5dc3ddc9d4421.svg" alt="Hi-Fi"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/8b42dd90b948654811c7a102d1a0d221b09e01287d295438ec_60404090d4b3b.svg" alt="Hi-Fi"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/tv-avdio/hi-fi/zvocniki/">Zvočniki</a></li>
 												 						 
-												 							<li><a href="https://www.bigbang.si/izdelki/tv-avdio/hi-fi/sprejemniki---receiverji/">Sprejemniki / receiverji</a></li>
+												 							<li><a href="https://www.bigbang.si/izdelki/tv-avdio/hi-fi/sprejemniki-receiverji/">Sprejemniki / receiverji</a></li>
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/tv-avdio/hi-fi/gramofoni/">Gramofoni</a></li>
 												 						 
-												 							<li><a href="https://www.bigbang.si/izdelki/tv-avdio/hi-fi/ojacevalniki---predvajalniki/">Ojačevalniki / Predvajalniki</a></li>
+												 							<li><a href="https://www.bigbang.si/izdelki/tv-avdio/hi-fi/ojacevalniki-predvajalniki/">Ojačevalniki / Predvajalniki</a></li>
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/tv-avdio/hi-fi/cd-predvajalniki/">CD predvajalniki</a></li>
-												 																							    																	        <li><a class="red" href="https://www.bigbang.si/izdelki/tv-avdio/hi-fi/?discount:1">Akcije in popusti</a></li>
-																	    																	    																	    	<li><a class="blue" href="https://www.bigbang.si/izdelki/tv-avdio/hi-fi/?new:1">Novo v ponudbi</a></li>
+												 																							    																	    																	    	<li><a class="blue" href="https://www.bigbang.si/izdelki/tv-avdio/hi-fi/?new:1">Novo v ponudbi</a></li>
 																	    																		    
 																		<li class="categories-all"><a href="https://www.bigbang.si/izdelki/tv-avdio/hi-fi/">Prikaži več</a></li>
 												 					</ul>
@@ -525,19 +524,19 @@
 																																												<li>
 												 				<a href="https://www.bigbang.si/izdelki/tv-avdio/glasbeni-stolpi/">
 												 					<span>Glasbeni stolpi</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/tvinaudio-glasbeni-stolpi_5dc3ddc9aeac7.svg" alt="Glasbeni stolpi"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/2562f1e8e1cb3b1ad7b9a785901a0729761e9691febbaa3a34_60404094a385f.svg" alt="Glasbeni stolpi"/></div>
 												 																	 				</a>
 																												 			</li>
 																																												<li>
 												 				<a href="https://www.bigbang.si/izdelki/tv-avdio/sistemi-za-domaci-kino/">
 												 					<span>Sistemi za domači kino</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/icons8-audio-wave2_5dca85f4e8274.svg" alt="Sistemi za domači kino"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/f335909c238b51e3913b990c140e92c763712fb2ebdfc81217_60404098326c5.svg" alt="Sistemi za domači kino"/></div>
 												 																	 				</a>
 																												 			</li>
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/tv-avdio/predvajalniki-in-snemalniki/">
 												 					<span>Predvajalniki in snemalniki</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/tvinaudio-reciever_5dca85f4a9d93.svg" alt="Predvajalniki in snemalniki"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/004c344cca434262bf19363e5a25030f63a7e532dcfabee57f_6040409d0a2eb.svg" alt="Predvajalniki in snemalniki"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -559,7 +558,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/tv-avdio/avtomedia/">
 												 					<span>Avtomedia</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/icons8-vox-player_5dc52f48c41ef.svg" alt="Avtomedia"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/b008de1aeba894e3092965741c5e113013ca32755e41545520_604040a142395.svg" alt="Avtomedia"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -583,7 +582,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/tv-avdio/film/">
 												 					<span>Film</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/tvinaudio-filmi_5dc3ddc96b463.svg" alt="Film"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/9ccf428db01bbabbec77a641a52331b4c15afd8b616efe46c5_604040a5d6aee.svg" alt="Film"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -591,14 +590,15 @@
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/tv-avdio/film/blu-ray-filmi/">Blu-ray filmi</a></li>
 												 																							    																	        <li><a class="red" href="https://www.bigbang.si/izdelki/tv-avdio/film/?discount:1">Akcije in popusti</a></li>
-																	    																	    																		    
+																	    																	    																	    	<li><a class="blue" href="https://www.bigbang.si/izdelki/tv-avdio/film/?new:1">Novo v ponudbi</a></li>
+																	    																		    
 																		<li class="categories-all"><a href="https://www.bigbang.si/izdelki/tv-avdio/film/">Prikaži več</a></li>
 												 					</ul>
 												 																 			</li>
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/tv-avdio/glasba/">
 												 					<span>Glasba</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/tvinaudio-glasba_5dc3ddc98dc8b.svg" alt="Glasba"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/0c103f97666912cc0a764410f288e93c83047fd8aaea89fa29_604040aa20c40.svg" alt="Glasba"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -608,20 +608,21 @@
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/tv-avdio/glasba/lp-plosce/">LP plošče</a></li>
 												 																							    																	        <li><a class="red" href="https://www.bigbang.si/izdelki/tv-avdio/glasba/?discount:1">Akcije in popusti</a></li>
-																	    																	    																		    
+																	    																	    																	    	<li><a class="blue" href="https://www.bigbang.si/izdelki/tv-avdio/glasba/?new:1">Novo v ponudbi</a></li>
+																	    																		    
 																		<li class="categories-all"><a href="https://www.bigbang.si/izdelki/tv-avdio/glasba/">Prikaži več</a></li>
 												 					</ul>
 												 																 			</li>
 																																												<li>
 												 				<a href="https://www.bigbang.si/izdelki/tv-avdio/prazni-mediji/">
 												 					<span>Prazni mediji</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/icons8-cd-collection_5dca85f457d01.svg" alt="Prazni mediji"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/e0baf9824d1f7c3c1732f1db1605319ad362f02669390ef22c_604040add3685.svg" alt="Prazni mediji"/></div>
 												 																	 				</a>
 																												 			</li>
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/tv-avdio/glasbila/">
 												 					<span>Glasbila</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/icons8-guitar_5dca85f4360ee.svg" alt="Glasbila"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/e3c23d0f5a31ac7c1077545ec69e48748a6fcc827b6eee3038_604040b526d7a.svg" alt="Glasbila"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -640,18 +641,18 @@
 																									</div>
 												
 																									<div class="row2">
-																								 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/philips/?category_position=002">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9705-philips_5e173e1462155.png" alt="PHILIPS"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/sony/?category_position=002">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9504-sony_5e173e0f82d09.jpg" alt="SONY"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/samsung/?category_position=002">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9503-samsung_5e173e0f65959.jpg" alt="SAMSUNG"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/lg/?category_position=002">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9322-lg_5e173e0e94b5a.jpg" alt="LG"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/jbl/?category_position=002">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9512-jbl_5e173e0fb9bba.jpg" alt="JBL"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/beats-by-dr-dre/?category_position=002">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/7625-beats-by-dr-dre_5e173e04a84fd.jpg" alt="BEATS BY DR. DRE"/>										 																 					</a>	
+																								 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/philips_9705/?category_position=002">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9705_654e48fe83870de2be07f581a94f558f.png" alt="PHILIPS"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/sony_9504/?category_position=002">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9504_6349be340fd040f5060e884cfbc61739.jpeg" alt="SONY"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/samsung_9503/?category_position=002">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9503_1471ac29bada26574212fe606c196310.jpeg" alt="SAMSUNG"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/lg_9322/?category_position=002">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9322_dee98093d9d868ff712194daf887a226.jpeg" alt="LG"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/jbl_9512/?category_position=002">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9512_dec10120c04a3746c44b084a3b2ebf1b.jpeg" alt="JBL"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/beats-by-dr-dre_7625/?category_position=002">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/7625_74f77ea0e7cbd58ae703c8587ce10edc.jpeg" alt="BEATS BY DR. DRE"/>										 																 					</a>	
 														 													</div>
 																							</div>
 																			</li>
@@ -667,7 +668,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/">
 												 					<span>Mobilni telefoni</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/telefonija-mobilni-telefoni_5dc51328eea22.svg" alt="Mobilni telefoni"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/2a9312758aa257bcb8bdf532c6f8bfe53d6bdd91f6d0b30cf5_604040d48b95d.svg" alt="Mobilni telefoni"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -685,7 +686,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/telefonija/dodatki-za-mobilne-telefone/">
 												 					<span>Dodatki za mobilne telefone</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/telefonija-dodatki-za-mobilne-telefone_5dc51328d0dd5.svg" alt="Dodatki za mobilne telefone"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/1518e8eac3d3cca6d153aecd1c4ea3fe8d65cd4c286de967c6_604040d997717.svg" alt="Dodatki za mobilne telefone"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -713,7 +714,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/telefonija/stacionarna-telefonija/">
 												 					<span>Stacionarna telefonija</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/telefonija-stacionarni-telefon_5dc5132975af0.svg" alt="Stacionarna telefonija"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/45be56743b69339c6d9e785065e5067b79575c30ba0d510202_604040dfb8fe7.svg" alt="Stacionarna telefonija"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -733,7 +734,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/telefonija/slusalke/">
 												 					<span>Slušalke</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/telefonija-slus-alke_5dc5213951f8a.svg" alt="Slušalke"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/b2c4b2080f444ad51361cdee62f5773546cdc80a131dce39e2_604040e4127f0.svg" alt="Slušalke"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -756,18 +757,18 @@
 																									</div>
 												
 																									<div class="row2">
-																								 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/apple/?category_position=004">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9916-apple_5e173e17332a8.png" alt="APPLE"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/samsung/?category_position=004">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9503-samsung_5e173e0f65959.jpg" alt="SAMSUNG"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/huawei/?category_position=004">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/huawei-logo_5ed8d4f3e5600.png" alt="HUAWEI"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/xiaomi/?category_position=004">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/0245795-xiaomi-245795-250-44_5e173e0204168.png" alt="XIAOMI"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/lg/?category_position=004">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9322-lg_5e173e0e94b5a.jpg" alt="LG"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/cellular/?category_position=004">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9200-cellular_5e173e0c2b2a1.jpg" alt="CELLULAR"/>										 																 					</a>	
+																								 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/apple_9916/?category_position=004">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9916_4650fe7ed8793f8e3b79a9bd7265895b.png" alt="APPLE"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/samsung_9503/?category_position=004">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9503_1471ac29bada26574212fe606c196310.jpeg" alt="SAMSUNG"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/huawei_7818/?category_position=004">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/7818_99a8f04758e30522b26f1548992e1fac.png" alt="HUAWEI"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/xiaomi_7372/?category_position=004">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/7372_f0d8ed287e47c0c78c31e70b1604779a.png" alt="XIAOMI"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/lg_9322/?category_position=004">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9322_dee98093d9d868ff712194daf887a226.jpeg" alt="LG"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/cellular_9200/?category_position=004">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9200_e69722f53961990557af40bcb55a563c.jpeg" alt="CELLULAR"/>										 																 					</a>	
 														 													</div>
 																							</div>
 																			</li>
@@ -783,7 +784,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/gaming/igralne-konzole/">
 												 					<span>Igralne konzole</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/icons8-arcade-cabinet-2-_5dc5213685e1d.svg" alt="Igralne konzole"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/76fb19e10a696a7ea2c7b3d5d312b82ecb91d3884fb2af884c_604040e811814.svg" alt="Igralne konzole"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -801,7 +802,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/gaming/igralni-dodatki/">
 												 					<span>Igralni dodatki</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/icons8-joystick-1-_5dc52136a7776.svg" alt="Igralni dodatki"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/f7997dbb035099e16d6f5ea95493ffb21e1f14732ce60b640e_604040ebaa57e.svg" alt="Igralni dodatki"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -831,7 +832,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/gaming/igre/">
 												 					<span>Igre</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/gaming-igralne-konzole_5dc3ddc700331.svg" alt="Igre"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/e1bc48abcc8eeaad1ab9a5bc3fd0987ed9ce68bf7f624e417f_604040efcf18b.svg" alt="Igre"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -856,20 +857,20 @@
 																									</div>
 												
 																									<div class="row2">
-																								 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/playstation/?category_position=005">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9110-playstation_5e173e0bd0452.jpg" alt="PLAYSTATION"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/nintendo/?category_position=005">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/nintendo-2-logo-png-transparent_5dcbb19f365d8.png" alt="NINTENDO"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/microsoft/?category_position=005">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9919-microsoft_5e173e1750c2c.jpg" alt="MICROSOFT"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/activision/?category_position=005">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9985-activision_5e173e18839c0.jpg" alt="Activision"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/ea/?category_position=005">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/9986-ea_5e173e189aed5.jpg" alt="EA"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/redragon/?category_position=005">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/pngitem-818844_5e216c86242d4.png" alt="Redragon"/>										 																 					</a>	
-														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/razer/?category_position=005">
-										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer/8846-razer_5e173e08a6c0f.jpg" alt="RAZER"/>										 																 					</a>	
+																								 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/playstation_9110/?category_position=005">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9110_0d888d2492f549791e5cf1dce1d09978.jpeg" alt="PLAYSTATION"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/nintendo_9293/?category_position=005">
+										 																 							 <span>NINTENDO</span>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/microsoft_9919/?category_position=005">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9919_8a190dd4afb9b4d0e487be0a4952f872.jpeg" alt="MICROSOFT"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/activision_9985/?category_position=005">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9985_d0e726f045ffff1430b7fc4e9431e208.jpeg" alt="Activision"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/ea_9986/?category_position=005">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/9986_91fc1f511012127eb4d2c7a575dd15c3.jpeg" alt="EA"/>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/redragon_6747/?category_position=005">
+										 																 							 <span>Redragon</span>										 																 					</a>	
+														 										 					<a class="nav-manufacturer" href="https://www.bigbang.si/izdelki/proizvajalci/razer_8846/?category_position=005">
+										 																 							<img src="https://www.bigbang.si/upload/catalog/manufacturer2/8846_3f97e440871b898b5e7294d3ac1b96ee.jpeg" alt="RAZER"/>										 																 					</a>	
 														 													</div>
 																							</div>
 																			</li>
@@ -885,7 +886,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/foto-kamere/fotoaparati/">
 												 					<span>Fotoaparati</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/fotoinkamere-fotoaparat-1_5dc3ebd6a7b37.svg" alt="Fotoaparati"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/e85ce07efa79960610fae0bf8789e981af2a5e535044c81892_604040f3adec4.svg" alt="Fotoaparati"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -902,7 +903,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/foto-kamere/videokamere/">
 												 					<span>Videokamere</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/fotoinkamere-videokamere-1_5dc3ebd6e072f.svg" alt="Videokamere"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/d06621d7cb872ab6b7c967545bf783637531954cfc7d8650ef_604040f798da3.svg" alt="Videokamere"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -918,7 +919,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/foto-kamere/fotododatki/">
 												 					<span>Fotododatki</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/fotoinkamere-dodatki-1_5dc3ebd6c41e8.svg" alt="Fotododatki"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/10e322192ab635932579dc3fd399825f5beb6e481c736029e1_604040fb6c610.svg" alt="Fotododatki"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -940,7 +941,7 @@
 																																												<li>
 												 				<a href="https://www.bigbang.si/izdelki/foto-kamere/daljnogledi-in-teleskopi/">
 												 					<span>Daljnogledi in teleskopi</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/fotoinkamere-daljnogledi-1_5dc3ebd68bce2.svg" alt="Daljnogledi in teleskopi"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/a4e3428a92a824d41f1aaeb35fa36a62c10803c7719655f2a2_604040ffd4d4c.svg" alt="Daljnogledi in teleskopi"/></div>
 												 																	 				</a>
 																												 			</li>
 																																																									<li class="has-children">
@@ -949,16 +950,16 @@
 											 					</a>
 																<ul class="subsubcategories">
 																													 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/nikon/?category_position=006"><span>NIKON</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/nikon_9834/?category_position=006"><span>NIKON</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/canon/?category_position=006"><span>CANON</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/canon_9751/?category_position=006"><span>CANON</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/sony/?category_position=006"><span>SONY</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/sony_9504/?category_position=006"><span>SONY</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/gopro/?category_position=006"><span>GOPRO</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/gopro_7701/?category_position=006"><span>GOPRO</span></a>
 														 					</li>	
 												 																							 																</ul>
 															</li>
@@ -984,7 +985,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/bela-tehnika/pralni-in-susilni-stroj/">
 												 					<span>Pralni in sušilni stroj</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/belatehnika-pralni-stroj_5dc96a16ca355.svg" alt="Pralni in sušilni stroj"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/cbcd8aeda035ba8854ca98cc1966fb0559347083b10f9b66f2_604041044b780.svg" alt="Pralni in sušilni stroj"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1002,7 +1003,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/bela-tehnika/hladilniki-in-zamrzovalniki/">
 												 					<span>Hladilniki in zamrzovalniki</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/belatehnika-hladilnik_5dc96a1668266.svg" alt="Hladilniki in zamrzovalniki"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/d3ac5329828f6275ce6b745bb4b2e2080a948f42a1905a55b5_6040410838e6f.svg" alt="Hladilniki in zamrzovalniki"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1022,7 +1023,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/bela-tehnika/kuhalni-aparati/">
 												 					<span>Kuhalni aparati</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/belatehnika-kuhanje_5dc96a168be33.svg" alt="Kuhalni aparati"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/18d79f62bc5e9ef0b997e5a27b1e6c719490c073278ab08915_6040410c74a66.svg" alt="Kuhalni aparati"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1050,7 +1051,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/bela-tehnika/pomivalni-stroj/">
 												 					<span>Pomivalni stroj</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/belatehnika-pomivalni-stroji_5dc96a16aa24c.svg" alt="Pomivalni stroj"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/9a467ef9f9c7f62a26ef1b128d755ad780e3d52d0089ce4853_6040411148482.svg" alt="Pomivalni stroj"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1066,7 +1067,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/bela-tehnika/grelne-in-vlazilne-naprave/">
 												 					<span>Grelne in vlažilne naprave</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/belatehnika-klime_5dc96a164be44.svg" alt="Grelne in vlažilne naprave"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/f24e9c5efff1e81c7d695ca2171019a545e826f8932023d837_60404115859c7.svg" alt="Grelne in vlažilne naprave"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1092,15 +1093,12 @@
 																																												<li>
 												 				<a href="https://www.bigbang.si/izdelki/bela-tehnika/ostalo/">
 												 					<span>Ostalo</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/belatehnika-ostalo_5dee6225892ff.svg" alt="Ostalo"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/2eca2275dd85b9ad278e8e825e45f56fea3c40c56953859e75_6040411a5a49b.svg" alt="Ostalo"/></div>
 												 																	 				</a>
 																												 			</li>
 																																																							</ul>
 													
 													
-																											<div class="categories-promo" data-tracking_gtm_promo_view="8214|Bela tehnika||megamenu - Bela tehnika">
-									 						<p><a href="https://www.bigbang.si/izdelki/uaucena-beko-februar-katalog/"><img height="800" src="/upload/2021/02/800x800-beko_60268cef06c03.png" width="800" /></a></p>
-														</div>
 																									</div>
 												
 																							</div>
@@ -1117,7 +1115,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/priprava-hrane/">
 												 					<span>Priprava hrane</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/mga-priprava-hrane_5dcac9a7db42a.svg" alt="Priprava hrane"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/7c874dc44e687817bea604455a5f3ec03cf5a1bf2bb6d092d1_6040411e6b8f9.svg" alt="Priprava hrane"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1163,7 +1161,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/priprava-kave/">
 												 					<span>Priprava kave</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/icons8-coffee-beans_5e5d040813e31.svg" alt="Priprava kave"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/39791275089b6ec85d8a03ef47f811e5890bd2ee980464cc53_6040412282ead.svg" alt="Priprava kave"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1181,7 +1179,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/sesalniki/">
 												 					<span>Sesalniki</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/mga-sesalniki_5dcac9a81ccf7.svg" alt="Sesalniki"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/19b4a04b4478e6a028f7deb6dc36de54d3d92f1bb87992fb06_604041267f760.svg" alt="Sesalniki"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1205,7 +1203,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/likalniki-in-dodatki/">
 												 					<span>Likalniki in dodatki</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/mga-likanje_5dcac9a748f66.svg" alt="Likalniki in dodatki"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/2ed710ef420f4f7ce93cd3e0ccf3bc8d1a705f98bb3d08b732_6040412b661e6.svg" alt="Likalniki in dodatki"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1225,7 +1223,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/nega-las/">
 												 					<span>Nega las</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/mga-nega-las_5dcac9a784463.svg" alt="Nega las"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/ea407f8c083ef4ee6b64d0dd1ee742469185ab806815c20cb4_60404131c2d58.svg" alt="Nega las"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1243,7 +1241,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/zenska-nega/">
 												 					<span>Ženska nega</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/mga-zenska-nega_5dcac9a83afe7.svg" alt="Ženska nega"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/2aae6351359ed8fc781cbedff69ce83dde329451dc1c79ff17_6040415ee3659.svg" alt="Ženska nega"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1263,7 +1261,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/moska-nega/">
 												 					<span>Moška nega</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/mga-moska-nega_5dcac9a7658bb.svg" alt="Moška nega"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/188d2deef2c1b6eb1a1c4d3d53f222e81fdc8569ccaee1b202_60404162d8d23.svg" alt="Moška nega"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1271,15 +1269,14 @@
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/moska-nega/moski-urejevalnik/">Moški urejevalnik</a></li>
 												 																							    																	        <li><a class="red" href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/moska-nega/?discount:1">Akcije in popusti</a></li>
-																	    																	    																	    	<li><a class="blue" href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/moska-nega/?new:1">Novo v ponudbi</a></li>
-																	    																		    
+																	    																	    																		    
 																		<li class="categories-all"><a href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/moska-nega/">Prikaži več</a></li>
 												 					</ul>
 												 																 			</li>
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/nega-zob/">
 												 					<span>Nega zob</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/mga-nega-zob_5dcac9a7a4d37.svg" alt="Nega zob"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/bf5fdcd19699ee19dc6437c900c558775ed54d18bff71dc55d_6040416860c53.svg" alt="Nega zob"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1297,7 +1294,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/ostalo/">
 												 					<span>Ostalo</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/mga-termometer_5dcac9a7c0121.svg" alt="Ostalo"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/94a906d321a6c962a80b8013e87477bf1a9d49df56edc1c0cd_6040416ccfb95.svg" alt="Ostalo"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1309,8 +1306,7 @@
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/ostalo/dodatki/">Dodatki</a></li>
 												 																							    																	        <li><a class="red" href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/ostalo/?discount:1">Akcije in popusti</a></li>
-																	    																	    																	    	<li><a class="blue" href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/ostalo/?new:1">Novo v ponudbi</a></li>
-																	    																		    
+																	    																	    																		    
 																		<li class="categories-all"><a href="https://www.bigbang.si/izdelki/mali-gospodinjski-aparati/ostalo/">Prikaži več</a></li>
 												 					</ul>
 												 																 			</li>
@@ -1320,34 +1316,34 @@
 											 					</a>
 																<ul class="subsubcategories">
 																													 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/bosch/?category_position=008"><span>BOSCH</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/bosch_9572/?category_position=008"><span>BOSCH</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/braun/?category_position=008"><span>BRAUN</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/braun_9614/?category_position=008"><span>BRAUN</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/oralb/?category_position=008"><span>OralB</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/oralb_7558/?category_position=008"><span>OralB</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/remington/?category_position=008"><span>REMINGTON</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/remington_9640/?category_position=008"><span>REMINGTON</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/gorenje/?category_position=008"><span>GORENJE</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/gorenje_9530/?category_position=008"><span>GORENJE</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/philips-mga/?category_position=008"><span>PHILIPS MGA</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/philips-mga_9500/?category_position=008"><span>PHILIPS MGA</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/sonicare/?category_position=008"><span>SONICARE</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/sonicare_8821/?category_position=008"><span>SONICARE</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/irobot/?category_position=008"><span>iROBOT</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/irobot_7878/?category_position=008"><span>iROBOT</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/rowenta/?category_position=008"><span>ROWENTA</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/rowenta_9581/?category_position=008"><span>ROWENTA</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/tefal/?category_position=008"><span>TEFAL</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/tefal_9765/?category_position=008"><span>TEFAL</span></a>
 														 					</li>	
 												 																							 																</ul>
 															</li>
@@ -1370,7 +1366,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/">
 												 					<span>Nosljiva tehnologija</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/s-portinprostic-as-nosljiva-tehnologija-1_5dc3ebd8c9607.svg" alt="Nosljiva tehnologija"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/88a2312b4107c2a5af942949190adc6372e17e16bb80ccfc30_6040417c00eb9.svg" alt="Nosljiva tehnologija"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1392,7 +1388,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/sport-prosti-cas/elektricna-mobilnost/">
 												 					<span>Električna mobilnost</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/s-portinprosti-elektric-na-mobilnost-2_5dc3ebd85cbaf.svg" alt="Električna mobilnost"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/5e3e232098aef05f90ccaf5597ae239fdd806a001e273d2c6d_604041ad510d4.svg" alt="Električna mobilnost"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1412,7 +1408,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/sport-prosti-cas/droni/">
 												 					<span>Droni</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/s-portinprosti-drone-1_5dc3ebd83fe40.svg" alt="Droni"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/1f9ebec66411fa14dfbbdf8511d07dcbea31452bfcaa0ba37f_604041b1ae4e6.svg" alt="Droni"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1430,7 +1426,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/sport-prosti-cas/kolesarska-oprema/">
 												 					<span>Kolesarska oprema</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/s-portinprostic-as-c-elada-1_5dc3ebd8a0e03.svg" alt="Kolesarska oprema"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/f67026614d93fb5fdd6610c178938a70ee734174ff6b06c49a_604041b58d616.svg" alt="Kolesarska oprema"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1446,7 +1442,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/sport-prosti-cas/vodni-sporti/">
 												 					<span>Vodni športi</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/s-portinprostic-as-vodni-s-portni-1_5dc3ebd9436ea.svg" alt="Vodni športi"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/70c371af1fd27979daf2d49fc0570971020f19eb3e81328021_604041b93b99e.svg" alt="Vodni športi"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1462,7 +1458,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/sport-prosti-cas/prehranski-dodatki-in-napitki/">
 												 					<span>Prehranski dodatki in napitki</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/s-portinprostic-as-prehranski-dodatki-in-pijac-e-1_5dc3ebd92a0f5.svg" alt="Prehranski dodatki in napitki"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/49a6574ed260231539aeff4e6412d918565a3e06f28002d5db_604041bcccc4c.svg" alt="Prehranski dodatki in napitki"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1482,7 +1478,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/sport-prosti-cas/poletni-program/">
 												 					<span>Poletni program</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/s-portinprostic-as-poletni-program-1_5dc3ebd910eae.svg" alt="Poletni program"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/1a9a2095b7e6f5f6419d7cd0c24c480d4063883f1f7b582a84_604041c13290e.svg" alt="Poletni program"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1498,7 +1494,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/sport-prosti-cas/oblacila/">
 												 					<span>Oblačila</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/s-portinprostic-as-oblac-ila-1_5dc3ebd8e8084.svg" alt="Oblačila"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/77baafdbb087b16ec96684e984b7454f90d4a39582cb175ae3_604041ce8e281.svg" alt="Oblačila"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1512,7 +1508,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/sport-prosti-cas/vse-za-otroke/">
 												 					<span>Vse za otroke</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/s-portinprostic-as-vse-za-otroke-1_5dc3ebd95ea98.svg" alt="Vse za otroke"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/335f700467a2bff7e66c4b4e9ecafd91dfa96fd7328f134b08_604041d304613.svg" alt="Vse za otroke"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1530,19 +1526,19 @@
 																																												<li>
 												 				<a href="https://www.bigbang.si/izdelki/sport-prosti-cas/darilni-paketi/">
 												 					<span>Darilni paketi</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/icons8-gift-card_5e1d91dd3f03a.svg" alt="Darilni paketi"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/5ddc842a3a99aeb2b551738800266d8181334a3e9d4648f4dc_604041d7be73e.svg" alt="Darilni paketi"/></div>
 												 																	 				</a>
 																												 			</li>
 																																												<li>
 												 				<a href="https://www.bigbang.si/izdelki/sport-prosti-cas/knjige/">
 												 					<span>Knjige</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/s-portinprostic-as-knjige-1_5dc3ebd87b2e6.svg" alt="Knjige"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/08b6bcf9273d621b273d4a94d538b9f585010263af49962825_604041dc54926.svg" alt="Knjige"/></div>
 												 																	 				</a>
 																												 			</li>
 																																												<li>
 												 				<a href="https://www.bigbang.si/izdelki/sport-prosti-cas/kozmetika/">
 												 					<span>Kozmetika</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/-portinprosti-kozmetika_5dee6228dd67d.svg" alt="Kozmetika"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/ef76e09e16365fbc23c3ea814217691576ea369316a585afd1_604041e2bd82b.svg" alt="Kozmetika"/></div>
 												 																	 				</a>
 																												 			</li>
 																																												<li class="has-children">
@@ -1605,19 +1601,19 @@
 											 					</a>
 																<ul class="subsubcategories">
 																													 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/samsung/?category_position=009"><span>SAMSUNG</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/samsung_9503/?category_position=009"><span>SAMSUNG</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/garmin/?category_position=009"><span>GARMIN</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/garmin_9891/?category_position=009"><span>GARMIN</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/apple/?category_position=009"><span>APPLE</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/apple_9916/?category_position=009"><span>APPLE</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/lego/?category_position=009"><span>LEGO</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/lego_7624/?category_position=009"><span>LEGO</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/intex/?category_position=009"><span>INTEX</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/intex_7801/?category_position=009"><span>INTEX</span></a>
 														 					</li>	
 												 																							 																</ul>
 															</li>
@@ -1643,7 +1639,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/dom-vrt/moj-vrt/">
 												 					<span>Moj vrt</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/dominvrt-moj-vrt_5dc96a175f0c6.svg" alt="Moj vrt"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/5f69b828ccf44e9b89f3871d919cf6eebc0e81e4f9777ed1f9_604041ee6ed6a.svg" alt="Moj vrt"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1670,7 +1666,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/dom-vrt/moja-delavnica/">
 												 					<span>Moja delavnica</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/dominvrt-orodje_5dc96a177bbe6.svg" alt="Moja delavnica"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/f09d038725574576ae9414ad77a27482fbae232c8617653267_604041f25303a.svg" alt="Moja delavnica"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1685,15 +1681,14 @@
 												 							<li><a href="https://www.bigbang.si/izdelki/dom-vrt/moja-delavnica/rocno-orodje/">Ročno orodje</a></li>
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/dom-vrt/moja-delavnica/dodatki-za-orodje/">Dodatki za orodje</a></li>
-												 																							    																	    																	    	<li><a class="blue" href="https://www.bigbang.si/izdelki/dom-vrt/moja-delavnica/?new:1">Novo v ponudbi</a></li>
-																	    																		    
+												 																							    																	    																		    
 																		<li class="categories-all"><a href="https://www.bigbang.si/izdelki/dom-vrt/moja-delavnica/">Prikaži več</a></li>
 												 					</ul>
 												 																 			</li>
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/dom-vrt/pametni-dom/">
 												 					<span>Pametni dom</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/dominvrt-pametni-dom_5ea816b8c8366.svg" alt="Pametni dom"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/0afc628ca9637b15cccb5cc809029a532aeaee03bb4573d7ef_604041f600c73.svg" alt="Pametni dom"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1716,7 +1711,7 @@
 																																												<li class="has-children">
 												 				<a href="https://www.bigbang.si/izdelki/dom-vrt/dodatki-za-dom/">
 												 					<span>Dodatki za dom</span>
-												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/dominvrt-dodatki_5dc96a174493d.svg" alt="Dodatki za dom"/></div>
+												 																	 						<div class="subcategory-icon"><img src="https://www.bigbang.si/upload/catalog/category/4f19a971ad22941097f9ff56c6fd10a20d1ebd8c31bb0334cc_604041faefd09.svg" alt="Dodatki za dom"/></div>
 												 																	 				</a>
 																												 					<ul class="subsubcategories">
 												 						 
@@ -1738,8 +1733,7 @@
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/dom-vrt/dodatki-za-dom/stenske-ure/">Stenske ure</a></li>
 												 																							    																	        <li><a class="red" href="https://www.bigbang.si/izdelki/dom-vrt/dodatki-za-dom/?discount:1">Akcije in popusti</a></li>
-																	    																	    																	    	<li><a class="blue" href="https://www.bigbang.si/izdelki/dom-vrt/dodatki-za-dom/?new:1">Novo v ponudbi</a></li>
-																	    																		    
+																	    																	    																		    
 																		<li class="categories-all"><a href="https://www.bigbang.si/izdelki/dom-vrt/dodatki-za-dom/">Prikaži več</a></li>
 												 					</ul>
 												 																 			</li>
@@ -1749,25 +1743,25 @@
 											 					</a>
 																<ul class="subsubcategories">
 																													 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/bosch/?category_position=010"><span>BOSCH</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/bosch_9572/?category_position=010"><span>BOSCH</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/iskra-ero/?category_position=010"><span>ISKRA ERO</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/iskra-ero_6711/?category_position=010"><span>ISKRA ERO</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/ubtech/?category_position=010"><span>UBTECH</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/ubtech_6934/?category_position=010"><span>UBTECH</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/tp-link/?category_position=010"><span>TP LINK</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/tp-link_7795/?category_position=010"><span>TP LINK</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/fibaro/?category_position=010"><span>Fibaro</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/fibaro_7040/?category_position=010"><span>Fibaro</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/swisstone/?category_position=010"><span>SWISSTONE</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/swisstone_6776/?category_position=010"><span>SWISSTONE</span></a>
 														 					</li>	
 												 																							 												 																				 					<li>
-													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/chipolo/?category_position=010"><span>CHIPOLO</span></a>
+													 							<a href="https://www.bigbang.si/izdelki/proizvajalci/chipolo_7443/?category_position=010"><span>CHIPOLO</span></a>
 														 					</li>	
 												 																							 																</ul>
 															</li>
@@ -1866,7 +1860,7 @@
 
 															<div class="s-nav-cnt">
 				<ul class="s-nav">
-					<li class="selected"><a href="https://www.bigbang.si/izdelki/?search_q=iphone 11"><span>Izdelki <span class="s-counter">(182)</span></span></a></li>
+					<li class="selected"><a href="https://www.bigbang.si/izdelki/?search_q=iphone 11"><span>Izdelki <span class="s-counter">(174)</span></span></a></li>
 					<li><a href="https://www.bigbang.si/iskanje/?search_q=iphone 11&search_content=publish.01"><span>Članki <span class="s-counter">(17)</span></span></a></li>
 					<li><a href="https://www.bigbang.si/iskanje/?search_q=iphone 11&search_content=cms"><span>Ostalo <span class="s-counter">(0)</span></span></a></li>
 				</ul>
@@ -1896,9 +1890,9 @@
 																																																																																					                                                                                                                                                                                																										                                                                                                                                                                                																										                                                                                                    <div class="cf-row cf-row-level3">
 																															<input type="checkbox" id="search-category-3" name="category" value="8305"
 		 														data-name_seo="category" data-name_ignore_seo="" data-value_seo="telefonija/mobilni-telefoni/pametni-mobilni-telefoni"
-                                                                     data-filter_hierarhy_position="004.001.001"                                                                 data-total_items="23">
+                                                                     data-filter_hierarhy_position="004.001.001"                                                                 data-total_items="22">
 																														<label class="" for="search-category-3">Pametni mobilni telefoni																															</label>
-                                                                                                                            <span class="cf-counter" >23</span>                                                                                                                    </div>
+                                                                                                                            <span class="cf-counter" >22</span>                                                                                                                    </div>
 																																																																                                                                                                                                                                                																										                                                                                                    <div class="cf-row cf-row-level3">
 																															<input type="checkbox" id="search-category-5" name="category" value="8309"
 		 														data-name_seo="category" data-name_ignore_seo="" data-value_seo="telefonija/dodatki-za-mobilne-telefone/prenosne-baterije-polnilniki-in-kabli"
@@ -1908,15 +1902,15 @@
 																																																																                                                                                                    <div class="cf-row cf-row-level3">
 																															<input type="checkbox" id="search-category-6" name="category" value="8311"
 		 														data-name_seo="category" data-name_ignore_seo="" data-value_seo="telefonija/dodatki-za-mobilne-telefone/torbice-in-ovitki"
-                                                                     data-filter_hierarhy_position="004.002.003"                                                                 data-total_items="109">
+                                                                     data-filter_hierarhy_position="004.002.003"                                                                 data-total_items="103">
 																														<label class="" for="search-category-6">Torbice in ovitki																															</label>
-                                                                                                                            <span class="cf-counter" >109</span>                                                                                                                    </div>
+                                                                                                                            <span class="cf-counter" >103</span>                                                                                                                    </div>
 																																																																                                                                                                    <div class="cf-row cf-row-level3">
 																															<input type="checkbox" id="search-category-7" name="category" value="8312"
 		 														data-name_seo="category" data-name_ignore_seo="" data-value_seo="telefonija/dodatki-za-mobilne-telefone/zascitna-stekla"
-                                                                     data-filter_hierarhy_position="004.002.004"                                                                 data-total_items="42">
+                                                                     data-filter_hierarhy_position="004.002.004"                                                                 data-total_items="41">
 																														<label class="" for="search-category-7">Zaščitna stekla																															</label>
-                                                                                                                            <span class="cf-counter" >42</span>                                                                                                                    </div>
+                                                                                                                            <span class="cf-counter" >41</span>                                                                                                                    </div>
 																																																																                                                                                                    <div class="cf-row cf-row-level3">
 																															<input type="checkbox" id="search-category-8" name="category" value="8316"
 		 														data-name_seo="category" data-name_ignore_seo="" data-value_seo="telefonija/dodatki-za-mobilne-telefone/ostali-dodatki"
@@ -1942,49 +1936,49 @@
 										<div class="cf-item-wrapper">
 																																																																																					                                                                                                    <div class="cf-row cf-row-level1">
 																															<input type="checkbox" id="search-manufacturer-1" name="manufacturer" value="9916"
-		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="apple"
+		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="apple_9916"
                                                                                                                                      >
 																														<label class="" for="search-manufacturer-1">APPLE																															</label>
-                                                            														<span class="cf-counter">33</span>                                                                                                                    </div>
+                                                            														<span class="cf-counter">31</span>                                                                                                                    </div>
 																																																																                                                                                                    <div class="cf-row cf-row-level1">
 																															<input type="checkbox" id="search-manufacturer-2" name="manufacturer" value="9200"
-		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="cellular"
+		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="cellular_9200"
                                                                                                                                      >
 																														<label class="" for="search-manufacturer-2">CELLULAR																															</label>
                                                             														<span class="cf-counter">18</span>                                                                                                                    </div>
 																																																																                                                                                                    <div class="cf-row cf-row-level1">
 																															<input type="checkbox" id="search-manufacturer-3" name="manufacturer" value="7271"
-		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="griffin"
+		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="griffin_7271"
                                                                                                                                      >
 																														<label class="" for="search-manufacturer-3">GRIFFIN																															</label>
                                                             														<span class="cf-counter">19</span>                                                                                                                    </div>
 																																																																                                                                                                    <div class="cf-row cf-row-level1">
 																															<input type="checkbox" id="search-manufacturer-4" name="manufacturer" value="7442"
-		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="panzerglass"
+		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="panzerglass_7442"
                                                                                                                                      >
 																														<label class="" for="search-manufacturer-4">PANZERGLASS																															</label>
-                                                            														<span class="cf-counter">52</span>                                                                                                                    </div>
+                                                            														<span class="cf-counter">51</span>                                                                                                                    </div>
 																																																																                                                                                                    <div class="cf-row cf-row-level1">
 																															<input type="checkbox" id="search-manufacturer-5" name="manufacturer" value="7926"
-		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="puro"
+		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="puro_7926"
                                                                                                                                      >
 																														<label class="" for="search-manufacturer-5">PURO																															</label>
-                                                            														<span class="cf-counter">38</span>                                                                                                                    </div>
+                                                            														<span class="cf-counter">33</span>                                                                                                                    </div>
 																																																																                                                                                                    <div class="cf-row cf-row-level1">
 																															<input type="checkbox" id="search-manufacturer-6" name="manufacturer" value="8014"
-		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="sbs"
+		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="sbs_8014"
                                                                                                                                      >
 																														<label class="" for="search-manufacturer-6">SBS																															</label>
                                                             														<span class="cf-counter">13</span>                                                                                                                    </div>
 																																																																                                                                                                    <div class="cf-row cf-row-level1">
 																															<input type="checkbox" id="search-manufacturer-7" name="manufacturer" value="7359"
-		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="spigen"
+		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="spigen_7359"
                                                                                                                                      >
 																														<label class="" for="search-manufacturer-7">SPIGEN																															</label>
                                                             														<span class="cf-counter">6</span>                                                                                                                    </div>
 																																																																                                                                                                    <div class="cf-row cf-row-level1">
 																															<input type="checkbox" id="search-manufacturer-8" name="manufacturer" value="7538"
-		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="ulala"
+		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="ulala_7538"
                                                                                                                                      >
 																														<label class="" for="search-manufacturer-8">ULALA																															</label>
                                                             														<span class="cf-counter">3</span>                                                                                                                    </div>
@@ -2074,7 +2068,7 @@
 	<article class="clear cp" data-tracking_gtm_impression="1|682488|">
         <span style="display: none;" data-product_manufacturer_title="682488_0">APPLE</span>
         <span style="display: none;" data-product_category_title="682488_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="682488_0">Apple iPhone 11 64GB Black</span>
+        <span style="display: none;" data-product_title="682488_0">Apple iPhone 11 64GB Black pametni mob. telefon</span>
         <span style="display: none;" data-product_code="682488_0">682488</span>
 		<span style="display: none;" data-product_price="682488_0">725,99 €</span>
 
@@ -2114,7 +2108,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-64gb-black-165982-izdelek-682488/" data-product_title="682488_0">
-											Apple iPhone 11 64GB Black	
+											Apple iPhone 11 64GB Black pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -2162,101 +2156,10 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="2|622769|">
-        <span style="display: none;" data-product_manufacturer_title="622769_0">APPLE</span>
-        <span style="display: none;" data-product_category_title="622769_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622769_0">APPLE iPhone 11 Pro Max 256GB Midnight Green pametni telefon</span>
-        <span style="display: none;" data-product_code="622769_0">622769</span>
-		<span style="display: none;" data-product_price="622769_0">1.499,99 €</span>
-
-        		
-		
-		
-				
-		
-					<div class="cp-badges">
-							</div>
-		
-		
-		<!-- Wishlist -->
-				
-		<div class="cp-image-container">
-			<figure class="cp-image lloader">
-				<a href="https://www.bigbang.si/apple-iphone-11-pro-max-256gb-midnight-green-pametni-telefon-71713-izdelek-622769/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/622769/thumb/622769-622765-1-_5da871e9cb194_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/622769/thumb/622769-622765-1-_5da871e9cb194_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="622769_0" alt="" />
-				</a>
-			</figure>
-
-					</div>
-		
-		<div class="clear cp-cnt">
-			<div class="cp-cnt-comment">
-				<!-- Rating -->
-									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_622769_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
-    								<!-- Comments -->
-									<div class="cp-comment-count comments-count catalog-comment-count">
-						<a title="" href="https://www.bigbang.si/apple-iphone-11-pro-max-256gb-midnight-green-pametni-telefon-71713-izdelek-622769/#comments_data_catalogproduct_622769_si">
-							(0)
-						</a>
-					</div>
-							</div>
-
-			<div class="cp-code" data-product_code="622769_0">622769</div>
-							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
-						<h2 class="cp-title">
-				<a href="https://www.bigbang.si/apple-iphone-11-pro-max-256gb-midnight-green-pametni-telefon-71713-izdelek-622769/" data-product_title="622769_0">
-											APPLE iPhone 11 Pro Max 256GB Midnight Green pametni telefon	
-									</a>
-			</h2>
-		</div>
-
-
-					<div class="cp-price">
-					
-                    
-                    						<div class="cp-current-price" data-product_price="622769_0">1.499,99 €</div>
-												</div>
-		
-		<div class="available-qty">
-            									<span><strong>Na zalogi v Big Bangu</strong></span>
-							            		</div>
-			
-		<div class="cp-bottom">
-			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
-			 
-						
-			<div class="cp-btn-cnt">
-				<div class="cp-btn-cnt-col1">
-					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
-					<!-- Wishlist -->
-											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_622769_si">
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_622769_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_622769_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_622769_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_622769_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_622769_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_622769_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
-							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_622769_si wishlist-message wishlist-message-622769" style="display: none;"></span>
-						</div>
-					
-					<!-- Compare -->
-											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_622769_si" href="javascript:cmscompare.set('catalog_catalogproduct_622769_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
-        <span>
-            <small class="l1">Dodaj v primerjavo</small>
-            <small class="l2">Odstrani iz primerjave</small>
-        </span>
-        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_622769_si" style="display:none;"></span>
-    </a>
-</div>									</div>
-				
-									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('622769_0', '_tracking:index', 'simple_loader', 'simple', 3)">
-													<span>V košarico</span>
-												
-					</a>
-							</div>
-		</div>
-			</article>
-
-				<article class="clear cp" data-tracking_gtm_impression="3|622754|">
+				<article class="clear cp" data-tracking_gtm_impression="2|622754|">
         <span style="display: none;" data-product_manufacturer_title="622754_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622754_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622754_0">APPLE iPhone 11 Pro 256GB Space Grey pametni telefon</span>
+        <span style="display: none;" data-product_title="622754_0">APPLE iPhone 11 Pro 256GB Space Grey pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622754_0">622754</span>
 		<span style="display: none;" data-product_price="622754_0">1.269,00 €</span>
 
@@ -2280,7 +2183,7 @@
 
 							<div class="cp-badges-special">
 																		<div class="cp-badge-special">
-								<span>																												<img  src="https://www.bigbang.si/upload/catalog/badges/thumb/100x100-hitra-dostava_5ec698278a41f_40x40r.png" width="40" height="40"  alt="" />
+								<span>																												<img  src="https://www.bigbang.si/upload/catalog/badges2/thumb/120638_101bfde62997ad0948d9d48646fecb8c_40x40r.png" width="40" height="40"  alt="" />
 																	</span>							</div>
 															</div>
 					</div>
@@ -2301,7 +2204,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-pro-256gb-space-grey-pametni-telefon-71699-izdelek-622754/" data-product_title="622754_0">
-											APPLE iPhone 11 Pro 256GB Space Grey pametni telefon	
+											APPLE iPhone 11 Pro 256GB Space Grey pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -2349,10 +2252,101 @@
 		</div>
 			</article>
 
+				<article class="clear cp" data-tracking_gtm_impression="3|682489|">
+        <span style="display: none;" data-product_manufacturer_title="682489_0">APPLE</span>
+        <span style="display: none;" data-product_category_title="682489_0">Pametni mobilni telefoni</span>
+        <span style="display: none;" data-product_title="682489_0">Apple iPhone 11 64GB White pametni mob. telefon</span>
+        <span style="display: none;" data-product_code="682489_0">682489</span>
+		<span style="display: none;" data-product_price="682489_0">725,99 €</span>
+
+        		
+		
+		
+				
+		
+					<div class="cp-badges">
+							</div>
+		
+		
+		<!-- Wishlist -->
+				
+		<div class="cp-image-container">
+			<figure class="cp-image lloader">
+				<a href="https://www.bigbang.si/apple-iphone-11-64gb-white-165983-izdelek-682489/">
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/682489/thumb/iphone-11-white-01-79465-big-2_5fb35a3dd2ee5_285x285r.png"  data-original="https://www.bigbang.si/upload/catalog/product/682489/thumb/iphone-11-white-01-79465-big-2_5fb35a3dd2ee5_285x285r.png" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="682489_0" alt="" />
+				</a>
+			</figure>
+
+					</div>
+		
+		<div class="clear cp-cnt">
+			<div class="cp-cnt-comment">
+				<!-- Rating -->
+									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_682489_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
+    								<!-- Comments -->
+									<div class="cp-comment-count comments-count catalog-comment-count">
+						<a title="" href="https://www.bigbang.si/apple-iphone-11-64gb-white-165983-izdelek-682489/#comments_data_catalogproduct_682489_si">
+							(0)
+						</a>
+					</div>
+							</div>
+
+			<div class="cp-code" data-product_code="682489_0">682489</div>
+							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
+						<h2 class="cp-title">
+				<a href="https://www.bigbang.si/apple-iphone-11-64gb-white-165983-izdelek-682489/" data-product_title="682489_0">
+											Apple iPhone 11 64GB White pametni mob. telefon	
+									</a>
+			</h2>
+		</div>
+
+
+					<div class="cp-price">
+					
+                    
+                    						<div class="cp-current-price" data-product_price="682489_0">725,99 €</div>
+												</div>
+		
+		<div class="available-qty">
+            									<span><strong>Na zalogi v Big Bangu</strong></span>
+							            		</div>
+			
+		<div class="cp-bottom">
+			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
+			 
+						
+			<div class="cp-btn-cnt">
+				<div class="cp-btn-cnt-col1">
+					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
+					<!-- Wishlist -->
+											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_682489_si">
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_682489_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_682489_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_682489_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_682489_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_682489_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_682489_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
+							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_682489_si wishlist-message wishlist-message-682489" style="display: none;"></span>
+						</div>
+					
+					<!-- Compare -->
+											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_682489_si" href="javascript:cmscompare.set('catalog_catalogproduct_682489_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
+        <span>
+            <small class="l1">Dodaj v primerjavo</small>
+            <small class="l2">Odstrani iz primerjave</small>
+        </span>
+        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_682489_si" style="display:none;"></span>
+    </a>
+</div>									</div>
+				
+									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('682489_0', '_tracking:index', 'simple_loader', 'simple', 3)">
+													<span>V košarico</span>
+												
+					</a>
+							</div>
+		</div>
+			</article>
+
 				<article class="clear cp" data-tracking_gtm_impression="4|682492|">
         <span style="display: none;" data-product_manufacturer_title="682492_0">APPLE</span>
         <span style="display: none;" data-product_category_title="682492_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="682492_0">APPLE iPhone 11 64GB Purple pametni telefon</span>
+        <span style="display: none;" data-product_title="682492_0">APPLE iPhone 11 64GB Purple pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="682492_0">682492</span>
 		<span style="display: none;" data-product_price="682492_0">725,99 €</span>
 
@@ -2392,7 +2386,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-64gb-purple-pametni-telefon-165988-izdelek-682492/" data-product_title="682492_0">
-											APPLE iPhone 11 64GB Purple pametni telefon	
+											APPLE iPhone 11 64GB Purple pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -2442,7 +2436,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="5|682498|">
         <span style="display: none;" data-product_manufacturer_title="682498_0">APPLE</span>
         <span style="display: none;" data-product_category_title="682498_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="682498_0">Apple iPhone 11 128GB Green</span>
+        <span style="display: none;" data-product_title="682498_0">Apple iPhone 11 128GB Green pametni mob. telefon</span>
         <span style="display: none;" data-product_code="682498_0">682498</span>
 		<span style="display: none;" data-product_price="682498_0">777,99 €</span>
 
@@ -2482,7 +2476,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-128gb-green-165971-izdelek-682498/" data-product_title="682498_0">
-											Apple iPhone 11 128GB Green	
+											Apple iPhone 11 128GB Green pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -2532,7 +2526,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="6|682493|">
         <span style="display: none;" data-product_manufacturer_title="682493_0">APPLE</span>
         <span style="display: none;" data-product_category_title="682493_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="682493_0">Apple iPhone 11 128GB Black</span>
+        <span style="display: none;" data-product_title="682493_0">Apple iPhone 11 128GB Black pametni mob. telefon</span>
         <span style="display: none;" data-product_code="682493_0">682493</span>
 		<span style="display: none;" data-product_price="682493_0">777,99 €</span>
 
@@ -2572,7 +2566,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-128gb-black-165962-izdelek-682493/" data-product_title="682493_0">
-											Apple iPhone 11 128GB Black	
+											Apple iPhone 11 128GB Black pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -2585,8 +2579,8 @@
 												</div>
 		
 		<div class="available-qty">
-            				<span><strong>Zadnji kosi</strong></span>
-			            		</div>
+            									<span><strong>Na zalogi v Big Bangu</strong></span>
+							            		</div>
 			
 		<div class="cp-bottom">
 			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
@@ -2612,8 +2606,9 @@
     </a>
 </div>									</div>
 				
-									<a class="btn btn-green cp-btn-addtocart cp-btn-details" title="Več informacij" href="https://www.bigbang.si/apple-iphone-11-128gb-black-165962-izdelek-682493/">
-						<span>Več informacij</span>
+									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('682493_0', '_tracking:index', 'simple_loader', 'simple', 3)">
+													<span>V košarico</span>
+												
 					</a>
 							</div>
 		</div>
@@ -2622,7 +2617,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="7|682494|">
         <span style="display: none;" data-product_manufacturer_title="682494_0">APPLE</span>
         <span style="display: none;" data-product_category_title="682494_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="682494_0">Apple iPhone 11 128GB White</span>
+        <span style="display: none;" data-product_title="682494_0">Apple iPhone 11 128GB White pametni mob. telefon</span>
         <span style="display: none;" data-product_code="682494_0">682494</span>
 		<span style="display: none;" data-product_price="682494_0">777,99 €</span>
 
@@ -2662,7 +2657,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-128gb-white-165965-izdelek-682494/" data-product_title="682494_0">
-											Apple iPhone 11 128GB White	
+											Apple iPhone 11 128GB White pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -2675,8 +2670,8 @@
 												</div>
 		
 		<div class="available-qty">
-            				<span><strong>Zadnji kosi</strong></span>
-			            		</div>
+            									<span><strong>Na zalogi v Big Bangu</strong></span>
+							            		</div>
 			
 		<div class="cp-bottom">
 			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
@@ -2702,8 +2697,9 @@
     </a>
 </div>									</div>
 				
-									<a class="btn btn-green cp-btn-addtocart cp-btn-details" title="Več informacij" href="https://www.bigbang.si/apple-iphone-11-128gb-white-165965-izdelek-682494/">
-						<span>Več informacij</span>
+									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('682494_0', '_tracking:index', 'simple_loader', 'simple', 3)">
+													<span>V košarico</span>
+												
 					</a>
 							</div>
 		</div>
@@ -2712,7 +2708,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="8|622762|">
         <span style="display: none;" data-product_manufacturer_title="622762_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622762_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622762_0">APPLE iPhone 11 Pro 64GB Space Grey pametni telefon</span>
+        <span style="display: none;" data-product_title="622762_0">APPLE iPhone 11 Pro 64GB Space Grey pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622762_0">622762</span>
 		<span style="display: none;" data-product_price="622762_0">1.099,00 €</span>
 
@@ -2752,7 +2748,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-pro-64gb-space-grey-pametni-telefon-71707-izdelek-622762/" data-product_title="622762_0">
-											APPLE iPhone 11 Pro 64GB Space Grey pametni telefon	
+											APPLE iPhone 11 Pro 64GB Space Grey pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -2802,7 +2798,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="9|622755|">
         <span style="display: none;" data-product_manufacturer_title="622755_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622755_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622755_0">APPLE iPhone 11 Pro 256GB Silver pametni telefon</span>
+        <span style="display: none;" data-product_title="622755_0">APPLE iPhone 11 Pro 256GB Silver pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622755_0">622755</span>
 		<span style="display: none;" data-product_price="622755_0">1.269,00 €</span>
 
@@ -2842,7 +2838,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-pro-256gb-silver-pametni-telefon-71700-izdelek-622755/" data-product_title="622755_0">
-											APPLE iPhone 11 Pro 256GB Silver pametni telefon	
+											APPLE iPhone 11 Pro 256GB Silver pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -2892,7 +2888,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="10|622757|">
         <span style="display: none;" data-product_manufacturer_title="622757_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622757_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622757_0">APPLE iPhone 11 Pro 256GB Midnight Green pametni telefon</span>
+        <span style="display: none;" data-product_title="622757_0">APPLE iPhone 11 Pro 256GB Midnight Green pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622757_0">622757</span>
 		<span style="display: none;" data-product_price="622757_0">1.269,00 €</span>
 
@@ -2932,7 +2928,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-pro-256gb-midnight-green-pametni-telefon-71702-izdelek-622757/" data-product_title="622757_0">
-											APPLE iPhone 11 Pro 256GB Midnight Green pametni telefon	
+											APPLE iPhone 11 Pro 256GB Midnight Green pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -2982,7 +2978,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="11|622763|">
         <span style="display: none;" data-product_manufacturer_title="622763_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622763_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622763_0">APPLE iPhone 11 Pro 64GB Silver pametni telefon</span>
+        <span style="display: none;" data-product_title="622763_0">APPLE iPhone 11 Pro 64GB Silver pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622763_0">622763</span>
 		<span style="display: none;" data-product_price="622763_0">1.099,00 €</span>
 
@@ -3022,7 +3018,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-pro-64gb-silver-pametni-telefon-71708-izdelek-622763/" data-product_title="622763_0">
-											APPLE iPhone 11 Pro 64GB Silver pametni telefon	
+											APPLE iPhone 11 Pro 64GB Silver pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -3072,7 +3068,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="12|622764|">
         <span style="display: none;" data-product_manufacturer_title="622764_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622764_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622764_0">APPLE iPhone 11 Pro 64GB Gold pametni telefon</span>
+        <span style="display: none;" data-product_title="622764_0">APPLE iPhone 11 Pro 64GB Gold pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622764_0">622764</span>
 		<span style="display: none;" data-product_price="622764_0">1.099,00 €</span>
 
@@ -3112,7 +3108,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-pro-64gb-gold-pametni-telefon-71709-izdelek-622764/" data-product_title="622764_0">
-											APPLE iPhone 11 Pro 64GB Gold pametni telefon	
+											APPLE iPhone 11 Pro 64GB Gold pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -3162,7 +3158,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="13|622765|">
         <span style="display: none;" data-product_manufacturer_title="622765_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622765_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622765_0">APPLE iPhone 11 Pro 64GB Midnight Green pametni telefon</span>
+        <span style="display: none;" data-product_title="622765_0">APPLE iPhone 11 Pro 64GB Midnight Green pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622765_0">622765</span>
 		<span style="display: none;" data-product_price="622765_0">1.159,99 €</span>
 
@@ -3202,7 +3198,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-pro-64gb-midnight-green-pametni-telefon-71710-izdelek-622765/" data-product_title="622765_0">
-											APPLE iPhone 11 Pro 64GB Midnight Green pametni telefon	
+											APPLE iPhone 11 Pro 64GB Midnight Green pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -3252,7 +3248,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="14|622766|">
         <span style="display: none;" data-product_manufacturer_title="622766_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622766_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622766_0">APPLE iPhone 11 Pro Max 256GB Space Grey pametni telefon</span>
+        <span style="display: none;" data-product_title="622766_0">APPLE iPhone 11 Pro Max 256GB Space Grey pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622766_0">622766</span>
 		<span style="display: none;" data-product_price="622766_0">1.399,00 €</span>
 
@@ -3292,7 +3288,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-pro-max-256gb-space-grey-pametni-telefon-71711-izdelek-622766/" data-product_title="622766_0">
-											APPLE iPhone 11 Pro Max 256GB Space Grey pametni telefon	
+											APPLE iPhone 11 Pro Max 256GB Space Grey pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -3342,7 +3338,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="15|622767|">
         <span style="display: none;" data-product_manufacturer_title="622767_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622767_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622767_0">APPLE iPhone 11 Pro Max 256GB Silver pametni telefon</span>
+        <span style="display: none;" data-product_title="622767_0">APPLE iPhone 11 Pro Max 256GB Silver pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622767_0">622767</span>
 		<span style="display: none;" data-product_price="622767_0">1.399,00 €</span>
 
@@ -3382,7 +3378,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-pro-max-256gb-silver-pametni-telefon-71712-izdelek-622767/" data-product_title="622767_0">
-											APPLE iPhone 11 Pro Max 256GB Silver pametni telefon	
+											APPLE iPhone 11 Pro Max 256GB Silver pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -3429,10 +3425,101 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="16|622777|">
+				<article class="clear cp" data-tracking_gtm_impression="16|622769|">
+        <span style="display: none;" data-product_manufacturer_title="622769_0">APPLE</span>
+        <span style="display: none;" data-product_category_title="622769_0">Pametni mobilni telefoni</span>
+        <span style="display: none;" data-product_title="622769_0">APPLE iPhone 11 Pro Max 256GB Midnight Green pametni telefon pametni mob. telefon</span>
+        <span style="display: none;" data-product_code="622769_0">622769</span>
+		<span style="display: none;" data-product_price="622769_0">1.499,99 €</span>
+
+        		
+		
+		
+				
+		
+					<div class="cp-badges">
+							</div>
+		
+		
+		<!-- Wishlist -->
+				
+		<div class="cp-image-container">
+			<figure class="cp-image lloader">
+				<a href="https://www.bigbang.si/apple-iphone-11-pro-max-256gb-midnight-green-pametni-telefon-71713-izdelek-622769/">
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/622769/thumb/622769-622765-1-_5da871e9cb194_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/622769/thumb/622769-622765-1-_5da871e9cb194_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="622769_0" alt="" />
+				</a>
+			</figure>
+
+					</div>
+		
+		<div class="clear cp-cnt">
+			<div class="cp-cnt-comment">
+				<!-- Rating -->
+									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_622769_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
+    								<!-- Comments -->
+									<div class="cp-comment-count comments-count catalog-comment-count">
+						<a title="" href="https://www.bigbang.si/apple-iphone-11-pro-max-256gb-midnight-green-pametni-telefon-71713-izdelek-622769/#comments_data_catalogproduct_622769_si">
+							(0)
+						</a>
+					</div>
+							</div>
+
+			<div class="cp-code" data-product_code="622769_0">622769</div>
+							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
+						<h2 class="cp-title">
+				<a href="https://www.bigbang.si/apple-iphone-11-pro-max-256gb-midnight-green-pametni-telefon-71713-izdelek-622769/" data-product_title="622769_0">
+											APPLE iPhone 11 Pro Max 256GB Midnight Green pametni telefon pametni mob. telefon	
+									</a>
+			</h2>
+		</div>
+
+
+					<div class="cp-price">
+					
+                    
+                    						<div class="cp-current-price" data-product_price="622769_0">1.499,99 €</div>
+												</div>
+		
+		<div class="available-qty">
+            									<span><strong>Na zalogi v Big Bangu</strong></span>
+							            		</div>
+			
+		<div class="cp-bottom">
+			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
+			 
+						
+			<div class="cp-btn-cnt">
+				<div class="cp-btn-cnt-col1">
+					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
+					<!-- Wishlist -->
+											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_622769_si">
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_622769_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_622769_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_622769_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_622769_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_622769_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_622769_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
+							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_622769_si wishlist-message wishlist-message-622769" style="display: none;"></span>
+						</div>
+					
+					<!-- Compare -->
+											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_622769_si" href="javascript:cmscompare.set('catalog_catalogproduct_622769_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
+        <span>
+            <small class="l1">Dodaj v primerjavo</small>
+            <small class="l2">Odstrani iz primerjave</small>
+        </span>
+        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_622769_si" style="display:none;"></span>
+    </a>
+</div>									</div>
+				
+									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('622769_0', '_tracking:index', 'simple_loader', 'simple', 3)">
+													<span>V košarico</span>
+												
+					</a>
+							</div>
+		</div>
+			</article>
+
+				<article class="clear cp" data-tracking_gtm_impression="17|622777|">
         <span style="display: none;" data-product_manufacturer_title="622777_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622777_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622777_0">APPLE iPhone 11 Pro Max 64GB Midnight Green pametni telefon</span>
+        <span style="display: none;" data-product_title="622777_0">APPLE iPhone 11 Pro Max 64GB Midnight Green pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622777_0">622777</span>
 		<span style="display: none;" data-product_price="622777_0">1.199,00 €</span>
 
@@ -3472,7 +3559,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-pro-max-64gb-midnight-green-pametni-telefon-71721-izdelek-622777/" data-product_title="622777_0">
-											APPLE iPhone 11 Pro Max 64GB Midnight Green pametni telefon	
+											APPLE iPhone 11 Pro Max 64GB Midnight Green pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -3519,10 +3606,10 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="17|622743|">
+				<article class="clear cp" data-tracking_gtm_impression="18|622743|">
         <span style="display: none;" data-product_manufacturer_title="622743_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622743_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622743_0">APPLE iPhone 11 256GB White pametni telefon</span>
+        <span style="display: none;" data-product_title="622743_0">APPLE iPhone 11 256GB White pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622743_0">622743</span>
 		<span style="display: none;" data-product_price="622743_0">1.022,99 €</span>
 
@@ -3562,7 +3649,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-256gb-white-pametni-telefon-71688-izdelek-622743/" data-product_title="622743_0">
-											APPLE iPhone 11 256GB White pametni telefon	
+											APPLE iPhone 11 256GB White pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -3609,100 +3696,10 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="18|622745|">
-        <span style="display: none;" data-product_manufacturer_title="622745_0">APPLE</span>
-        <span style="display: none;" data-product_category_title="622745_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622745_0">APPLE IPHONE 11 256GB YELLOW</span>
-        <span style="display: none;" data-product_code="622745_0">622745</span>
-		<span style="display: none;" data-product_price="622745_0">1.022,99 €</span>
-
-        		
-		
-		
-				
-		
-					<div class="cp-badges">
-							</div>
-		
-		
-		<!-- Wishlist -->
-				
-		<div class="cp-image-container">
-			<figure class="cp-image lloader">
-				<a href="https://www.bigbang.si/apple-iphone-11-256gb-yellow-71690-izdelek-622745/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/622745/thumb/622745-622751-1-_5da871e2e2c9b_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/622745/thumb/622745-622751-1-_5da871e2e2c9b_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="622745_0" alt="" />
-				</a>
-			</figure>
-
-					</div>
-		
-		<div class="clear cp-cnt">
-			<div class="cp-cnt-comment">
-				<!-- Rating -->
-									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_622745_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
-    								<!-- Comments -->
-									<div class="cp-comment-count comments-count catalog-comment-count">
-						<a title="" href="https://www.bigbang.si/apple-iphone-11-256gb-yellow-71690-izdelek-622745/#comments_data_catalogproduct_622745_si">
-							(0)
-						</a>
-					</div>
-							</div>
-
-			<div class="cp-code" data-product_code="622745_0">622745</div>
-							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
-						<h2 class="cp-title">
-				<a href="https://www.bigbang.si/apple-iphone-11-256gb-yellow-71690-izdelek-622745/" data-product_title="622745_0">
-											APPLE IPHONE 11 256GB YELLOW	
-									</a>
-			</h2>
-		</div>
-
-
-					<div class="cp-price">
-					
-                    
-                    						<div class="cp-current-price" data-product_price="622745_0">1.022,99 €</div>
-												</div>
-		
-		<div class="available-qty">
-            				<span><strong>Zadnji kosi</strong></span>
-			            		</div>
-			
-		<div class="cp-bottom">
-			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
-			 
-						
-			<div class="cp-btn-cnt">
-				<div class="cp-btn-cnt-col1">
-					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
-					<!-- Wishlist -->
-											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_622745_si">
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_622745_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_622745_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_622745_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_622745_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_622745_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_622745_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
-							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_622745_si wishlist-message wishlist-message-622745" style="display: none;"></span>
-						</div>
-					
-					<!-- Compare -->
-											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_622745_si" href="javascript:cmscompare.set('catalog_catalogproduct_622745_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
-        <span>
-            <small class="l1">Dodaj v primerjavo</small>
-            <small class="l2">Odstrani iz primerjave</small>
-        </span>
-        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_622745_si" style="display:none;"></span>
-    </a>
-</div>									</div>
-				
-									<a class="btn btn-green cp-btn-addtocart cp-btn-details" title="Več informacij" href="https://www.bigbang.si/apple-iphone-11-256gb-yellow-71690-izdelek-622745/">
-						<span>Več informacij</span>
-					</a>
-							</div>
-		</div>
-			</article>
-
 				<article class="clear cp" data-tracking_gtm_impression="19|622748|">
         <span style="display: none;" data-product_manufacturer_title="622748_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622748_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622748_0">APPLE iPhone 11 64GB Black pametni telefon</span>
+        <span style="display: none;" data-product_title="622748_0">APPLE iPhone 11 64GB Black pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622748_0">622748</span>
 		<span style="display: none;" data-product_price="622748_0">725,99 €</span>
 
@@ -3742,7 +3739,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-64gb-black-pametni-telefon-71693-izdelek-622748/" data-product_title="622748_0">
-											APPLE iPhone 11 64GB Black pametni telefon	
+											APPLE iPhone 11 64GB Black pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -3792,7 +3789,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="20|622750|">
         <span style="display: none;" data-product_manufacturer_title="622750_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622750_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622750_0">APPLE iPhone 11 64GB (Product)Red pametni telefon</span>
+        <span style="display: none;" data-product_title="622750_0">APPLE iPhone 11 64GB (Product)Red pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622750_0">622750</span>
 		<span style="display: none;" data-product_price="622750_0">725,99 €</span>
 
@@ -3832,7 +3829,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-64gb-product-red-pametni-telefon-71695-izdelek-622750/" data-product_title="622750_0">
-											APPLE iPhone 11 64GB (Product)Red pametni telefon	
+											APPLE iPhone 11 64GB (Product)Red pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -3883,7 +3880,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="21|622751|">
         <span style="display: none;" data-product_manufacturer_title="622751_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622751_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622751_0">APPLE iPhone 11 64GB Yellow pametni telefon</span>
+        <span style="display: none;" data-product_title="622751_0">APPLE iPhone 11 64GB Yellow pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622751_0">622751</span>
 		<span style="display: none;" data-product_price="622751_0">725,99 €</span>
 
@@ -3923,7 +3920,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-64gb-yellow-pametni-telefon-71696-izdelek-622751/" data-product_title="622751_0">
-											APPLE iPhone 11 64GB Yellow pametni telefon	
+											APPLE iPhone 11 64GB Yellow pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -3973,7 +3970,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="22|622753|">
         <span style="display: none;" data-product_manufacturer_title="622753_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622753_0">Pametni mobilni telefoni</span>
-        <span style="display: none;" data-product_title="622753_0">APPLE iPhone 11 64GB Green pametni telefon</span>
+        <span style="display: none;" data-product_title="622753_0">APPLE iPhone 11 64GB Green pametni telefon pametni mob. telefon</span>
         <span style="display: none;" data-product_code="622753_0">622753</span>
 		<span style="display: none;" data-product_price="622753_0">725,99 €</span>
 
@@ -4013,7 +4010,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/mobilni-telefoni/pametni-mobilni-telefoni/">Pametni mobilni telefoni</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-64gb-green-pametni-telefon-71698-izdelek-622753/" data-product_title="622753_0">
-											APPLE iPhone 11 64GB Green pametni telefon	
+											APPLE iPhone 11 64GB Green pametni telefon pametni mob. telefon	
 									</a>
 			</h2>
 		</div>
@@ -4063,7 +4060,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="23|683793|">
         <span style="display: none;" data-product_manufacturer_title="683793_0">SBS</span>
         <span style="display: none;" data-product_category_title="683793_0">Torbice in ovitki</span>
-        <span style="display: none;" data-product_title="683793_0">SBS OVITEK RECYCLED CASE IPHONE 11 PRO MAX ZELEN</span>
+        <span style="display: none;" data-product_title="683793_0">SBS OVITEK RECYCLED CASE IPHONE 11 PRO MAX ZELEN torbica za mob. tel.</span>
         <span style="display: none;" data-product_code="683793_0">683793</span>
 		<span style="display: none;" data-product_price="683793_0">15,99 €</span>
 
@@ -4103,7 +4100,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/dodatki-za-mobilne-telefone/torbice-in-ovitki/">Torbice in ovitki</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/sbs-ovitek-recycled-case-iphone-11-pro-max-zelen-127971-izdelek-683793/" data-product_title="683793_0">
-											SBS OVITEK RECYCLED CASE IPHONE 11 PRO MAX ZELEN	
+											SBS OVITEK RECYCLED CASE IPHONE 11 PRO MAX ZELEN torbica za mob. tel.	
 									</a>
 			</h2>
 		</div>
@@ -4154,7 +4151,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="24|683794|">
         <span style="display: none;" data-product_manufacturer_title="683794_0">SBS</span>
         <span style="display: none;" data-product_category_title="683794_0">Torbice in ovitki</span>
-        <span style="display: none;" data-product_title="683794_0">SBS OVITEK ICE LOLLY IPHONE 11 PRO MAX ANISE</span>
+        <span style="display: none;" data-product_title="683794_0">SBS OVITEK ICE LOLLY IPHONE 11 PRO MAX ANISE torbica za mob. tel.</span>
         <span style="display: none;" data-product_code="683794_0">683794</span>
 		<span style="display: none;" data-product_price="683794_0">15,99 €</span>
 
@@ -4194,7 +4191,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/dodatki-za-mobilne-telefone/torbice-in-ovitki/">Torbice in ovitki</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/sbs-ovitek-ice-lolly-iphone-11-pro-max-anise-127977-izdelek-683794/" data-product_title="683794_0">
-											SBS OVITEK ICE LOLLY IPHONE 11 PRO MAX ANISE	
+											SBS OVITEK ICE LOLLY IPHONE 11 PRO MAX ANISE torbica za mob. tel.	
 									</a>
 			</h2>
 		</div>
@@ -4245,7 +4242,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="25|683792|">
         <span style="display: none;" data-product_manufacturer_title="683792_0">SBS</span>
         <span style="display: none;" data-product_category_title="683792_0">Torbice in ovitki</span>
-        <span style="display: none;" data-product_title="683792_0">SBS OVITEK ECO IPHONE 11 DOLPHIN</span>
+        <span style="display: none;" data-product_title="683792_0">SBS OVITEK ECO IPHONE 11 DOLPHIN torbica za mob. tel.</span>
         <span style="display: none;" data-product_code="683792_0">683792</span>
 		<span style="display: none;" data-product_price="683792_0">21,99 €</span>
 
@@ -4285,7 +4282,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/dodatki-za-mobilne-telefone/torbice-in-ovitki/">Torbice in ovitki</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/sbs-ovitek-eco-iphone-11-dolphin-127965-izdelek-683792/" data-product_title="683792_0">
-											SBS OVITEK ECO IPHONE 11 DOLPHIN	
+											SBS OVITEK ECO IPHONE 11 DOLPHIN torbica za mob. tel.	
 									</a>
 			</h2>
 		</div>
@@ -4336,7 +4333,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="26|672854|">
         <span style="display: none;" data-product_manufacturer_title="672854_0">APPLE</span>
         <span style="display: none;" data-product_category_title="672854_0">Torbice in ovitki</span>
-        <span style="display: none;" data-product_title="672854_0">Apple iPhone 11 Pro Leather Folio - Deep Sea Blue (Seasonal Spring2020)</span>
+        <span style="display: none;" data-product_title="672854_0">Apple iPhone 11 Pro Leather Folio - Deep Sea Blue (Seasonal Spring2020) torbica za mob. tel.</span>
         <span style="display: none;" data-product_code="672854_0">672854</span>
 		<span style="display: none;" data-product_price="672854_0">189,99 €</span>
 
@@ -4376,7 +4373,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/dodatki-za-mobilne-telefone/torbice-in-ovitki/">Torbice in ovitki</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-pro-leather-folio-deep-sea-blue-seasonal-spring2020-114548-izdelek-672854/" data-product_title="672854_0">
-											Apple iPhone 11 Pro Leather Folio - Deep Sea Blue (Seasonal Spring2020)	
+											Apple iPhone 11 Pro Leather Folio - Deep Sea Blue (Seasonal Spring2020) torbica za mob. tel.	
 									</a>
 			</h2>
 		</div>
@@ -4427,7 +4424,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="27|671062|">
         <span style="display: none;" data-product_manufacturer_title="671062_0">GRIFFIN</span>
         <span style="display: none;" data-product_category_title="671062_0">Torbice in ovitki</span>
-        <span style="display: none;" data-product_title="671062_0">Griffin Survivor Endurance za iPhone 11 Pro - Black/Citrus/Clear</span>
+        <span style="display: none;" data-product_title="671062_0">Griffin Survivor Endurance za iPhone 11 Pro - Black/Citrus/Clear torbica za mob. tel.</span>
         <span style="display: none;" data-product_code="671062_0">671062</span>
 		<span style="display: none;" data-product_price="671062_0">30,99 €</span>
 
@@ -4467,7 +4464,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/dodatki-za-mobilne-telefone/torbice-in-ovitki/">Torbice in ovitki</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/griffin-survivor-endurance-za-iphone-11-pro-black-citrus-clear-110829-izdelek-671062/" data-product_title="671062_0">
-											Griffin Survivor Endurance za iPhone 11 Pro - Black/Citrus/Clear	
+											Griffin Survivor Endurance za iPhone 11 Pro - Black/Citrus/Clear torbica za mob. tel.	
 									</a>
 			</h2>
 		</div>
@@ -4518,7 +4515,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="28|671050|">
         <span style="display: none;" data-product_manufacturer_title="671050_0">GRIFFIN</span>
         <span style="display: none;" data-product_category_title="671050_0">Torbice in ovitki</span>
-        <span style="display: none;" data-product_title="671050_0">Griffin Survivor Strong za iPhone 11 Pro - Clear</span>
+        <span style="display: none;" data-product_title="671050_0">Griffin Survivor Strong za iPhone 11 Pro - Clear torbica za mob. tel.</span>
         <span style="display: none;" data-product_code="671050_0">671050</span>
 		<span style="display: none;" data-product_price="671050_0">22,99 €</span>
 
@@ -4558,7 +4555,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/dodatki-za-mobilne-telefone/torbice-in-ovitki/">Torbice in ovitki</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/griffin-survivor-strong-za-iphone-11-pro-clear-110817-izdelek-671050/" data-product_title="671050_0">
-											Griffin Survivor Strong za iPhone 11 Pro - Clear	
+											Griffin Survivor Strong za iPhone 11 Pro - Clear torbica za mob. tel.	
 									</a>
 			</h2>
 		</div>
@@ -4609,7 +4606,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="29|672857|">
         <span style="display: none;" data-product_manufacturer_title="672857_0">APPLE</span>
         <span style="display: none;" data-product_category_title="672857_0">Torbice in ovitki</span>
-        <span style="display: none;" data-product_title="672857_0">Apple iPhone 11 Pro Max Leather Folio - Deep Sea Blue (Seasonal Spring2020)</span>
+        <span style="display: none;" data-product_title="672857_0">Apple iPhone 11 Pro Max Leather Folio - Deep Sea Blue (Seasonal Spring2020) torbica za mob. tel.</span>
         <span style="display: none;" data-product_code="672857_0">672857</span>
 		<span style="display: none;" data-product_price="672857_0">159,99 €</span>
 
@@ -4649,7 +4646,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/dodatki-za-mobilne-telefone/torbice-in-ovitki/">Torbice in ovitki</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/apple-iphone-11-pro-max-leather-folio-deep-sea-blue-seasonal-spring2020-114551-izdelek-672857/" data-product_title="672857_0">
-											Apple iPhone 11 Pro Max Leather Folio - Deep Sea Blue (Seasonal Spring2020)	
+											Apple iPhone 11 Pro Max Leather Folio - Deep Sea Blue (Seasonal Spring2020) torbica za mob. tel.	
 									</a>
 			</h2>
 		</div>
@@ -4700,7 +4697,7 @@
 				<article class="clear cp" data-tracking_gtm_impression="30|671071|">
         <span style="display: none;" data-product_manufacturer_title="671071_0">GRIFFIN</span>
         <span style="display: none;" data-product_category_title="671071_0">Torbice in ovitki</span>
-        <span style="display: none;" data-product_title="671071_0">Griffin Survivor Endurance for iPhone 11 Pro Max - Black/Gray/Smoke</span>
+        <span style="display: none;" data-product_title="671071_0">Griffin Survivor Endurance for iPhone 11 Pro Max - Black/Gray/Smoke torbica za mob. tel.</span>
         <span style="display: none;" data-product_code="671071_0">671071</span>
 		<span style="display: none;" data-product_price="671071_0">34,99 €</span>
 
@@ -4740,7 +4737,7 @@
 							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/telefonija/dodatki-za-mobilne-telefone/torbice-in-ovitki/">Torbice in ovitki</a></div>	
 						<h2 class="cp-title">
 				<a href="https://www.bigbang.si/griffin-survivor-endurance-for-iphone-11-pro-max-black-gray-smoke-110838-izdelek-671071/" data-product_title="671071_0">
-											Griffin Survivor Endurance for iPhone 11 Pro Max - Black/Gray/Smoke	
+											Griffin Survivor Endurance for iPhone 11 Pro Max - Black/Gray/Smoke torbica za mob. tel.	
 									</a>
 			</h2>
 		</div>
@@ -4791,7 +4788,7 @@
 				</div>
 
 	<p class="pagination">			<span class="pagination-details" style="display: none">
-			Prikazano <span class="pagination-page">1-30</span> od <span class="pagination-total">182</span>
+			Prikazano <span class="pagination-page">1-30</span> od <span class="pagination-total">174</span>
 		</span>
 	
 			
@@ -4805,9 +4802,9 @@
 				<a data-shorcut="n p" href="/izdelki/?search_q=iphone+11&amp;securecode=main_search&amp;page=2" rel="next" class="next_page" title="Sljedeća">›</a>
 		</p>		<div class="load-more-container c-load-more-container">
 		<div class="pagination-status load-status">
-			<div class="pagination-status-label">Prikazanih <span class="next_page_first_item">31</span> od 182 izdelkov</div>
+			<div class="pagination-status-label">Prikazanih <span class="next_page_first_item">31</span> od 174 izdelkov</div>
 			<div class="pagination-status-bar">
-				<div class="pagination-status-bar-bg next_page_last_item_percent" style="width: 16%"></div>
+				<div class="pagination-status-bar-bg next_page_last_item_percent" style="width: 17%"></div>
 			</div>
 		</div>
 		<a href="javascript:void(0);" class="btn btn-white btn-medium load-more btn-load-more" style="display: none;">Prikaži več izdelkov</a>
@@ -4939,7 +4936,7 @@ Prijavi se na e-novice in prvi prejmi najnovejše popuste.</div>
 								<a class="support-tel" href="tel:+38613626000">01 362 60 00</a>
 
 
-<p><span><a class="support-mail" href="/cdn-cgi/l/email-protection#d8bda8aab7bcb9b2b998bab1bfbab9b6bff6abb1"><span class="__cf_email__" data-cfemail="ddb8adafb2b9bcb7bc9dbfb4babfbcb3baf3aeb4">[email&#160;protected]</span></a></span></p>
+<p><span><a class="support-mail" href="/cdn-cgi/l/email-protection#4f2a3f3d202b2e252e0f2d26282d2e2128613c26"><span class="__cf_email__" data-cfemail="9bfeebe9f4fffaf1fadbf9f2fcf9faf5fcb5e8f2">[email&#160;protected]</span></a></span></p>
 
 <p><span class="support-opening-hours">Ponedeljek - Sobota: 9:00 - 20:00 </span></p>
 							</div>
@@ -4989,7 +4986,7 @@ Prijavi se na e-novice in prvi prejmi najnovejše popuste.</div>
 </script>
 <noscript>
 <div class="browser-note"></div>
-</noscript>	<script src="/upload/min/js_gdefault_si_f6e5a71ae97b2720ecd75f3bb9aad3ba.js" ></script>		<div class="gdpr-container-wrapper no-cookie">
+</noscript>	<script src="/upload/min/js_gdefault_si_2a279e878742e74ba78a3f24683cdd50.js" ></script>		<div class="gdpr-container-wrapper no-cookie">
 						    <style>
 	.gdpr-container-wrapper{background: #fff; box-shadow: 0px 0px 20px rgba(0,0,0,.2); position: fixed; max-height: 100vh; overflow: auto; left: 0; bottom: 0; right: 0; z-index: 100;}
 	.cookie-warning-wrapper{padding: 20px 30px;}

@@ -6,5 +6,7 @@
   "productHtmlEl": ".content-main article",
   "productNameHtmlEl": ".entity-title a",
   "priceHtmlEl": ".price",
-  "inStockMethod": "alwaysTrue"
+  "inStockMethod": "alwaysTrue",
+  "productThumbnailHtmlEl": ".img.entity-thumbnail-img",
+  "productThumbnailHtmlAttribute":  "src"
 }
