@@ -8,5 +8,7 @@
   "priceHtmlEl": ".price",
   "inStockMethod": "alwaysTrue",
   "productThumbnailHtmlEl": ".img.entity-thumbnail-img",
-  "productThumbnailHtmlAttribute":  "src"
+  "productThumbnailHtmlAttribute":  "src",
+  "country": "SLO",
+  "isClassifieds": "YES"
 }

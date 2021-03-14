@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 
-
 def getProducts(page, element):
     soup = BeautifulSoup(page.content, 'html.parser')
     products = soup.select(element)

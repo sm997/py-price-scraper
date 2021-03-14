@@ -3,11 +3,13 @@ from scraper.scripts.core import getProductsFromAllSites
 
 def index(request):
     result = None
-    query = request.GET.get('product') if 'product' in request.GET else None
-    excludeWords = request.GET.get('excludeWords') if 'excludeWords' in request.GET else ""
-    filterStock = request.GET.get('filterStock') if 'filterStock' in request.GET else ""
+    query = request.GET.getlist('inputSearch')
+    excludeWords = request.GET.getlist('excludeWords')
+    excludeWords = "" if len(excludeWords) == 0 else excludeWords[0]
+    filters = request.GET.getlist('filter')
+    print("aads", query)
 
-    if query is not None:
-        result = getProductsFromAllSites(query, excludeWords, filterStock)
+    if len(query) > 0:
+        result = getProductsFromAllSites(query[0], excludeWords, filters)
 
     return render(request, 'index.html', {'result': result})

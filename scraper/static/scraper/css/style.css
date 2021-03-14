@@ -1,0 +1,70 @@
+html, body {
+    height: 100%;
+    background-color: #E0E0E0;
+    color: #212121;
+}
+
+.form-control:focus, .form-check-input:focus {
+    border-color: #FFE996;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 238, 150, 1);
+}
+
+.btn-prim {
+    background-color: #FFC700;
+}
+
+.btn-prim:hover {
+    background-color: #E8B600;
+}
+
+.form-check-input:checked {
+    background-color: #FFC700;
+    border-color: #FFC700;
+}
+
+.logo {
+    font-family: 'Anton', sans-serif;
+    font-size: 64px;
+}
+
+.search-card {
+    background-color: #FFFFFF;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.search-card .form-check {
+    display: inline-block;
+}
+
+.shop-box {
+
+}
+
+.shop-box .shop-logo {
+    max-height: 80px;
+    max-width: 200px;
+}
+
+.shop-box .card {
+    overflow: hidden;
+}
+
+.shop-box .card .card-thumbnail {
+    width: 100%;
+    padding-top: 90%;
+    background-size: contain;
+    background-position: center;
+}
+
+.shop-box .card .card-text {
+    height: 50px;
+    overflow: hidden;
+}
+
+.shop-box .btn-show-more {
+    background-color: #C7C7C7;
+}
+
+.shop-box .btn-show-more:hover {
+    background-color: #B5B5B5;
+}

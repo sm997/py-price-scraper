@@ -9,5 +9,7 @@
   "inStockMethod": "hasElement",
   "inStockEl": ".cp-btn-addtocart:not(.cp-btn-details)",
   "productThumbnailHtmlEl": ".cp-image img",
-  "productThumbnailHtmlAttribute":  "data-lazy"
+  "productThumbnailHtmlAttribute":  "data-lazy",
+  "country": "SLO",
+  "isClassifieds": "NO"
 }

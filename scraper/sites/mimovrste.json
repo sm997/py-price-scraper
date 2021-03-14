@@ -11,5 +11,7 @@
   "inStockAttrName": "is-available",
   "inStockAttrValue": "1",
   "productThumbnailHtmlEl": ".lst-product-item-media-img",
-  "productThumbnailHtmlAttribute":  "data-src"
+  "productThumbnailHtmlAttribute":  "data-src",
+  "country": "SLO",
+  "isClassifieds": "NO"
 }
