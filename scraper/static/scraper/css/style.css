@@ -64,7 +64,66 @@ html, body {
 .shop-box .btn-show-more {
     background-color: #C7C7C7;
 }
-
-.shop-box .btn-show-more:hover {
+ .shop-box .btn-show-more:hover {
     background-color: #B5B5B5;
+}
+
+.shop-box .card .dot {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.bgred{
+ background-color: red;
+}
+
+.red{
+ color: red;
+}
+
+.bggreen{
+ background-color: green;
+}
+
+.green{
+ color: green;
+}
+
+.stock {
+    font-size: 16px;
+}
+
+
+.checkbox-menu li label {
+    display: block;
+    padding: 3px 10px;
+    clear: both;
+    font-weight: normal;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+    margin:0;
+    transition: background-color .4s ease;
+}
+.checkbox-menu li input {
+    margin: 0px 5px;
+    top: 2px;
+    position: relative;
+}
+
+.checkbox-menu li.active label {
+    background-color: #cbcbff;
+    font-weight:bold;
+}
+
+.checkbox-menu li label:hover,
+.checkbox-menu li label:focus {
+    background-color: #f5f5f5;
+}
+
+.checkbox-menu li.active label:hover,
+.checkbox-menu li.active label:focus {
+    background-color: #b8b8ff;
 }

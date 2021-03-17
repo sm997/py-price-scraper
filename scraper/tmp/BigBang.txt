@@ -52,7 +52,7 @@
     <meta property="twitter:url" content="https://www.bigbang.si/izdelki/?search_q=apple%20watch&securecode=main_search" />
                         <link rel="alternate" hreflang="sl" href="https://www.bigbang.si/izdelki/" />
     
-	<link href="/upload/min/css_gdefault_si_2a279e878742e74ba78a3f24683cdd50.css" rel="stylesheet">	<script src="/upload/min/js_gmodernizr_si_2a279e878742e74ba78a3f24683cdd50.js" ></script>    	    <script type="text/javascript" src="//static.whisbi.com/f770b511-3e4d-40d7-863d-a187f1eccbb8/connect.js?origin=default&mode=chatbot&lang=SL" defer></script>
+	<link href="/upload/min/css_gdefault_si_899a3b583dda1374500ae9ba216431c1.css" rel="stylesheet">	<script src="/upload/min/js_gmodernizr_si_899a3b583dda1374500ae9ba216431c1.js" ></script>    	    <script type="text/javascript" src="//static.whisbi.com/f770b511-3e4d-40d7-863d-a187f1eccbb8/connect.js?origin=default&mode=chatbot&lang=SL" defer></script>
 	    </head>
 <body class="page-catalog-index page-search" id="top" data-module="catalog" data-fixed_header="80">
     			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PHR7T8H" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>	
@@ -364,6 +364,9 @@
 																															</div>
 														</div>
 													
+																											<div class="categories-promo" data-tracking_gtm_promo_view="8209|Računalništvo||megamenu - Računalništvo">
+									 						<p><a href="https://www.bigbang.si/izdelki/lenovo-pc-marec-katalog/"><img src="/upload/2021/03/800x800-lenovoflex5_6050c6e06fb22.png" /></a></p>
+														</div>
 																									</div>
 												
 																									<div class="row2">
@@ -550,8 +553,7 @@
 												 							<li><a href="https://www.bigbang.si/izdelki/tv-avdio/predvajalniki-in-snemalniki/mp3-mp4-predvajalniki/">MP3 & MP4 predvajalniki</a></li>
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/tv-avdio/predvajalniki-in-snemalniki/diktafoni/">Diktafoni</a></li>
-												 																							    																	        <li><a class="red" href="https://www.bigbang.si/izdelki/tv-avdio/predvajalniki-in-snemalniki/?discount:1">Akcije in popusti</a></li>
-																	    																	    																		    
+												 																							    																	    																		    
 																		<li class="categories-all"><a href="https://www.bigbang.si/izdelki/tv-avdio/predvajalniki-in-snemalniki/">Prikaži več</a></li>
 												 					</ul>
 												 																 			</li>
@@ -854,6 +856,9 @@
 																																																							</ul>
 													
 													
+																											<div class="categories-promo" data-tracking_gtm_promo_view="8212|Gaming||megamenu - Gaming">
+									 						<p><a href="https://www.bigbang.si/izdelki/nori-popusti-igre-marec-katalog/"><img src="/upload/2021/03/800x800-igre_6050c762ed81d.png" /></a></p>
+														</div>
 																									</div>
 												
 																									<div class="row2">
@@ -1100,6 +1105,9 @@
 																																																							</ul>
 													
 													
+																											<div class="categories-promo" data-tracking_gtm_promo_view="8214|Bela tehnika||megamenu - Bela tehnika">
+									 						<p><a href="https://www.bigbang.si/izdelki/bosch-bt-marec-katalog/"><img src="/upload/2021/03/800x800-bosch-bt_6050c7a28d3ad.jpg" /></a></p>
+														</div>
 																									</div>
 												
 																							</div>
@@ -1472,7 +1480,8 @@
 												 						 
 												 							<li><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/prehranski-dodatki-in-napitki/prehrana/">Prehrana</a></li>
 												 																							    																	        <li><a class="red" href="https://www.bigbang.si/izdelki/sport-prosti-cas/prehranski-dodatki-in-napitki/?discount:1">Akcije in popusti</a></li>
-																	    																	    																		    
+																	    																	    																	    	<li><a class="blue" href="https://www.bigbang.si/izdelki/sport-prosti-cas/prehranski-dodatki-in-napitki/?new:1">Novo v ponudbi</a></li>
+																	    																		    
 																		<li class="categories-all"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/prehranski-dodatki-in-napitki/">Prikaži več</a></li>
 												 					</ul>
 												 																 			</li>
@@ -1770,6 +1779,9 @@
 																											</ul>
 													
 													
+																											<div class="categories-promo" data-tracking_gtm_promo_view="8217|Dom & vrt||megamenu - Dom & vrt">
+									 						<p><a href="https://www.bigbang.si/airthings-wave-2nd-gen-pametni-detektor-radona-150618-izdelek-680221/"><img src="/upload/2021/03/800x800airthings-wave_6050c7cbeab07.jpg" /></a></p>
+														</div>
 																									</div>
 												
 																							</div>
@@ -1862,7 +1874,7 @@
 
 															<div class="s-nav-cnt">
 				<ul class="s-nav">
-					<li class="selected"><a href="https://www.bigbang.si/izdelki/?search_q=apple watch"><span>Izdelki <span class="s-counter">(52)</span></span></a></li>
+					<li class="selected"><a href="https://www.bigbang.si/izdelki/?search_q=apple watch"><span>Izdelki <span class="s-counter">(51)</span></span></a></li>
 					<li><a href="https://www.bigbang.si/iskanje/?search_q=apple watch&search_content=publish.01"><span>Članki <span class="s-counter">(114)</span></span></a></li>
 					<li><a href="https://www.bigbang.si/iskanje/?search_q=apple watch&search_content=cms"><span>Ostalo <span class="s-counter">(2)</span></span></a></li>
 				</ul>
@@ -1898,9 +1910,9 @@
 																																																																                                                                                                                                                                                																										                                                                                                                                                                                																										                                                                                                    <div class="cf-row cf-row-level3">
 																															<input type="checkbox" id="search-category-6" name="category" value="8405"
 		 														data-name_seo="category" data-name_ignore_seo="" data-value_seo="sport-prosti-cas/nosljiva-tehnologija/pametne-ure"
-                                                                     data-filter_hierarhy_position="009.001.003"                                                                 data-total_items="36">
+                                                                     data-filter_hierarhy_position="009.001.003"                                                                 data-total_items="35">
 																														<label class="" for="search-category-6">Pametne ure																															</label>
-                                                                                                                            <span class="cf-counter" >36</span>                                                                                                                    </div>
+                                                                                                                            <span class="cf-counter" >35</span>                                                                                                                    </div>
 																																																																                                                                                                    <div class="cf-row cf-row-level3">
 																															<input type="checkbox" id="search-category-7" name="category" value="67411"
 		 														data-name_seo="category" data-name_ignore_seo="" data-value_seo="sport-prosti-cas/nosljiva-tehnologija/dodatki-za-nosencke"
@@ -1923,7 +1935,7 @@
 		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="apple"
                                                                                                                                      >
 																														<label class="" for="search-manufacturer-1">APPLE																															</label>
-                                                            														<span class="cf-counter">39</span>                                                                                                                    </div>
+                                                            														<span class="cf-counter">38</span>                                                                                                                    </div>
 																																																																                                                                                                    <div class="cf-row cf-row-level1">
 																															<input type="checkbox" id="search-manufacturer-2" name="manufacturer" value="9200"
 		 														data-name_seo="znamka" data-name_ignore_seo="" data-value_seo="cellular"
@@ -2061,13 +2073,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/steklo-apple-watch-40mm-series-5-cellular-line-208894-izdelek-686266/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/686266/thumb/spapplewatch540-01-main-300x300_602b51ce74f23_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/686266/thumb/spapplewatch540-01-main-300x300_602b51ce74f23_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="686266_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/686267/thumb/a831d400c8ffc7a704c80f92fb5d819f2a7c32d74a985059ce_604f24f53e02a_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/686267/thumb/a831d400c8ffc7a704c80f92fb5d819f2a7c32d74a985059ce_604f24f53e02a_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="686266_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_686266_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -2155,13 +2168,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/steklo-apple-watch-44mm-cellular-line-209580-izdelek-686267/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/686267/thumb/spapplewatch544-01-main-300x300_602b51ce9e425_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/686267/thumb/spapplewatch544-01-main-300x300_602b51ce9e425_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="686267_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/media/images/no-image-285.jpg"  data-original="https://www.bigbang.si/media/images/no-image-285.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="686267_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_686267_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -2250,13 +2264,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/apple-watch-series-3-gps-42mm-silver-aluminium-white-band-pametna-ura-79861-izdelek-621321/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/621321/thumb/621321-621321-2_5dc028ced0cc3_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/621321/thumb/621321-621321-2_5dc028ced0cc3_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="621321_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/621321/thumb/d6e2a4ea296d08287ccb8e803d4aa82f195bdfba0f0f23ce7f_604e1c120f047_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/621321/thumb/d6e2a4ea296d08287ccb8e803d4aa82f195bdfba0f0f23ce7f_604e1c120f047_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="621321_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_621321_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -2346,13 +2361,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/apple-watch-series-3-gps-38mm-space-grey-aluminium-black-band-pametna-ura-79860-izdelek-621322/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/621322/thumb/621322-621322-2_5dc028cdc8b2a_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/621322/thumb/621322-621322-2_5dc028cdc8b2a_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="621322_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/621322/thumb/a85e0434bb842f5169041e5dc211ae7520a411df3c3d3e92ef_604e1c1105cbc_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/621322/thumb/a85e0434bb842f5169041e5dc211ae7520a411df3c3d3e92ef_604e1c1105cbc_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="621322_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_621322_si" data-rates="5.0000" data-rates_votes="2" data-rates_sum="10"></span>
@@ -2449,6 +2465,7 @@
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_621323_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -2513,189 +2530,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="6|680518|">
-        <span style="display: none;" data-product_manufacturer_title="680518_0">APPLE</span>
-        <span style="display: none;" data-product_category_title="680518_0">Pametne ure</span>
-        <span style="display: none;" data-product_title="680518_0">APPLE Watch SE GPS, 44mm Gold Aluminium Case with Pink Sand Sport Band pametna ura</span>
-        <span style="display: none;" data-product_code="680518_0">680518</span>
-		<span style="display: none;" data-product_price="680518_0">339,00 €</span>
-
-        		
-		
-		
-				
-		
-					<div class="cp-badges">
-							</div>
-		
-		
-		<!-- Wishlist -->
-				
-		<div class="cp-image-container">
-			<figure class="cp-image lloader">
-				<a href="https://www.bigbang.si/apple-watch-se-gps-44mm-gold-aluminium-case-with-pink-sand-sport-band-pametna-ura-154232-izdelek-680518/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680518/thumb/mydr2vra-01-big_5f643229b19fc_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680518/thumb/mydr2vra-01-big_5f643229b19fc_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680518_0" alt="" />
-				</a>
-			</figure>
-
-					</div>
-		
-		<div class="clear cp-cnt">
-			<div class="cp-cnt-comment">
-				<!-- Rating -->
-									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680518_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
-    								<!-- Comments -->
-									<div class="cp-comment-count comments-count catalog-comment-count">
-						<a title="" href="https://www.bigbang.si/apple-watch-se-gps-44mm-gold-aluminium-case-with-pink-sand-sport-band-pametna-ura-154232-izdelek-680518/#comments_data_catalogproduct_680518_si">
-							(0)
-						</a>
-					</div>
-							</div>
-
-			<div class="cp-code" data-product_code="680518_0">680518</div>
-							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/pametne-ure/">Pametne ure</a></div>	
-						<h2 class="cp-title">
-				<a href="https://www.bigbang.si/apple-watch-se-gps-44mm-gold-aluminium-case-with-pink-sand-sport-band-pametna-ura-154232-izdelek-680518/" data-product_title="680518_0">
-											APPLE Watch SE GPS, 44mm Gold Aluminium Case with Pink Sand Sport Band pametna ura	
-									</a>
-			</h2>
-		</div>
-
-
-					<div class="cp-price">
-					
-                    
-                    						<div class="cp-current-price" data-product_price="680518_0">339,00 €</div>
-												</div>
-		
-		<div class="available-qty">
-            									<span><strong>Na zalogi v Big Bangu</strong></span>
-							            		</div>
-			
-		<div class="cp-bottom">
-			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
-			 
-						
-			<div class="cp-btn-cnt">
-				<div class="cp-btn-cnt-col1">
-					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
-					<!-- Wishlist -->
-											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_680518_si">
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680518_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_680518_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680518_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680518_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_680518_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680518_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
-							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_680518_si wishlist-message wishlist-message-680518" style="display: none;"></span>
-						</div>
-					
-					<!-- Compare -->
-											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_680518_si" href="javascript:cmscompare.set('catalog_catalogproduct_680518_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
-        <span>
-            <small class="l1">Dodaj v primerjavo</small>
-            <small class="l2">Odstrani iz primerjave</small>
-        </span>
-        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_680518_si" style="display:none;"></span>
-    </a>
-</div>									</div>
-				
-									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('680518_0', '_tracking:index', 'simple_loader', 'simple', 3)">
-													<span>V košarico</span>
-												
-					</a>
-							</div>
-		</div>
-			</article>
-
-				<article class="clear cp" data-tracking_gtm_impression="7|680520|">
-        <span style="display: none;" data-product_manufacturer_title="680520_0">APPLE</span>
-        <span style="display: none;" data-product_category_title="680520_0">Pametne ure</span>
-        <span style="display: none;" data-product_title="680520_0">APPLE Watch SE GPS, 44mm Space Gray Aluminium Black Sport Band pametna ura</span>
-        <span style="display: none;" data-product_code="680520_0">680520</span>
-		<span style="display: none;" data-product_price="680520_0">339,00 €</span>
-
-        		
-		
-		
-				
-		
-					<div class="cp-badges">
-							</div>
-		
-		
-		<!-- Wishlist -->
-				
-		<div class="cp-image-container">
-			<figure class="cp-image lloader">
-				<a href="https://www.bigbang.si/apple-watch-se-gps-44mm-space-gray-aluminium-black-sport-band-pametna-ura-154235-izdelek-680520/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680520/thumb/mydt2vra-01-big_5f643229e14d9_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680520/thumb/mydt2vra-01-big_5f643229e14d9_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680520_0" alt="" />
-				</a>
-			</figure>
-
-					</div>
-		
-		<div class="clear cp-cnt">
-			<div class="cp-cnt-comment">
-				<!-- Rating -->
-									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680520_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
-    								<!-- Comments -->
-									<div class="cp-comment-count comments-count catalog-comment-count">
-						<a title="" href="https://www.bigbang.si/apple-watch-se-gps-44mm-space-gray-aluminium-black-sport-band-pametna-ura-154235-izdelek-680520/#comments_data_catalogproduct_680520_si">
-							(0)
-						</a>
-					</div>
-							</div>
-
-			<div class="cp-code" data-product_code="680520_0">680520</div>
-							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/pametne-ure/">Pametne ure</a></div>	
-						<h2 class="cp-title">
-				<a href="https://www.bigbang.si/apple-watch-se-gps-44mm-space-gray-aluminium-black-sport-band-pametna-ura-154235-izdelek-680520/" data-product_title="680520_0">
-											APPLE Watch SE GPS, 44mm Space Gray Aluminium Black Sport Band pametna ura	
-									</a>
-			</h2>
-		</div>
-
-
-					<div class="cp-price">
-					
-                    
-                    						<div class="cp-current-price" data-product_price="680520_0">339,00 €</div>
-												</div>
-		
-		<div class="available-qty">
-            									<span><strong>Na zalogi v Big Bangu</strong></span>
-							            		</div>
-			
-		<div class="cp-bottom">
-			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
-			 
-						
-			<div class="cp-btn-cnt">
-				<div class="cp-btn-cnt-col1">
-					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
-					<!-- Wishlist -->
-											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_680520_si">
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680520_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_680520_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680520_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680520_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_680520_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680520_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
-							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_680520_si wishlist-message wishlist-message-680520" style="display: none;"></span>
-						</div>
-					
-					<!-- Compare -->
-											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_680520_si" href="javascript:cmscompare.set('catalog_catalogproduct_680520_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
-        <span>
-            <small class="l1">Dodaj v primerjavo</small>
-            <small class="l2">Odstrani iz primerjave</small>
-        </span>
-        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_680520_si" style="display:none;"></span>
-    </a>
-</div>									</div>
-				
-									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('680520_0', '_tracking:index', 'simple_loader', 'simple', 3)">
-													<span>V košarico</span>
-												
-					</a>
-							</div>
-		</div>
-			</article>
-
-				<article class="clear cp" data-tracking_gtm_impression="8|680511|">
+				<article class="clear cp" data-tracking_gtm_impression="6|680511|">
         <span style="display: none;" data-product_manufacturer_title="680511_0">APPLE</span>
         <span style="display: none;" data-product_category_title="680511_0">Pametne ure</span>
         <span style="display: none;" data-product_title="680511_0">APPLE Watch SE GPS, 40mm Silver Aluminium White Sport Band pametna ura</span>
@@ -2716,13 +2551,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/apple-watch-se-gps-40mm-silver-aluminium-white-sport-band-pametna-ura-154217-izdelek-680511/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680511/thumb/mydm2bsa-01-big_5f64314359a94_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680511/thumb/mydm2bsa-01-big_5f64314359a94_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680511_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680511/thumb/6e730d8f712f7062aab5b1f9de44e7baaf2bb0c8c615910f04_604f31d0cb380_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/680511/thumb/6e730d8f712f7062aab5b1f9de44e7baaf2bb0c8c615910f04_604f31d0cb380_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680511_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680511_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -2786,98 +2622,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="9|680512|">
-        <span style="display: none;" data-product_manufacturer_title="680512_0">APPLE</span>
-        <span style="display: none;" data-product_category_title="680512_0">Pametne ure</span>
-        <span style="display: none;" data-product_title="680512_0">APPLE Watch SE GPS, 40mm Gold Aluminium Pink Sand Sport Band pametna ura</span>
-        <span style="display: none;" data-product_code="680512_0">680512</span>
-		<span style="display: none;" data-product_price="680512_0">309,00 €</span>
-
-        		
-		
-		
-				
-		
-					<div class="cp-badges">
-							</div>
-		
-		
-		<!-- Wishlist -->
-				
-		<div class="cp-image-container">
-			<figure class="cp-image lloader">
-				<a href="https://www.bigbang.si/apple-watch-se-gps-40mm-gold-aluminium-pink-sand-sport-band-pametna-ura-154218-izdelek-680512/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680512/thumb/mydn2vra-01-big_5f64314386b8c_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680512/thumb/mydn2vra-01-big_5f64314386b8c_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680512_0" alt="" />
-				</a>
-			</figure>
-
-					</div>
-		
-		<div class="clear cp-cnt">
-			<div class="cp-cnt-comment">
-				<!-- Rating -->
-									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680512_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
-    								<!-- Comments -->
-									<div class="cp-comment-count comments-count catalog-comment-count">
-						<a title="" href="https://www.bigbang.si/apple-watch-se-gps-40mm-gold-aluminium-pink-sand-sport-band-pametna-ura-154218-izdelek-680512/#comments_data_catalogproduct_680512_si">
-							(0)
-						</a>
-					</div>
-							</div>
-
-			<div class="cp-code" data-product_code="680512_0">680512</div>
-							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/pametne-ure/">Pametne ure</a></div>	
-						<h2 class="cp-title">
-				<a href="https://www.bigbang.si/apple-watch-se-gps-40mm-gold-aluminium-pink-sand-sport-band-pametna-ura-154218-izdelek-680512/" data-product_title="680512_0">
-											APPLE Watch SE GPS, 40mm Gold Aluminium Pink Sand Sport Band pametna ura	
-									</a>
-			</h2>
-		</div>
-
-
-					<div class="cp-price">
-					
-                    
-                    						<div class="cp-current-price" data-product_price="680512_0">309,00 €</div>
-												</div>
-		
-		<div class="available-qty">
-            									<span><strong>Na zalogi v Big Bangu</strong></span>
-							            		</div>
-			
-		<div class="cp-bottom">
-			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
-			 
-						
-			<div class="cp-btn-cnt">
-				<div class="cp-btn-cnt-col1">
-					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
-					<!-- Wishlist -->
-											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_680512_si">
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680512_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_680512_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680512_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680512_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_680512_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680512_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
-							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_680512_si wishlist-message wishlist-message-680512" style="display: none;"></span>
-						</div>
-					
-					<!-- Compare -->
-											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_680512_si" href="javascript:cmscompare.set('catalog_catalogproduct_680512_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
-        <span>
-            <small class="l1">Dodaj v primerjavo</small>
-            <small class="l2">Odstrani iz primerjave</small>
-        </span>
-        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_680512_si" style="display:none;"></span>
-    </a>
-</div>									</div>
-				
-									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('680512_0', '_tracking:index', 'simple_loader', 'simple', 3)">
-													<span>V košarico</span>
-												
-					</a>
-							</div>
-		</div>
-			</article>
-
-				<article class="clear cp" data-tracking_gtm_impression="10|680513|">
+				<article class="clear cp" data-tracking_gtm_impression="7|680513|">
         <span style="display: none;" data-product_manufacturer_title="680513_0">APPLE</span>
         <span style="display: none;" data-product_category_title="680513_0">Pametne ure</span>
         <span style="display: none;" data-product_title="680513_0">APPLE Watch SE GPS, 40mm Space Gray Aluminium Black Sport Band pametna ura</span>
@@ -2898,13 +2643,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/apple-watch-se-gps-40mm-space-gray-aluminium-black-sport-band-pametna-ura-154221-izdelek-680513/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680513/thumb/mydp2vra-01-big_5f643143b3307_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680513/thumb/mydp2vra-01-big_5f643143b3307_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680513_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/913296/thumb/2767450a61fb073947cd0da0c35e12d6aa128550954d5b4429_604f13aa0276b_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/913296/thumb/2767450a61fb073947cd0da0c35e12d6aa128550954d5b4429_604f13aa0276b_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680513_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680513_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -2968,189 +2714,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="11|680516|">
-        <span style="display: none;" data-product_manufacturer_title="680516_0">APPLE</span>
-        <span style="display: none;" data-product_category_title="680516_0">Pametne ure</span>
-        <span style="display: none;" data-product_title="680516_0">APPLE Watch Nike SE GPS, 44mm Silver Aluminium Black Nike Sport Band pametna ura</span>
-        <span style="display: none;" data-product_code="680516_0">680516</span>
-		<span style="display: none;" data-product_price="680516_0">339,00 €</span>
-
-        		
-		
-		
-				
-		
-					<div class="cp-badges">
-							</div>
-		
-		
-		<!-- Wishlist -->
-				
-		<div class="cp-image-container">
-			<figure class="cp-image lloader">
-				<a href="https://www.bigbang.si/apple-watch-nike-se-gps-44mm-silver-aluminium-black-nike-sport-band-pametna-ura-154222-izdelek-680516/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680516/thumb/myyh2vra-01-big_5f643143e046c_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680516/thumb/myyh2vra-01-big_5f643143e046c_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680516_0" alt="" />
-				</a>
-			</figure>
-
-					</div>
-		
-		<div class="clear cp-cnt">
-			<div class="cp-cnt-comment">
-				<!-- Rating -->
-									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680516_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
-    								<!-- Comments -->
-									<div class="cp-comment-count comments-count catalog-comment-count">
-						<a title="" href="https://www.bigbang.si/apple-watch-nike-se-gps-44mm-silver-aluminium-black-nike-sport-band-pametna-ura-154222-izdelek-680516/#comments_data_catalogproduct_680516_si">
-							(0)
-						</a>
-					</div>
-							</div>
-
-			<div class="cp-code" data-product_code="680516_0">680516</div>
-							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/pametne-ure/">Pametne ure</a></div>	
-						<h2 class="cp-title">
-				<a href="https://www.bigbang.si/apple-watch-nike-se-gps-44mm-silver-aluminium-black-nike-sport-band-pametna-ura-154222-izdelek-680516/" data-product_title="680516_0">
-											APPLE Watch Nike SE GPS, 44mm Silver Aluminium Black Nike Sport Band pametna ura	
-									</a>
-			</h2>
-		</div>
-
-
-					<div class="cp-price">
-					
-                    
-                    						<div class="cp-current-price" data-product_price="680516_0">339,00 €</div>
-												</div>
-		
-		<div class="available-qty">
-            									<span><strong>Na zalogi v Big Bangu</strong></span>
-							            		</div>
-			
-		<div class="cp-bottom">
-			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
-			 
-						
-			<div class="cp-btn-cnt">
-				<div class="cp-btn-cnt-col1">
-					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
-					<!-- Wishlist -->
-											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_680516_si">
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680516_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_680516_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680516_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680516_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_680516_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680516_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
-							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_680516_si wishlist-message wishlist-message-680516" style="display: none;"></span>
-						</div>
-					
-					<!-- Compare -->
-											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_680516_si" href="javascript:cmscompare.set('catalog_catalogproduct_680516_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
-        <span>
-            <small class="l1">Dodaj v primerjavo</small>
-            <small class="l2">Odstrani iz primerjave</small>
-        </span>
-        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_680516_si" style="display:none;"></span>
-    </a>
-</div>									</div>
-				
-									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('680516_0', '_tracking:index', 'simple_loader', 'simple', 3)">
-													<span>V košarico</span>
-												
-					</a>
-							</div>
-		</div>
-			</article>
-
-				<article class="clear cp" data-tracking_gtm_impression="12|680517|">
-        <span style="display: none;" data-product_manufacturer_title="680517_0">APPLE</span>
-        <span style="display: none;" data-product_category_title="680517_0">Pametne ure</span>
-        <span style="display: none;" data-product_title="680517_0">APPLE Watch Nike SE GPS, 44mm Space Gray Aluminium Black Nike Sport Band pametna ura</span>
-        <span style="display: none;" data-product_code="680517_0">680517</span>
-		<span style="display: none;" data-product_price="680517_0">339,00 €</span>
-
-        		
-		
-		
-				
-		
-					<div class="cp-badges">
-							</div>
-		
-		
-		<!-- Wishlist -->
-				
-		<div class="cp-image-container">
-			<figure class="cp-image lloader">
-				<a href="https://www.bigbang.si/apple-watch-nike-se-gps-44mm-space-gray-aluminium-black-nike-sport-band-pametna-ura-154230-izdelek-680517/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680517/thumb/myyk2vra-01-big_5f643144195d5_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680517/thumb/myyk2vra-01-big_5f643144195d5_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680517_0" alt="" />
-				</a>
-			</figure>
-
-					</div>
-		
-		<div class="clear cp-cnt">
-			<div class="cp-cnt-comment">
-				<!-- Rating -->
-									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680517_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
-    								<!-- Comments -->
-									<div class="cp-comment-count comments-count catalog-comment-count">
-						<a title="" href="https://www.bigbang.si/apple-watch-nike-se-gps-44mm-space-gray-aluminium-black-nike-sport-band-pametna-ura-154230-izdelek-680517/#comments_data_catalogproduct_680517_si">
-							(0)
-						</a>
-					</div>
-							</div>
-
-			<div class="cp-code" data-product_code="680517_0">680517</div>
-							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/pametne-ure/">Pametne ure</a></div>	
-						<h2 class="cp-title">
-				<a href="https://www.bigbang.si/apple-watch-nike-se-gps-44mm-space-gray-aluminium-black-nike-sport-band-pametna-ura-154230-izdelek-680517/" data-product_title="680517_0">
-											APPLE Watch Nike SE GPS, 44mm Space Gray Aluminium Black Nike Sport Band pametna ura	
-									</a>
-			</h2>
-		</div>
-
-
-					<div class="cp-price">
-					
-                    
-                    						<div class="cp-current-price" data-product_price="680517_0">339,00 €</div>
-												</div>
-		
-		<div class="available-qty">
-            									<span><strong>Na zalogi v Big Bangu</strong></span>
-							            		</div>
-			
-		<div class="cp-bottom">
-			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
-			 
-						
-			<div class="cp-btn-cnt">
-				<div class="cp-btn-cnt-col1">
-					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
-					<!-- Wishlist -->
-											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_680517_si">
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680517_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_680517_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680517_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680517_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_680517_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680517_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
-							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_680517_si wishlist-message wishlist-message-680517" style="display: none;"></span>
-						</div>
-					
-					<!-- Compare -->
-											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_680517_si" href="javascript:cmscompare.set('catalog_catalogproduct_680517_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
-        <span>
-            <small class="l1">Dodaj v primerjavo</small>
-            <small class="l2">Odstrani iz primerjave</small>
-        </span>
-        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_680517_si" style="display:none;"></span>
-    </a>
-</div>									</div>
-				
-									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('680517_0', '_tracking:index', 'simple_loader', 'simple', 3)">
-													<span>V košarico</span>
-												
-					</a>
-							</div>
-		</div>
-			</article>
-
-				<article class="clear cp" data-tracking_gtm_impression="13|680504|">
+				<article class="clear cp" data-tracking_gtm_impression="8|680504|">
         <span style="display: none;" data-product_manufacturer_title="680504_0">APPLE</span>
         <span style="display: none;" data-product_category_title="680504_0">Pametne ure</span>
         <span style="display: none;" data-product_title="680504_0">APPLE Watch S6 GPS, 44mm Silver Aluminium White Sport band pametna ura</span>
@@ -3171,13 +2735,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/apple-watch-s6-gps-44mm-silver-aluminium-white-sport-band-pametna-ura-154201-izdelek-680504/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680504/thumb/mg283vra-01-big-2_5f6431420ab46_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680504/thumb/mg283vra-01-big-2_5f6431420ab46_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680504_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680504/thumb/c4cd9185eab04b62bdc579589e5df357c42e4becc6f0578df0_604f31d1dc11c_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/680504/thumb/c4cd9185eab04b62bdc579589e5df357c42e4becc6f0578df0_604f31d1dc11c_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680504_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680504_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -3241,7 +2806,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="14|680505|">
+				<article class="clear cp" data-tracking_gtm_impression="9|680505|">
         <span style="display: none;" data-product_manufacturer_title="680505_0">APPLE</span>
         <span style="display: none;" data-product_category_title="680505_0">Pametne ure</span>
         <span style="display: none;" data-product_title="680505_0">APPLE Watch S6 GPS, 44mm Gold Aluminium Pink Sand Sport Band - Regular pametna ura</span>
@@ -3262,13 +2827,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/apple-watch-s6-gps-44mm-gold-aluminium-pink-sand-sport-band-regular-pametna-ura-154204-izdelek-680505/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680505/thumb/m00e3vra-01-big_5f643142399c5_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680505/thumb/m00e3vra-01-big_5f643142399c5_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680505_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680505/thumb/bed0af93b40a6423617be5b65fa2defe80f34e55228b6d9892_604f31d1b6493_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/680505/thumb/bed0af93b40a6423617be5b65fa2defe80f34e55228b6d9892_604f31d1b6493_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680505_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680505_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -3332,98 +2898,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="15|680507|">
-        <span style="display: none;" data-product_manufacturer_title="680507_0">APPLE</span>
-        <span style="display: none;" data-product_category_title="680507_0">Pametne ure</span>
-        <span style="display: none;" data-product_title="680507_0">APPLE Watch S6 GPS, 44mm Blue Aluminium Deep Navy Sport Band pametna ura</span>
-        <span style="display: none;" data-product_code="680507_0">680507</span>
-		<span style="display: none;" data-product_price="680507_0">469,00 €</span>
-
-        		
-		
-		
-				
-		
-					<div class="cp-badges">
-							</div>
-		
-		
-		<!-- Wishlist -->
-				
-		<div class="cp-image-container">
-			<figure class="cp-image lloader">
-				<a href="https://www.bigbang.si/apple-watch-s6-gps-44mm-blue-aluminium-deep-navy-sport-band-pametna-ura-154206-izdelek-680507/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680507/thumb/m00j3vra-01-big_5f64314294a60_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680507/thumb/m00j3vra-01-big_5f64314294a60_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680507_0" alt="" />
-				</a>
-			</figure>
-
-					</div>
-		
-		<div class="clear cp-cnt">
-			<div class="cp-cnt-comment">
-				<!-- Rating -->
-									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680507_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
-    								<!-- Comments -->
-									<div class="cp-comment-count comments-count catalog-comment-count">
-						<a title="" href="https://www.bigbang.si/apple-watch-s6-gps-44mm-blue-aluminium-deep-navy-sport-band-pametna-ura-154206-izdelek-680507/#comments_data_catalogproduct_680507_si">
-							(0)
-						</a>
-					</div>
-							</div>
-
-			<div class="cp-code" data-product_code="680507_0">680507</div>
-							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/pametne-ure/">Pametne ure</a></div>	
-						<h2 class="cp-title">
-				<a href="https://www.bigbang.si/apple-watch-s6-gps-44mm-blue-aluminium-deep-navy-sport-band-pametna-ura-154206-izdelek-680507/" data-product_title="680507_0">
-											APPLE Watch S6 GPS, 44mm Blue Aluminium Deep Navy Sport Band pametna ura	
-									</a>
-			</h2>
-		</div>
-
-
-					<div class="cp-price">
-					
-                    
-                    						<div class="cp-current-price" data-product_price="680507_0">469,00 €</div>
-												</div>
-		
-		<div class="available-qty">
-            									<span><strong>Na zalogi v Big Bangu</strong></span>
-							            		</div>
-			
-		<div class="cp-bottom">
-			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
-			 
-						
-			<div class="cp-btn-cnt">
-				<div class="cp-btn-cnt-col1">
-					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
-					<!-- Wishlist -->
-											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_680507_si">
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680507_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_680507_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680507_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680507_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_680507_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680507_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
-							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_680507_si wishlist-message wishlist-message-680507" style="display: none;"></span>
-						</div>
-					
-					<!-- Compare -->
-											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_680507_si" href="javascript:cmscompare.set('catalog_catalogproduct_680507_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
-        <span>
-            <small class="l1">Dodaj v primerjavo</small>
-            <small class="l2">Odstrani iz primerjave</small>
-        </span>
-        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_680507_si" style="display:none;"></span>
-    </a>
-</div>									</div>
-				
-									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('680507_0', '_tracking:index', 'simple_loader', 'simple', 3)">
-													<span>V košarico</span>
-												
-					</a>
-							</div>
-		</div>
-			</article>
-
-				<article class="clear cp" data-tracking_gtm_impression="16|680508|">
+				<article class="clear cp" data-tracking_gtm_impression="10|680508|">
         <span style="display: none;" data-product_manufacturer_title="680508_0">APPLE</span>
         <span style="display: none;" data-product_category_title="680508_0">Pametne ure</span>
         <span style="display: none;" data-product_title="680508_0">APPLE Watch S6 GPS, 44mm (RED) Aluminium Sport Band - Regular pametna ura</span>
@@ -3444,13 +2919,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/apple-watch-s6-gps-44mm-red-aluminium-sport-band-regular-pametna-ura-154207-izdelek-680508/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680508/thumb/m00m3vra-01-big_5f643142c2129_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680508/thumb/m00m3vra-01-big_5f643142c2129_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680508_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680508/thumb/b172b47ae219b7b09a4662b61c14f6bcf878ed5db928fbf3a0_604f31d144ecc_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/680508/thumb/b172b47ae219b7b09a4662b61c14f6bcf878ed5db928fbf3a0_604f31d144ecc_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680508_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680508_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -3514,98 +2990,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="17|680514|">
-        <span style="display: none;" data-product_manufacturer_title="680514_0">APPLE</span>
-        <span style="display: none;" data-product_category_title="680514_0">Pametne ure</span>
-        <span style="display: none;" data-product_title="680514_0">APPLE Watch Nike SE GPS, 40mm Silver Aluminium Black Nike Sport Band pametna ura</span>
-        <span style="display: none;" data-product_code="680514_0">680514</span>
-		<span style="display: none;" data-product_price="680514_0">309,00 €</span>
-
-        		
-		
-		
-				
-		
-					<div class="cp-badges">
-							</div>
-		
-		
-		<!-- Wishlist -->
-				
-		<div class="cp-image-container">
-			<figure class="cp-image lloader">
-				<a href="https://www.bigbang.si/apple-watch-nike-se-gps-40mm-silver-aluminium-black-nike-sport-band-pametna-ura-154213-izdelek-680514/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680514/thumb/myyd2bsa-01-big_5f643142eee14_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680514/thumb/myyd2bsa-01-big_5f643142eee14_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680514_0" alt="" />
-				</a>
-			</figure>
-
-					</div>
-		
-		<div class="clear cp-cnt">
-			<div class="cp-cnt-comment">
-				<!-- Rating -->
-									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680514_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
-    								<!-- Comments -->
-									<div class="cp-comment-count comments-count catalog-comment-count">
-						<a title="" href="https://www.bigbang.si/apple-watch-nike-se-gps-40mm-silver-aluminium-black-nike-sport-band-pametna-ura-154213-izdelek-680514/#comments_data_catalogproduct_680514_si">
-							(0)
-						</a>
-					</div>
-							</div>
-
-			<div class="cp-code" data-product_code="680514_0">680514</div>
-							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/pametne-ure/">Pametne ure</a></div>	
-						<h2 class="cp-title">
-				<a href="https://www.bigbang.si/apple-watch-nike-se-gps-40mm-silver-aluminium-black-nike-sport-band-pametna-ura-154213-izdelek-680514/" data-product_title="680514_0">
-											APPLE Watch Nike SE GPS, 40mm Silver Aluminium Black Nike Sport Band pametna ura	
-									</a>
-			</h2>
-		</div>
-
-
-					<div class="cp-price">
-					
-                    
-                    						<div class="cp-current-price" data-product_price="680514_0">309,00 €</div>
-												</div>
-		
-		<div class="available-qty">
-            									<span><strong>Na zalogi v Big Bangu</strong></span>
-							            		</div>
-			
-		<div class="cp-bottom">
-			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
-			 
-						
-			<div class="cp-btn-cnt">
-				<div class="cp-btn-cnt-col1">
-					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
-					<!-- Wishlist -->
-											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_680514_si">
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680514_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_680514_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680514_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680514_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_680514_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680514_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
-							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_680514_si wishlist-message wishlist-message-680514" style="display: none;"></span>
-						</div>
-					
-					<!-- Compare -->
-											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_680514_si" href="javascript:cmscompare.set('catalog_catalogproduct_680514_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
-        <span>
-            <small class="l1">Dodaj v primerjavo</small>
-            <small class="l2">Odstrani iz primerjave</small>
-        </span>
-        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_680514_si" style="display:none;"></span>
-    </a>
-</div>									</div>
-				
-									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('680514_0', '_tracking:index', 'simple_loader', 'simple', 3)">
-													<span>V košarico</span>
-												
-					</a>
-							</div>
-		</div>
-			</article>
-
-				<article class="clear cp" data-tracking_gtm_impression="18|680499|">
+				<article class="clear cp" data-tracking_gtm_impression="11|680499|">
         <span style="display: none;" data-product_manufacturer_title="680499_0">APPLE</span>
         <span style="display: none;" data-product_category_title="680499_0">Pametne ure</span>
         <span style="display: none;" data-product_title="680499_0">APPLE Watch Nike S6 GPS, 40mm Space Gray Aluminium Case with Anthracite/Black Nike Sport Band - Regular pametna ura</span>
@@ -3626,13 +3011,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/apple-watch-nike-s6-gps-40mm-space-gray-aluminium-case-with-anthracite-black-nike-sport-band-regular-pametna-ura-154194-izdelek-680499/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680499/thumb/m00x3vra-01-big_5f64314171fb0_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680499/thumb/m00x3vra-01-big_5f64314171fb0_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680499_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680499/thumb/3aa9c96e241be2660777f3bd0f8b8654a9d2cbc39030cd93d8_604f31d26b85d_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/680499/thumb/3aa9c96e241be2660777f3bd0f8b8654a9d2cbc39030cd93d8_604f31d26b85d_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680499_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680499_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -3696,7 +3082,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="19|680502|">
+				<article class="clear cp" data-tracking_gtm_impression="12|680502|">
         <span style="display: none;" data-product_manufacturer_title="680502_0">APPLE</span>
         <span style="display: none;" data-product_category_title="680502_0">Pametne ure</span>
         <span style="display: none;" data-product_title="680502_0">APPLE Watch S6 GPS, 40mm Blue Aluminium Case Navy Sport Band pametna ura</span>
@@ -3717,13 +3103,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/apple-watch-s6-gps-40mm-blue-aluminium-case-navy-sport-band-pametna-ura-154189-izdelek-680502/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680502/thumb/mg143vra-01-big_5f643140d6b4d_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680502/thumb/mg143vra-01-big_5f643140d6b4d_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680502_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680502/thumb/3c28b1c3c645b41f57744c93b2a798c589a01b6651cb7d4d24_604f31d2b32ad_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/680502/thumb/3c28b1c3c645b41f57744c93b2a798c589a01b6651cb7d4d24_604f31d2b32ad_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680502_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680502_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -3787,98 +3174,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="20|680510|">
-        <span style="display: none;" data-product_manufacturer_title="680510_0">APPLE</span>
-        <span style="display: none;" data-product_category_title="680510_0">Pametne ure</span>
-        <span style="display: none;" data-product_title="680510_0">APPLE Watch Nike S6 GPS, 44mm Silver Aluminium Black Nike Sport Band pametna ura</span>
-        <span style="display: none;" data-product_code="680510_0">680510</span>
-		<span style="display: none;" data-product_price="680510_0">469,00 €</span>
-
-        		
-		
-		
-				
-		
-					<div class="cp-badges">
-							</div>
-		
-		
-		<!-- Wishlist -->
-				
-		<div class="cp-image-container">
-			<figure class="cp-image lloader">
-				<a href="https://www.bigbang.si/apple-watch-nike-s6-gps-44mm-silver-aluminium-black-nike-sport-band-pametna-ura-154200-izdelek-680510/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680510/thumb/ura4_5f64787aa11b0_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680510/thumb/ura4_5f64787aa11b0_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680510_0" alt="" />
-				</a>
-			</figure>
-
-					</div>
-		
-		<div class="clear cp-cnt">
-			<div class="cp-cnt-comment">
-				<!-- Rating -->
-									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680510_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
-    								<!-- Comments -->
-									<div class="cp-comment-count comments-count catalog-comment-count">
-						<a title="" href="https://www.bigbang.si/apple-watch-nike-s6-gps-44mm-silver-aluminium-black-nike-sport-band-pametna-ura-154200-izdelek-680510/#comments_data_catalogproduct_680510_si">
-							(0)
-						</a>
-					</div>
-							</div>
-
-			<div class="cp-code" data-product_code="680510_0">680510</div>
-							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/pametne-ure/">Pametne ure</a></div>	
-						<h2 class="cp-title">
-				<a href="https://www.bigbang.si/apple-watch-nike-s6-gps-44mm-silver-aluminium-black-nike-sport-band-pametna-ura-154200-izdelek-680510/" data-product_title="680510_0">
-											APPLE Watch Nike S6 GPS, 44mm Silver Aluminium Black Nike Sport Band pametna ura	
-									</a>
-			</h2>
-		</div>
-
-
-					<div class="cp-price">
-					
-                    
-                    						<div class="cp-current-price" data-product_price="680510_0">469,00 €</div>
-												</div>
-		
-		<div class="available-qty">
-            									<span><strong>Na zalogi v Big Bangu</strong></span>
-							            		</div>
-			
-		<div class="cp-bottom">
-			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
-			 
-						
-			<div class="cp-btn-cnt">
-				<div class="cp-btn-cnt-col1">
-					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
-					<!-- Wishlist -->
-											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_680510_si">
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680510_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_680510_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680510_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
-							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680510_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_680510_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680510_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
-							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_680510_si wishlist-message wishlist-message-680510" style="display: none;"></span>
-						</div>
-					
-					<!-- Compare -->
-											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_680510_si" href="javascript:cmscompare.set('catalog_catalogproduct_680510_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
-        <span>
-            <small class="l1">Dodaj v primerjavo</small>
-            <small class="l2">Odstrani iz primerjave</small>
-        </span>
-        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_680510_si" style="display:none;"></span>
-    </a>
-</div>									</div>
-				
-									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('680510_0', '_tracking:index', 'simple_loader', 'simple', 3)">
-													<span>V košarico</span>
-												
-					</a>
-							</div>
-		</div>
-			</article>
-
-				<article class="clear cp" data-tracking_gtm_impression="21|680500|">
+				<article class="clear cp" data-tracking_gtm_impression="13|680500|">
         <span style="display: none;" data-product_manufacturer_title="680500_0">APPLE</span>
         <span style="display: none;" data-product_category_title="680500_0">Pametne ure</span>
         <span style="display: none;" data-product_title="680500_0">APPLE Watch S6 GPS, 40mm Gold Aluminium Case pametna ura</span>
@@ -3899,13 +3195,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/apple-watch-s6-gps-40mm-gold-aluminium-case-pametna-ura-154185-izdelek-680500/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680500/thumb/mg123vra-01-big_5f6431407d898_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680500/thumb/mg123vra-01-big_5f6431407d898_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680500_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680500/thumb/26e4d8cacdf73a920c1f53f8aa873473f4517f1df0ebba9113_604f31d2d7bf4_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/680500/thumb/26e4d8cacdf73a920c1f53f8aa873473f4517f1df0ebba9113_604f31d2d7bf4_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680500_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680500_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -3969,7 +3266,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="22|680501|">
+				<article class="clear cp" data-tracking_gtm_impression="14|680501|">
         <span style="display: none;" data-product_manufacturer_title="680501_0">APPLE</span>
         <span style="display: none;" data-product_category_title="680501_0">Pametne ure</span>
         <span style="display: none;" data-product_title="680501_0">APPLE Watch S6 GPS, 40mm Space Gray Aluminium Case with Black Sport Band - Regular pametna ura</span>
@@ -3990,13 +3287,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/apple-watch-s6-gps-40mm-space-gray-aluminium-case-with-black-sport-band-regular-pametna-ura-154186-izdelek-680501/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680501/thumb/mg133vra-01-big_5f643140a98a4_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680501/thumb/mg133vra-01-big_5f643140a98a4_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680501_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/913297/thumb/32b35c18d05c8fb2f5147e9ed5f9455a1b8477f4e637bdc3a0_604f13a9d2a1_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/913297/thumb/32b35c18d05c8fb2f5147e9ed5f9455a1b8477f4e637bdc3a0_604f13a9d2a1_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680501_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680501_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -4060,7 +3358,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="23|680497|">
+				<article class="clear cp" data-tracking_gtm_impression="15|680497|">
         <span style="display: none;" data-product_manufacturer_title="680497_0">APPLE</span>
         <span style="display: none;" data-product_category_title="680497_0">Pametne ure</span>
         <span style="display: none;" data-product_title="680497_0">APPLE Watch S6 GPS, 40mm (RED) Aluminium pametna ura</span>
@@ -4081,13 +3379,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/apple-watch-s6-gps-40mm-red-aluminium-pametna-ura-154131-izdelek-680497/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680497/thumb/m00a3vra-01-big_5f64313e65267_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/680497/thumb/m00a3vra-01-big_5f64313e65267_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680497_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/913298/thumb/a3ba8271ad52b3089657d6827107413765e10dd59e68e3ea33_604f13a9aad88_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/913298/thumb/a3ba8271ad52b3089657d6827107413765e10dd59e68e3ea33_604f13a9aad88_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680497_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680497_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -4151,7 +3450,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="24|663077|">
+				<article class="clear cp" data-tracking_gtm_impression="16|663077|">
         <span style="display: none;" data-product_manufacturer_title="663077_0">PANZERGLASS</span>
         <span style="display: none;" data-product_category_title="663077_0">Dodatki za nošenčke</span>
         <span style="display: none;" data-product_title="663077_0">PANZERGLASS Premium Pro Apple Watch 4/5 (40 mm) Black Full silicone zaščitno steklo</span>
@@ -4172,13 +3471,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/panzerglass-premium-pro-apple-watch-4-5-40-mm-black-full-silicone-zascitno-steklo-95601-izdelek-663077/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/663077/thumb/image-1-7_5e3b9ddb636e1_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/663077/thumb/image-1-7_5e3b9ddb636e1_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="663077_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/663077/thumb/310e904c1a275763cd36831328d7e7a07657459b8617340448_604f3b463f1da_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/663077/thumb/310e904c1a275763cd36831328d7e7a07657459b8617340448_604f3b463f1da_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="663077_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_663077_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -4242,7 +3542,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="25|663078|">
+				<article class="clear cp" data-tracking_gtm_impression="17|663078|">
         <span style="display: none;" data-product_manufacturer_title="663078_0">PANZERGLASS</span>
         <span style="display: none;" data-product_category_title="663078_0">Dodatki za nošenčke</span>
         <span style="display: none;" data-product_title="663078_0">PANZERGLASS Premium Pro Apple Watch 4/5 (44 mm) Black Full silicone zaščitno steklo</span>
@@ -4263,13 +3563,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/panzerglass-premium-pro-apple-watch-4-5-44-mm-black-full-silicone-zascitno-steklo-95602-izdelek-663078/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/663078/thumb/44_5e3b9ddb8fd62_285x285r.jpg"  data-original="https://www.bigbang.si/upload/catalog/product/663078/thumb/44_5e3b9ddb8fd62_285x285r.jpg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="663078_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/663078/thumb/351bb9ccb62f0359e1409f40e71f9314d39f81b1db2478c023_604f3b461645a_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/663078/thumb/351bb9ccb62f0359e1409f40e71f9314d39f81b1db2478c023_604f3b461645a_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="663078_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_663078_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -4333,7 +3634,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="26|634159|">
+				<article class="clear cp" data-tracking_gtm_impression="18|634159|">
         <span style="display: none;" data-product_manufacturer_title="634159_0">UGREEN</span>
         <span style="display: none;" data-product_category_title="634159_0">Prenosne baterije, polnilniki in kabli</span>
         <span style="display: none;" data-product_title="634159_0">UGREEN brezžični polnilec za Apple Watch</span>
@@ -4354,13 +3655,14 @@
 		<div class="cp-image-container">
 			<figure class="cp-image lloader">
 				<a href="https://www.bigbang.si/ugreen-brezzicni-polnilec-za-apple-watch-77489-izdelek-634159/">
-					<img data-lazy="https://www.bigbang.si/upload/catalog/product/634159/thumb/60708-1_5dcd7af5a8bf4_285x285r.png"  data-original="https://www.bigbang.si/upload/catalog/product/634159/thumb/60708-1_5dcd7af5a8bf4_285x285r.png" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="634159_0" alt="" />
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/634159/thumb/852ce60ba6a788d0cf465db27801a713ecaeb32bdad5e37b6a_604f282d591ac_285x285r.png"  data-original="https://www.bigbang.si/upload/catalog/product/634159/thumb/852ce60ba6a788d0cf465db27801a713ecaeb32bdad5e37b6a_604f282d591ac_285x285r.png" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="634159_0" alt="" />
 				</a>
 			</figure>
 
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_634159_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -4424,7 +3726,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="27|622792|">
+				<article class="clear cp" data-tracking_gtm_impression="19|622792|">
         <span style="display: none;" data-product_manufacturer_title="622792_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622792_0">Pametne ure</span>
         <span style="display: none;" data-product_title="622792_0">APPLE Watch Series 5 40mm Silver pametna ura</span>
@@ -4452,6 +3754,7 @@
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_622792_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -4515,7 +3818,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="28|622794|">
+				<article class="clear cp" data-tracking_gtm_impression="20|622794|">
         <span style="display: none;" data-product_manufacturer_title="622794_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622794_0">Pametne ure</span>
         <span style="display: none;" data-product_title="622794_0">APPLE Watch Series 5 40mm Space Grey pametna ura</span>
@@ -4543,6 +3846,7 @@
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_622794_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -4606,7 +3910,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="29|622795|">
+				<article class="clear cp" data-tracking_gtm_impression="21|622795|">
         <span style="display: none;" data-product_manufacturer_title="622795_0">APPLE</span>
         <span style="display: none;" data-product_category_title="622795_0">Pametne ure</span>
         <span style="display: none;" data-product_title="622795_0">APPLE Watch Series 5 44mm Silver pametna ura</span>
@@ -4634,6 +3938,7 @@
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_622795_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -4697,7 +4002,7 @@
 		</div>
 			</article>
 
-				<article class="clear cp" data-tracking_gtm_impression="30|641345|">
+				<article class="clear cp" data-tracking_gtm_impression="22|641345|">
         <span style="display: none;" data-product_manufacturer_title="641345_0">SPIGEN</span>
         <span style="display: none;" data-product_category_title="641345_0">Dodatki za nošenčke</span>
         <span style="display: none;" data-product_title="641345_0">SPIGEN silikonski pašček za Apple Watch 4/5 40mm bel</span>
@@ -4730,6 +4035,7 @@
 					</div>
 		
 		<div class="clear cp-cnt">
+						
 			<div class="cp-cnt-comment">
 				<!-- Rating -->
 									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_641345_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
@@ -4793,10 +4099,760 @@
 		</div>
 			</article>
 
+				<article class="clear cp" data-tracking_gtm_impression="23|641367|">
+        <span style="display: none;" data-product_manufacturer_title="641367_0">SPIGEN</span>
+        <span style="display: none;" data-product_category_title="641367_0">Dodatki za nošenčke</span>
+        <span style="display: none;" data-product_title="641367_0">SPIGEN silikonski pašček za Apple Watch 4/5 40mm rose gold</span>
+        <span style="display: none;" data-product_code="641367_0">641367</span>
+		<span style="display: none;" data-product_price="641367_0">29,99 €</span>
+
+        		
+		
+		
+				
+		
+					<div class="cp-badges">
+							</div>
+		
+		
+		<!-- Wishlist -->
+				
+		<div class="cp-image-container">
+			<figure class="cp-image lloader">
+				<a href="https://www.bigbang.si/spigen-silikonski-pascek-za-apple-watch-4-5-40mm-rose-gold-93704-izdelek-641367/">
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/641367/thumb/0972c9617aa2e182f935dc9a6c32c9a9f13e41e41831228166_604e12afda5d_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/641367/thumb/0972c9617aa2e182f935dc9a6c32c9a9f13e41e41831228166_604e12afda5d_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="641367_0" alt="" />
+				</a>
+			</figure>
+
+					</div>
+		
+		<div class="clear cp-cnt">
+						
+			<div class="cp-cnt-comment">
+				<!-- Rating -->
+									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_641367_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
+    								<!-- Comments -->
+									<div class="cp-comment-count comments-count catalog-comment-count">
+						<a title="" href="https://www.bigbang.si/spigen-silikonski-pascek-za-apple-watch-4-5-40mm-rose-gold-93704-izdelek-641367/#comments_data_catalogproduct_641367_si">
+							(0)
+						</a>
+					</div>
+							</div>
+
+			<div class="cp-code" data-product_code="641367_0">641367</div>
+							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/dodatki-za-nosencke/">Dodatki za nošenčke</a></div>	
+						<h2 class="cp-title">
+				<a href="https://www.bigbang.si/spigen-silikonski-pascek-za-apple-watch-4-5-40mm-rose-gold-93704-izdelek-641367/" data-product_title="641367_0">
+											SPIGEN silikonski pašček za Apple Watch 4/5 40mm rose gold	
+									</a>
+			</h2>
+		</div>
+
+
+					<div class="cp-price">
+					
+                    
+                    						<div class="cp-current-price" data-product_price="641367_0">29,99 €</div>
+												</div>
+		
+		<div class="available-qty">
+            									<span><strong>Na zalogi v Big Bangu</strong></span>
+							            		</div>
+			
+		<div class="cp-bottom">
+			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
+			 
+						
+			<div class="cp-btn-cnt">
+				<div class="cp-btn-cnt-col1">
+					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
+					<!-- Wishlist -->
+											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_641367_si">
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_641367_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_641367_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_641367_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_641367_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_641367_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_641367_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
+							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_641367_si wishlist-message wishlist-message-641367" style="display: none;"></span>
+						</div>
+					
+					<!-- Compare -->
+											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_641367_si" href="javascript:cmscompare.set('catalog_catalogproduct_641367_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
+        <span>
+            <small class="l1">Dodaj v primerjavo</small>
+            <small class="l2">Odstrani iz primerjave</small>
+        </span>
+        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_641367_si" style="display:none;"></span>
+    </a>
+</div>									</div>
+				
+									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('641367_0', '_tracking:index', 'simple_loader', 'simple', 3)">
+													<span>V košarico</span>
+												
+					</a>
+							</div>
+		</div>
+			</article>
+
+				<article class="clear cp" data-tracking_gtm_impression="24|641378|">
+        <span style="display: none;" data-product_manufacturer_title="641378_0">SPIGEN</span>
+        <span style="display: none;" data-product_category_title="641378_0">Dodatki za nošenčke</span>
+        <span style="display: none;" data-product_title="641378_0">SPIGEN silikonski pašček za Apple Watch 4/5 40mm črn</span>
+        <span style="display: none;" data-product_code="641378_0">641378</span>
+		<span style="display: none;" data-product_price="641378_0">29,99 €</span>
+
+        		
+		
+		
+				
+		
+					<div class="cp-badges">
+							</div>
+		
+		
+		<!-- Wishlist -->
+				
+		<div class="cp-image-container">
+			<figure class="cp-image lloader">
+				<a href="https://www.bigbang.si/spigen-silikonski-pascek-za-apple-watch-4-5-40mm-crn-93707-izdelek-641378/">
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/641378/thumb/aa59687bb495278df602b360e4d2fb8bad4c28619f9c3db388_604e12b0154ad_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/641378/thumb/aa59687bb495278df602b360e4d2fb8bad4c28619f9c3db388_604e12b0154ad_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="641378_0" alt="" />
+				</a>
+			</figure>
+
+							<div class="cp-badges-special">
+																		<div class="cp-badge-special">
+								<span>																												<img  src="https://www.bigbang.si/upload/catalog/badges2/thumb/120638_101bfde62997ad0948d9d48646fecb8c_40x40r.png" width="40" height="40"  alt="" />
+																	</span>							</div>
+															</div>
+					</div>
+		
+		<div class="clear cp-cnt">
+						
+			<div class="cp-cnt-comment">
+				<!-- Rating -->
+									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_641378_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
+    								<!-- Comments -->
+									<div class="cp-comment-count comments-count catalog-comment-count">
+						<a title="" href="https://www.bigbang.si/spigen-silikonski-pascek-za-apple-watch-4-5-40mm-crn-93707-izdelek-641378/#comments_data_catalogproduct_641378_si">
+							(0)
+						</a>
+					</div>
+							</div>
+
+			<div class="cp-code" data-product_code="641378_0">641378</div>
+							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/dodatki-za-nosencke/">Dodatki za nošenčke</a></div>	
+						<h2 class="cp-title">
+				<a href="https://www.bigbang.si/spigen-silikonski-pascek-za-apple-watch-4-5-40mm-crn-93707-izdelek-641378/" data-product_title="641378_0">
+											SPIGEN silikonski pašček za Apple Watch 4/5 40mm črn	
+									</a>
+			</h2>
+		</div>
+
+
+					<div class="cp-price">
+					
+                    
+                    						<div class="cp-current-price" data-product_price="641378_0">29,99 €</div>
+												</div>
+		
+		<div class="available-qty">
+            									<span><strong>Na zalogi v Big Bangu</strong></span>
+							            		</div>
+			
+		<div class="cp-bottom">
+			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
+			 
+						
+			<div class="cp-btn-cnt">
+				<div class="cp-btn-cnt-col1">
+					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
+					<!-- Wishlist -->
+											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_641378_si">
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_641378_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_641378_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_641378_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_641378_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_641378_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_641378_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
+							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_641378_si wishlist-message wishlist-message-641378" style="display: none;"></span>
+						</div>
+					
+					<!-- Compare -->
+											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_641378_si" href="javascript:cmscompare.set('catalog_catalogproduct_641378_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
+        <span>
+            <small class="l1">Dodaj v primerjavo</small>
+            <small class="l2">Odstrani iz primerjave</small>
+        </span>
+        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_641378_si" style="display:none;"></span>
+    </a>
+</div>									</div>
+				
+									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('641378_0', '_tracking:index', 'simple_loader', 'simple', 3)">
+													<span>V košarico</span>
+												
+					</a>
+							</div>
+		</div>
+			</article>
+
+				<article class="clear cp" data-tracking_gtm_impression="25|641387|">
+        <span style="display: none;" data-product_manufacturer_title="641387_0">SPIGEN</span>
+        <span style="display: none;" data-product_category_title="641387_0">Dodatki za nošenčke</span>
+        <span style="display: none;" data-product_title="641387_0">SPIGEN modern pašček za Apple Watch Fit 44mm črn</span>
+        <span style="display: none;" data-product_code="641387_0">641387</span>
+		<span style="display: none;" data-product_price="641387_0">39,99 €</span>
+
+        		
+		
+		
+				
+		
+					<div class="cp-badges">
+							</div>
+		
+		
+		<!-- Wishlist -->
+				
+		<div class="cp-image-container">
+			<figure class="cp-image lloader">
+				<a href="https://www.bigbang.si/spigen-modern-pascek-za-apple-watch-fit-44mm-crn-93708-izdelek-641387/">
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/641387/thumb/dfebd3774ec311d8880df7106187cb6fe01fec0aa568728c4f_604e12b046077_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/641387/thumb/dfebd3774ec311d8880df7106187cb6fe01fec0aa568728c4f_604e12b046077_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="641387_0" alt="" />
+				</a>
+			</figure>
+
+					</div>
+		
+		<div class="clear cp-cnt">
+						
+			<div class="cp-cnt-comment">
+				<!-- Rating -->
+									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_641387_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
+    								<!-- Comments -->
+									<div class="cp-comment-count comments-count catalog-comment-count">
+						<a title="" href="https://www.bigbang.si/spigen-modern-pascek-za-apple-watch-fit-44mm-crn-93708-izdelek-641387/#comments_data_catalogproduct_641387_si">
+							(0)
+						</a>
+					</div>
+							</div>
+
+			<div class="cp-code" data-product_code="641387_0">641387</div>
+							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/dodatki-za-nosencke/">Dodatki za nošenčke</a></div>	
+						<h2 class="cp-title">
+				<a href="https://www.bigbang.si/spigen-modern-pascek-za-apple-watch-fit-44mm-crn-93708-izdelek-641387/" data-product_title="641387_0">
+											SPIGEN modern pašček za Apple Watch Fit 44mm črn	
+									</a>
+			</h2>
+		</div>
+
+
+					<div class="cp-price">
+					
+                    
+                    						<div class="cp-current-price" data-product_price="641387_0">39,99 €</div>
+												</div>
+		
+		<div class="available-qty">
+            									<span><strong>Na zalogi v Big Bangu</strong></span>
+							            		</div>
+			
+		<div class="cp-bottom">
+			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
+			 
+						
+			<div class="cp-btn-cnt">
+				<div class="cp-btn-cnt-col1">
+					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
+					<!-- Wishlist -->
+											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_641387_si">
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_641387_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_641387_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_641387_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_641387_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_641387_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_641387_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
+							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_641387_si wishlist-message wishlist-message-641387" style="display: none;"></span>
+						</div>
+					
+					<!-- Compare -->
+											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_641387_si" href="javascript:cmscompare.set('catalog_catalogproduct_641387_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
+        <span>
+            <small class="l1">Dodaj v primerjavo</small>
+            <small class="l2">Odstrani iz primerjave</small>
+        </span>
+        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_641387_si" style="display:none;"></span>
+    </a>
+</div>									</div>
+				
+									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('641387_0', '_tracking:index', 'simple_loader', 'simple', 3)">
+													<span>V košarico</span>
+												
+					</a>
+							</div>
+		</div>
+			</article>
+
+				<article class="clear cp" data-tracking_gtm_impression="26|641400|">
+        <span style="display: none;" data-product_manufacturer_title="641400_0">SPIGEN</span>
+        <span style="display: none;" data-product_category_title="641400_0">Dodatki za nošenčke</span>
+        <span style="display: none;" data-product_title="641400_0">SPIGEN modern pašček za Apple Watch Fit 44mm srebrn</span>
+        <span style="display: none;" data-product_code="641400_0">641400</span>
+		<span style="display: none;" data-product_price="641400_0">39,99 €</span>
+
+        		
+		
+		
+				
+		
+					<div class="cp-badges">
+							</div>
+		
+		
+		<!-- Wishlist -->
+				
+		<div class="cp-image-container">
+			<figure class="cp-image lloader">
+				<a href="https://www.bigbang.si/spigen-modern-pascek-za-apple-watch-fit-44mm-srebrn-93709-izdelek-641400/">
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/641400/thumb/a8d2b012d884a13d4cdbe1437685195e1f9c9cffa907ec7135_604e12b078163_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/641400/thumb/a8d2b012d884a13d4cdbe1437685195e1f9c9cffa907ec7135_604e12b078163_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="641400_0" alt="" />
+				</a>
+			</figure>
+
+							<div class="cp-badges-special">
+																		<div class="cp-badge-special">
+								<span>																												<img  src="https://www.bigbang.si/upload/catalog/badges2/thumb/120638_101bfde62997ad0948d9d48646fecb8c_40x40r.png" width="40" height="40"  alt="" />
+																	</span>							</div>
+															</div>
+					</div>
+		
+		<div class="clear cp-cnt">
+						
+			<div class="cp-cnt-comment">
+				<!-- Rating -->
+									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_641400_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
+    								<!-- Comments -->
+									<div class="cp-comment-count comments-count catalog-comment-count">
+						<a title="" href="https://www.bigbang.si/spigen-modern-pascek-za-apple-watch-fit-44mm-srebrn-93709-izdelek-641400/#comments_data_catalogproduct_641400_si">
+							(0)
+						</a>
+					</div>
+							</div>
+
+			<div class="cp-code" data-product_code="641400_0">641400</div>
+							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/dodatki-za-nosencke/">Dodatki za nošenčke</a></div>	
+						<h2 class="cp-title">
+				<a href="https://www.bigbang.si/spigen-modern-pascek-za-apple-watch-fit-44mm-srebrn-93709-izdelek-641400/" data-product_title="641400_0">
+											SPIGEN modern pašček za Apple Watch Fit 44mm srebrn	
+									</a>
+			</h2>
+		</div>
+
+
+					<div class="cp-price">
+					
+                    
+                    						<div class="cp-current-price" data-product_price="641400_0">39,99 €</div>
+												</div>
+		
+		<div class="available-qty">
+            									<span><strong>Na zalogi v Big Bangu</strong></span>
+							            		</div>
+			
+		<div class="cp-bottom">
+			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
+			 
+						
+			<div class="cp-btn-cnt">
+				<div class="cp-btn-cnt-col1">
+					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
+					<!-- Wishlist -->
+											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_641400_si">
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_641400_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_641400_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_641400_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_641400_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_641400_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_641400_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
+							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_641400_si wishlist-message wishlist-message-641400" style="display: none;"></span>
+						</div>
+					
+					<!-- Compare -->
+											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_641400_si" href="javascript:cmscompare.set('catalog_catalogproduct_641400_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
+        <span>
+            <small class="l1">Dodaj v primerjavo</small>
+            <small class="l2">Odstrani iz primerjave</small>
+        </span>
+        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_641400_si" style="display:none;"></span>
+    </a>
+</div>									</div>
+				
+									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('641400_0', '_tracking:index', 'simple_loader', 'simple', 3)">
+													<span>V košarico</span>
+												
+					</a>
+							</div>
+		</div>
+			</article>
+
+				<article class="clear cp" data-tracking_gtm_impression="27|621320|">
+        <span style="display: none;" data-product_manufacturer_title="621320_0">APPLE</span>
+        <span style="display: none;" data-product_category_title="621320_0">Pametne ure</span>
+        <span style="display: none;" data-product_title="621320_0">APPLE Watch Series 3 GPS 38mm Silver Aluminium White Band pametna ura</span>
+        <span style="display: none;" data-product_code="621320_0">621320</span>
+		<span style="display: none;" data-product_price="621320_0">198,99 €</span>
+
+        		
+		
+		
+				
+		
+					<div class="cp-badges">
+																						<div class="cp-badge cp-badge-discount">
+																<span>-11 %</span>
+								<div class="cp-badge-tooltip cp-badge-tooltip-discount">Prihranek <strong>27,00 €</strong></div>
+							</div>
+																		</div>
+		
+		
+		<!-- Wishlist -->
+				
+		<div class="cp-image-container">
+			<figure class="cp-image lloader">
+				<a href="https://www.bigbang.si/apple-watch-series-3-gps-38mm-silver-aluminium-white-band-pametna-ura-55517-izdelek-621320/">
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/621320/thumb/f0c3c57e4e7ec6a75f0235bc34931b1f619976f5c5907b5132_604d03c0225e3_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/621320/thumb/f0c3c57e4e7ec6a75f0235bc34931b1f619976f5c5907b5132_604d03c0225e3_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="621320_0" alt="" />
+				</a>
+			</figure>
+
+					</div>
+		
+		<div class="clear cp-cnt">
+						
+			<div class="cp-cnt-comment">
+				<!-- Rating -->
+									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_621320_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
+    								<!-- Comments -->
+									<div class="cp-comment-count comments-count catalog-comment-count">
+						<a title="" href="https://www.bigbang.si/apple-watch-series-3-gps-38mm-silver-aluminium-white-band-pametna-ura-55517-izdelek-621320/#comments_data_catalogproduct_621320_si">
+							(0)
+						</a>
+					</div>
+							</div>
+
+			<div class="cp-code" data-product_code="621320_0">621320</div>
+							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/pametne-ure/">Pametne ure</a></div>	
+						<h2 class="cp-title">
+				<a href="https://www.bigbang.si/apple-watch-series-3-gps-38mm-silver-aluminium-white-band-pametna-ura-55517-izdelek-621320/" data-product_title="621320_0">
+											APPLE Watch Series 3 GPS 38mm Silver Aluminium White Band pametna ura	
+									</a>
+			</h2>
+		</div>
+
+
+					<div class="cp-price">
+					
+                    
+                    						<div class="cp-old-price line-through" data-product_basic_price="621320_0">225,99 €</div>
+						<div class="cp-current-price cp-discount-price red" data-product_price="621320_0">198,99 €</div>
+												</div>
+		
+		<div class="available-qty">
+            									<span><strong>Na zalogi v Big Bangu</strong></span>
+							            		</div>
+			
+		<div class="cp-bottom">
+			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
+			 
+						
+			<div class="cp-btn-cnt">
+				<div class="cp-btn-cnt-col1">
+					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
+					<!-- Wishlist -->
+											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_621320_si">
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_621320_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_621320_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_621320_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_621320_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_621320_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_621320_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
+							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_621320_si wishlist-message wishlist-message-621320" style="display: none;"></span>
+						</div>
+					
+					<!-- Compare -->
+											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_621320_si" href="javascript:cmscompare.set('catalog_catalogproduct_621320_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
+        <span>
+            <small class="l1">Dodaj v primerjavo</small>
+            <small class="l2">Odstrani iz primerjave</small>
+        </span>
+        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_621320_si" style="display:none;"></span>
+    </a>
+</div>									</div>
+				
+									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('621320_0', '_tracking:index', 'simple_loader', 'simple', 3)">
+													<span>V košarico</span>
+												
+					</a>
+							</div>
+		</div>
+			</article>
+
+				<article class="clear cp" data-tracking_gtm_impression="28|680518|">
+        <span style="display: none;" data-product_manufacturer_title="680518_0">APPLE</span>
+        <span style="display: none;" data-product_category_title="680518_0">Pametne ure</span>
+        <span style="display: none;" data-product_title="680518_0">APPLE Watch SE GPS, 44mm Gold Aluminium Case with Pink Sand Sport Band pametna ura</span>
+        <span style="display: none;" data-product_code="680518_0">680518</span>
+		<span style="display: none;" data-product_price="680518_0">339,00 €</span>
+
+        		
+		
+		
+				
+		
+					<div class="cp-badges">
+							</div>
+		
+		
+		<!-- Wishlist -->
+				
+		<div class="cp-image-container">
+			<figure class="cp-image lloader">
+				<a href="https://www.bigbang.si/apple-watch-se-gps-44mm-gold-aluminium-case-with-pink-sand-sport-band-pametna-ura-154232-izdelek-680518/">
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680518/thumb/bd9aaf0cf78d27daa90afacd467c39c78c25712a02542e1209_604f31cfe02ab_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/680518/thumb/bd9aaf0cf78d27daa90afacd467c39c78c25712a02542e1209_604f31cfe02ab_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680518_0" alt="" />
+				</a>
+			</figure>
+
+					</div>
+		
+		<div class="clear cp-cnt">
+						
+			<div class="cp-cnt-comment">
+				<!-- Rating -->
+									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680518_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
+    								<!-- Comments -->
+									<div class="cp-comment-count comments-count catalog-comment-count">
+						<a title="" href="https://www.bigbang.si/apple-watch-se-gps-44mm-gold-aluminium-case-with-pink-sand-sport-band-pametna-ura-154232-izdelek-680518/#comments_data_catalogproduct_680518_si">
+							(0)
+						</a>
+					</div>
+							</div>
+
+			<div class="cp-code" data-product_code="680518_0">680518</div>
+							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/pametne-ure/">Pametne ure</a></div>	
+						<h2 class="cp-title">
+				<a href="https://www.bigbang.si/apple-watch-se-gps-44mm-gold-aluminium-case-with-pink-sand-sport-band-pametna-ura-154232-izdelek-680518/" data-product_title="680518_0">
+											APPLE Watch SE GPS, 44mm Gold Aluminium Case with Pink Sand Sport Band pametna ura	
+									</a>
+			</h2>
+		</div>
+
+
+					<div class="cp-price">
+					
+                    
+                    						<div class="cp-current-price" data-product_price="680518_0">339,00 €</div>
+												</div>
+		
+		<div class="available-qty">
+            									<span><strong>Na zalogi v Big Bangu</strong></span>
+							            		</div>
+			
+		<div class="cp-bottom">
+			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
+			 
+						
+			<div class="cp-btn-cnt">
+				<div class="cp-btn-cnt-col1">
+					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
+					<!-- Wishlist -->
+											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_680518_si">
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680518_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_680518_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680518_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680518_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_680518_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680518_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
+							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_680518_si wishlist-message wishlist-message-680518" style="display: none;"></span>
+						</div>
+					
+					<!-- Compare -->
+											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_680518_si" href="javascript:cmscompare.set('catalog_catalogproduct_680518_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
+        <span>
+            <small class="l1">Dodaj v primerjavo</small>
+            <small class="l2">Odstrani iz primerjave</small>
+        </span>
+        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_680518_si" style="display:none;"></span>
+    </a>
+</div>									</div>
+				
+									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('680518_0', '_tracking:index', 'simple_loader', 'simple', 3)">
+													<span>V košarico</span>
+												
+					</a>
+							</div>
+		</div>
+			</article>
+
+				<article class="clear cp" data-tracking_gtm_impression="29|680520|">
+        <span style="display: none;" data-product_manufacturer_title="680520_0">APPLE</span>
+        <span style="display: none;" data-product_category_title="680520_0">Pametne ure</span>
+        <span style="display: none;" data-product_title="680520_0">APPLE Watch SE GPS, 44mm Space Gray Aluminium Black Sport Band pametna ura</span>
+        <span style="display: none;" data-product_code="680520_0">680520</span>
+		<span style="display: none;" data-product_price="680520_0">339,00 €</span>
+
+        		
+		
+		
+				
+		
+					<div class="cp-badges">
+							</div>
+		
+		
+		<!-- Wishlist -->
+				
+		<div class="cp-image-container">
+			<figure class="cp-image lloader">
+				<a href="https://www.bigbang.si/apple-watch-se-gps-44mm-space-gray-aluminium-black-sport-band-pametna-ura-154235-izdelek-680520/">
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680520/thumb/ee1c83a49ec9f0696f2737b9df0ad7c22c2c60b4aea4973c45_604f31cfb4782_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/680520/thumb/ee1c83a49ec9f0696f2737b9df0ad7c22c2c60b4aea4973c45_604f31cfb4782_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680520_0" alt="" />
+				</a>
+			</figure>
+
+					</div>
+		
+		<div class="clear cp-cnt">
+						
+			<div class="cp-cnt-comment">
+				<!-- Rating -->
+									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680520_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
+    								<!-- Comments -->
+									<div class="cp-comment-count comments-count catalog-comment-count">
+						<a title="" href="https://www.bigbang.si/apple-watch-se-gps-44mm-space-gray-aluminium-black-sport-band-pametna-ura-154235-izdelek-680520/#comments_data_catalogproduct_680520_si">
+							(0)
+						</a>
+					</div>
+							</div>
+
+			<div class="cp-code" data-product_code="680520_0">680520</div>
+							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/pametne-ure/">Pametne ure</a></div>	
+						<h2 class="cp-title">
+				<a href="https://www.bigbang.si/apple-watch-se-gps-44mm-space-gray-aluminium-black-sport-band-pametna-ura-154235-izdelek-680520/" data-product_title="680520_0">
+											APPLE Watch SE GPS, 44mm Space Gray Aluminium Black Sport Band pametna ura	
+									</a>
+			</h2>
+		</div>
+
+
+					<div class="cp-price">
+					
+                    
+                    						<div class="cp-current-price" data-product_price="680520_0">339,00 €</div>
+												</div>
+		
+		<div class="available-qty">
+            									<span><strong>Na zalogi v Big Bangu</strong></span>
+							            		</div>
+			
+		<div class="cp-bottom">
+			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
+			 
+						
+			<div class="cp-btn-cnt">
+				<div class="cp-btn-cnt-col1">
+					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
+					<!-- Wishlist -->
+											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_680520_si">
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680520_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_680520_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680520_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680520_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_680520_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680520_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
+							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_680520_si wishlist-message wishlist-message-680520" style="display: none;"></span>
+						</div>
+					
+					<!-- Compare -->
+											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_680520_si" href="javascript:cmscompare.set('catalog_catalogproduct_680520_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
+        <span>
+            <small class="l1">Dodaj v primerjavo</small>
+            <small class="l2">Odstrani iz primerjave</small>
+        </span>
+        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_680520_si" style="display:none;"></span>
+    </a>
+</div>									</div>
+				
+									<a class="btn btn-green cp-btn-addtocart" title="V košarico" href="javascript:cmswebshop.shopping_cart.add('680520_0', '_tracking:index', 'simple_loader', 'simple', 3)">
+													<span>V košarico</span>
+												
+					</a>
+							</div>
+		</div>
+			</article>
+
+				<article class="clear cp" data-tracking_gtm_impression="30|680512|">
+        <span style="display: none;" data-product_manufacturer_title="680512_0">APPLE</span>
+        <span style="display: none;" data-product_category_title="680512_0">Pametne ure</span>
+        <span style="display: none;" data-product_title="680512_0">APPLE Watch SE GPS, 40mm Gold Aluminium Pink Sand Sport Band pametna ura</span>
+        <span style="display: none;" data-product_code="680512_0">680512</span>
+		<span style="display: none;" data-product_price="680512_0">309,00 €</span>
+
+        		
+		
+		
+				
+		
+					<div class="cp-badges">
+							</div>
+		
+		
+		<!-- Wishlist -->
+				
+		<div class="cp-image-container">
+			<figure class="cp-image lloader">
+				<a href="https://www.bigbang.si/apple-watch-se-gps-40mm-gold-aluminium-pink-sand-sport-band-pametna-ura-154218-izdelek-680512/">
+					<img data-lazy="https://www.bigbang.si/upload/catalog/product/680512/thumb/2af3999e9d46125a16026a4f5f5bd2cf6aee0e926eedcb9504_604f31d0a18a2_285x285r.jpeg"  data-original="https://www.bigbang.si/upload/catalog/product/680512/thumb/2af3999e9d46125a16026a4f5f5bd2cf6aee0e926eedcb9504_604f31d0a18a2_285x285r.jpeg" width="285" height="285" src="/media/images/no-image-285.jpg" data-css="lazyload"   title="" data-product_main_image="680512_0" alt="" />
+				</a>
+			</figure>
+
+					</div>
+		
+		<div class="clear cp-cnt">
+						
+			<div class="cp-cnt-comment">
+				<!-- Rating -->
+									             <span class="cp-rate rates-container add_rate add_rate_catalogproduct_680512_si" data-rates="0.0000" data-rates_votes="0" data-rates_sum="0"></span>
+    								<!-- Comments -->
+									<div class="cp-comment-count comments-count catalog-comment-count">
+						<a title="" href="https://www.bigbang.si/apple-watch-se-gps-40mm-gold-aluminium-pink-sand-sport-band-pametna-ura-154218-izdelek-680512/#comments_data_catalogproduct_680512_si">
+							(0)
+						</a>
+					</div>
+							</div>
+
+			<div class="cp-code" data-product_code="680512_0">680512</div>
+							<div class="cp-category"><a href="https://www.bigbang.si/izdelki/sport-prosti-cas/nosljiva-tehnologija/pametne-ure/">Pametne ure</a></div>	
+						<h2 class="cp-title">
+				<a href="https://www.bigbang.si/apple-watch-se-gps-40mm-gold-aluminium-pink-sand-sport-band-pametna-ura-154218-izdelek-680512/" data-product_title="680512_0">
+											APPLE Watch SE GPS, 40mm Gold Aluminium Pink Sand Sport Band pametna ura	
+									</a>
+			</h2>
+		</div>
+
+
+					<div class="cp-price">
+					
+                    
+                    						<div class="cp-current-price" data-product_price="680512_0">309,00 €</div>
+												</div>
+		
+		<div class="available-qty">
+            				<span><strong>Zadnji kosi</strong></span>
+			            		</div>
+			
+		<div class="cp-bottom">
+			<!-- FIXME PROG kod odabira druge boje mijenja se i slika proizvoda u toj boji -->
+			 
+						
+			<div class="cp-btn-cnt">
+				<div class="cp-btn-cnt-col1">
+					<!-- FIXME PROG proizvodi se defaultno nalaze u uporedilici i wishlisti; proizvod je dodan u wishlistu, ali se prikazuje gumb za dodavanje -->
+					<!-- Wishlist -->
+											<div class="cp-wishlist wishlist" data-wishlist_item_active="catalog_catalogproduct_680512_si">
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680512_si', '+', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-add wishlist_set_catalog_catalogproduct_680512_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680512_si" title="Dodaj v seznam želja">Dodaj v seznam želja</a>
+							<a href="javascript:cmswishlist.set('catalog_catalogproduct_680512_si', 'remove', '', 2, '_tracking:index');" class="cp-btn cp-wishlist-btn cp-wishlist-remove wishlist_set_catalog_catalogproduct_680512_si" data-fancybox_w="560" data-wishlist_item_active="catalog_catalogproduct_680512_si" title="Odstrani s seznama želja.">Odstrani s seznama želja.</a>
+							<span class="product-in-wishlist wishlist_message wishlist_message_catalog_catalogproduct_680512_si wishlist-message wishlist-message-680512" style="display: none;"></span>
+						</div>
+					
+					<!-- Compare -->
+											<div class="cp-compare-container">    <a class="cp-compare cp-btn compare compare_set_catalog_catalogproduct_680512_si" href="javascript:cmscompare.set('catalog_catalogproduct_680512_si', '+', '', '_tracking:index');" data-compare_operation="+|remove"  data-compare_change_tooltip="1" title="Dodaj v primerjavo" >
+        <span>
+            <small class="l1">Dodaj v primerjavo</small>
+            <small class="l2">Odstrani iz primerjave</small>
+        </span>
+        <span class="cp-compare-info compare_message compare_message_catalog_catalogproduct_680512_si" style="display:none;"></span>
+    </a>
+</div>									</div>
+				
+									<a class="btn btn-green cp-btn-addtocart cp-btn-details" title="Več informacij" href="https://www.bigbang.si/apple-watch-se-gps-40mm-gold-aluminium-pink-sand-sport-band-pametna-ura-154218-izdelek-680512/">
+						<span>Več informacij</span>
+					</a>
+							</div>
+		</div>
+			</article>
+
 				</div>
 
 	<p class="pagination">			<span class="pagination-details" style="display: none">
-			Prikazano <span class="pagination-page">1-30</span> od <span class="pagination-total">52</span>
+			Prikazano <span class="pagination-page">1-30</span> od <span class="pagination-total">51</span>
 		</span>
 	
 			
@@ -4806,9 +4862,9 @@
 				<a data-shorcut="n p" href="/izdelki/?search_q=apple+watch&amp;securecode=main_search&amp;page=2" rel="next" class="next_page" title="Sljedeća">›</a>
 		</p>		<div class="load-more-container c-load-more-container">
 		<div class="pagination-status load-status">
-			<div class="pagination-status-label">Prikazanih <span class="next_page_first_item">31</span> od 52 izdelkov</div>
+			<div class="pagination-status-label">Prikazanih <span class="next_page_first_item">31</span> od 51 izdelkov</div>
 			<div class="pagination-status-bar">
-				<div class="pagination-status-bar-bg next_page_last_item_percent" style="width: 58%"></div>
+				<div class="pagination-status-bar-bg next_page_last_item_percent" style="width: 59%"></div>
 			</div>
 		</div>
 		<a href="javascript:void(0);" class="btn btn-white btn-medium load-more btn-load-more" style="display: none;">Prikaži več izdelkov</a>
@@ -4940,7 +4996,7 @@ Prijavi se na e-novice in prvi prejmi najnovejše popuste.</div>
 								<a class="support-tel" href="tel:+38613626000">01 362 60 00</a>
 
 
-<p><span><a class="support-mail" href="/cdn-cgi/l/email-protection#fe9b8e8c919a9f949fbe9c97999c9f9099d08d97"><span class="__cf_email__" data-cfemail="ceabbebca1aaafa4af8eaca7a9acafa0a9e0bda7">[email&#160;protected]</span></a></span></p>
+<p><span><a class="support-mail" href="/cdn-cgi/l/email-protection#167366647972777c7756747f717477787138657f"><span class="__cf_email__" data-cfemail="1f7a6f6d707b7e757e5f7d76787d7e7178316c76">[email&#160;protected]</span></a></span></p>
 
 <p><span class="support-opening-hours">Ponedeljek - Sobota: 9:00 - 20:00 </span></p>
 							</div>
@@ -4990,7 +5046,7 @@ Prijavi se na e-novice in prvi prejmi najnovejše popuste.</div>
 </script>
 <noscript>
 <div class="browser-note"></div>
-</noscript>	<script src="/upload/min/js_gdefault_si_2a279e878742e74ba78a3f24683cdd50.js" ></script>		<div class="gdpr-container-wrapper no-cookie">
+</noscript>	<script src="/upload/min/js_gdefault_si_899a3b583dda1374500ae9ba216431c1.js" ></script>		<div class="gdpr-container-wrapper no-cookie">
 						    <style>
 	.gdpr-container-wrapper{background: #fff; box-shadow: 0px 0px 20px rgba(0,0,0,.2); position: fixed; max-height: 100vh; overflow: auto; left: 0; bottom: 0; right: 0; z-index: 100;}
 	.cookie-warning-wrapper{padding: 20px 30px;}

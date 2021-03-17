@@ -36,6 +36,12 @@
                         <input type="checkbox" class="form-check-input" id="filterSlo" name="filter" value="onlySlovenianStores">
                         <label class="form-check-label" for="filterSlo">Samo slovenske trgovine</label>
                     </div>
+                    <div class="dropdown">
+                      <button type="button" class="btn btn-secondary dropdown-toggle">Izbira ponudnikov</button>
+                      <button type="button" class="btn btn-secondary">Shrani v datoteko</button>
+                    </div>
+
+
                     <div class="mb-3 w-100 text-end">
                         <button type="submit" class="btn btn-prim">Išči</button>
                     </div>
@@ -57,7 +63,19 @@
                                     <div class="card-thumbnail" style="background-color: gray;"></div>
                                 {% endif %}
                                 <div class="card-body">
-                                    <h5 class="card-title">{{product.1}}</h5>
+                                    <h5 class="card-title">{{product.1}}
+                                        {% if product.4 %}
+                                            <div>
+                                                <div class="dot bggreen"></div>
+                                                <span class="green stock">Na zalogi</span>
+                                            </div>
+                                        {% else %}
+                                            <div>
+                                                <div class="dot bgred"></div>
+                                                <span class="red stock">Ni na zalogi!</span>
+                                            </div>
+                                        {% endif %}
+                                    </h5>
                                     <p class="card-text">{{product.0}}<p>
                                     <a href="{{product.2}}" class="btn btn-prim">Več o ponudbi</a>
                                 </div>
@@ -71,6 +89,8 @@
                     </div>
                 </div>
             {% endfor %}
+        {% else %}
+            <div>Žal, ni izdelkov.</div>
         {% endif %}
     </div>
 

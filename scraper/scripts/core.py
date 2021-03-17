@@ -13,13 +13,10 @@ def getProductsFromAllSites(query, excludeWords, filters):
         clearInput = excludeWords.replace(" ", "")
         excluded = list(map(str.lower, clearInput.split(",")))  # split excluded words and put them all to lowercae
 
-    print('TEST', str(filters), 'TEST2')
+
     for site in sites:
         isSlovene = checkIsSlovene(site)
         isClassified = checkIsClassified(site)
-
-        print("isSlovene", isSlovene)
-        print("isClass", isClassified)
 
         products = getProductsFromSite(site, query, excluded, filters, isSlovene, isClassified)
         allProducts[site.pageName] = products
@@ -46,7 +43,7 @@ def getProductsFromSite(site, query, excluded, filters, isSlovene, isClassified)
 
         if ("stock" in filters and inStock) or ("stock" not in filters):
             if len(excluded)<1 or checkIfWordInList(excluded, productName):
-                res.append([productName, price, productUrl, productThumbnail])
+                res.append([productName, price, productUrl, productThumbnail, inStock])
 
 
     return res
